@@ -39,7 +39,7 @@ async def explore(interaction: discord.Interaction, session: aiohttp.ClientSessi
         view = discord.ui.View()
         if candidates:  # add footer only if candidates are available
             embed.set_footer(
-                text=r"> 可能性の高い単語:" + "\n" + "\n".join(candidates)
+                text=r"⎯⎯⎯⎯⎯⎯⎯ 可能性の高い単語 ⎯⎯⎯⎯⎯⎯⎯" + "\n" + "\n".join(candidates)
             )
             view.add_item(CandidateSelector(session, options))
         await interaction.response.send_message(embed=embed, view=view)
@@ -47,8 +47,9 @@ async def explore(interaction: discord.Interaction, session: aiohttp.ClientSessi
 
     # -------------- listed word ----------------
     # build embed
-    embed = discord.Embed(title=query, color=0x70ffb7)
-    embed.description = data["explanation"]["content"]
+    c = int(60/len(query))
+    embed = discord.Embed(title=f"[{' '*c}**{query}**{' '*c}]", color=0x70ffb7)
+    embed.description =data["explanation"]["content"]
     view = discord.ui.View()
     view.add_item(discord.ui.Button(
         label="英単語",
@@ -64,7 +65,7 @@ async def explore(interaction: discord.Interaction, session: aiohttp.ClientSessi
     if results:  # listed word
         derivation = results[0].text_content().strip().replace("⇒", "⇒\n")
         related = results[1].text_content().strip().replace("\n", ", ")
-        embed.set_footer(text=f"> 語源:\n{derivation}\n\n> 関連語:\n{related}")
+        embed.set_footer(text=f"⎯⎯⎯⎯⎯⎯⎯ 語源 ⎯⎯⎯⎯⎯⎯⎯\n{derivation}\n\n⎯⎯⎯⎯⎯⎯⎯ 関連語 ⎯⎯⎯⎯⎯⎯⎯\n{related}")
         related_meta = [word.split("（")[0].strip() for word in related.split(",")]  # extract raw word
         related_meta = list(dict.fromkeys(related_meta))  # remove duplicated word from list
         options = [discord.SelectOption(label=word, value=word) for word in related_meta]
