@@ -23,8 +23,9 @@ async def explore(interaction: discord.Interaction, session: aiohttp.ClientSessi
         return
     data = json.loads(results[0].text)
     # -------------- not listed word ----------------
+    c = int(60 / len(query))
     if not data:
-        embed = discord.Embed(title=query, color=0xff7070)
+        embed = discord.Embed(title=f"({' ' * c}{query}{' ' * c})", color=0xff7070)
         embed.description = "英単語が見つかりません"
         results = fromstring(html).xpath("//div[@class = 'nrCntSgWrp']")
         candidates = []
@@ -39,7 +40,7 @@ async def explore(interaction: discord.Interaction, session: aiohttp.ClientSessi
         view = discord.ui.View()
         if candidates:  # add footer only if candidates are available
             embed.set_footer(
-                text=r"⎯⎯⎯⎯⎯⎯⎯ 可能性の高い単語 ⎯⎯⎯⎯⎯⎯⎯" + "\n" + "\n".join(candidates)
+                text=r"⎯⎯⎯⎯⎯⎯ 可能性の高い単語 ⎯⎯⎯⎯⎯⎯" + "\n" + "\n".join(candidates)
             )
             view.add_item(CandidateSelector(session, options))
         await interaction.response.send_message(embed=embed, view=view)
@@ -47,9 +48,8 @@ async def explore(interaction: discord.Interaction, session: aiohttp.ClientSessi
 
     # -------------- listed word ----------------
     # build embed
-    c = int(60/len(query))
-    embed = discord.Embed(title=f"[{' '*c}**{query}**{' '*c}]", color=0x70ffb7)
-    embed.description =data["explanation"]["content"]
+    embed = discord.Embed(title=f"[{' ' * c}**{query}**{' ' * c}]", color=0x70ffb7)
+    embed.description = data["explanation"]["content"]
     view = discord.ui.View()
     view.add_item(discord.ui.Button(
         label="英単語",
