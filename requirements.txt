@@ -1,5 +1,5 @@
 aiohttp
-flask
+flask[async]
 flask_localtunnel
 lxml
 python-dotenv

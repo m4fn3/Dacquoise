@@ -33,7 +33,6 @@ async def index():
                     param["weblio"] = data["explanation"]["content"]
 
             # gogen-edjから語源を取得
-            print(f"https://gogen-ejd.info/{query}/")
             resp = await session.get(
                 f"https://gogen-ejd.info/{query}/"
             )
@@ -44,7 +43,6 @@ async def index():
                 related = results[1].text_content().strip().split("\n")
                 related_meta = [{"label": word, "raw": word.split('（')[0].strip()} for word in related]
                 param["gogen_edj"] = [derivation, related_meta]
-            print(param)
         else:  # 古文単語
             param["gorogo"] = {}
             resp = await session.get(
