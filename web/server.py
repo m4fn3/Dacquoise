@@ -78,6 +78,7 @@ async def complete():  # 自動補完用
         return jsonify([{"label": word["lennma"], "category": word["explanationDescription"], "raw": word["lennma"]} for word in words])
     else:  # 古文単語
         words = [{"label": key, "raw": gorogo[key]} for key in gorogo.keys() if key.startswith(query)]
+        await session.close()
         return jsonify(words)
 
 
