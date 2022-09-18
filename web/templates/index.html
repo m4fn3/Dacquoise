@@ -1,0 +1,52 @@
+<head>
+    <title>Dacquoise</title>
+    <link rel="stylesheet" href="/static/css/jquery-ui.css" />
+    <link rel="stylesheet" href="/static/css/style.css" />
+    <script src="/static/js/jquery-3.6.1.js"></script>
+    <script src="/static/js/jquery-ui.js"></script>
+    <script src="/static/js/script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+</head>
+<body>
+<input type="text" id="keyword" placeholder="調べたい単語を入力">
+<div>
+    <label><input type="radio" name="mode" value="english" checked>英単語</label>
+    <label><input type="radio" name="mode" value="kobun">古文単語</label>
+</div>
+{% if def %}
+<script>$('input[name="mode"]').val(["{{ def }}"]);</script>
+{% endif %}
+{# ------------- 英単語 ------------- #}
+{% if weblio %}
+<h1>意味</h1>
+<p>{{ weblio }}</p>
+{% endif %}
+{% if gogen_edj %}
+<h1>語源</h1>
+    <p>
+    {% for text in gogen_edj[0] %}
+        {{ text }}<br>
+    {% endfor %}
+    </p>
+<h1>関連語</h1>
+    <p>
+    {% for meta in gogen_edj[1] %}
+        <a href="{{ url_for('index', mode='english', query=meta['raw'])}}">{{ meta["label"] }}</a><br>
+    {% endfor %}
+    </p>
+{% endif %}
+{# ------------- 古文単語 ------------- #}
+{% if core %}
+<h1>核心</h1>
+<p>{{ core }}</p>
+{% endif %}
+{% if gorogo %}
+<h1>解説</h1>
+<div><img style="max-width:75%" src="{{ gorogo['tit'] }}"></div>
+<div style="width: 70%">
+    <img style="width:70%;float:left" src="{{ gorogo['fig'] }}">
+    <img style="width:70%;float:left" src="{{ gorogo['imi'] }}">
+</div>
+<img style="height:50%;" src="{{ gorogo['goro'] }}">
+{% endif %}
+</body>

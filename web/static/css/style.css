@@ -1,0 +1,6 @@
+.gorogo {
+    display:flex;
+}
+.gorogo div {
+    display: inline-block;
+}
