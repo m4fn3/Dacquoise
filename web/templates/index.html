@@ -8,10 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 </head>
 <body>
-<input type="text" id="keyword" placeholder="調べたい単語を入力">
-<div>
-    <label><input type="radio" name="mode" value="english" checked>英単語</label>
-    <label><input type="radio" name="mode" value="kobun">古文単語</label>
+<div class="setting">
+    <input type="text" id="keyword" placeholder="調べたい単語を入力">
+    <div>
+        <label><input type="radio" name="mode" value="english" checked>英単語</label>
+        <label><input type="radio" name="mode" value="kobun">古文単語</label>
+    </div>
 </div>
 {% if def %}
 <script>$('input[name="mode"]').val(["{{ def }}"]);</script>
