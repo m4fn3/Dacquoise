@@ -1,1055 +1,2956 @@
 {
   "あく": {
-    "core": "｢満足する｣と｢飽きる｣は紙一重。"
+    "core": "｢満足する｣と｢飽きる｣は紙一重。",
+    "meanings": [
+      "①<span class='emp1'>十分満足する</span>  【飽く・厭く】",
+      "②飽きる  【飽く・厭く】"
+    ],
+    "page": 38
   },
   "おどろく": {
-    "core": "古典では、｢びっくりする｣という意味はまれ。"
+    "core": "古典では、｢びっくりする｣という意味はまれ。",
+    "meanings": [
+      "①<span class='emp1'>目を覚ます</span>  【驚く】",
+      "②<span class='emp2'>はっと気付く</span>  【驚く】",
+      "③びっくりする  【驚く】"
+    ],
+    "page": 38
   },
   "ながむ": {
-    "core": "①は｢眺む｣で｢ぼんやりと物思いする｣。②は｢詠む｣で｢詩を吟じる｣。"
+    "core": "①は｢眺む｣で｢ぼんやりと物思いする｣。②は｢詠む｣で｢詩を吟じる｣。",
+    "meanings": [
+      "①<span class='emp1'>物思いに沈む</span> <span class='emp2'>見渡す</span> ぼんやり見る  【眺む】",
+      "②<span class='emp2'>吟じる</span> (詩歌を)詠む  【詠む】"
+    ],
+    "page": 39
   },
   "ねんず": {
-    "core": "②｢我慢する｣が問われやすい。"
+    "core": "②｢我慢する｣が問われやすい。",
+    "meanings": [
+      "①(神仏に)<span class='emp1'>祈る</span>  【念ず】",
+      "②<span class='emp1'>我慢する</span>  【念ず】"
+    ],
+    "page": 40
   },
   "わぶ": {
-    "core": "失望・困惑・悩みなどの感情を抱くこと。"
+    "core": "失望・困惑・悩みなどの感情を抱くこと。",
+    "meanings": [
+      "①<span class='emp1'>思い嘆く</span> <span class='emp2'>心細く思う</span> 気落ちする  【侘ぶ・詫ぶ】",
+      "①<span class='emp2'>心細く思う</span> <span class='emp1'>思い嘆く</span> 気落ちする  【侘ぶ・詫ぶ】",
+      "③<span class='emp2'>～(し)かねる</span> ～(し)づらい  【侘ぶ・詫ぶ】",
+      "②<span class='emp2'>落ちぶれる</span>  【侘ぶ・詫ぶ】"
+    ],
+    "page": 40
   },
   "あくがる": {
-    "core": "｢あこがれる｣とは訳さない。"
+    "core": "｢あこがれる｣とは訳さない。",
+    "meanings": [
+      "①<span class='emp1'>離れさまよう</span> <span class='emp2'>浮かれ歩く</span>  【憧る】",
+      "②<span class='emp2'>落ち着かない</span> うわの空になる  【憧る】"
+    ],
+    "page": 41
   },
   "とぶらふ": {
-    "core": "①｢見舞う｣は｢訪｣の字を当てる。②｢とむらう｣(｢弔｣)は現代語に近い。"
+    "core": "①｢見舞う｣は｢訪｣の字を当てる。②｢とむらう｣(｢弔｣)は現代語に近い。",
+    "meanings": [
+      "①<span class='emp1'>見舞う</span> <span class='emp2'>たずねる</span>  【訪ふ】",
+      "②<span class='emp2'>とむらう</span> 冥福を祈る  【弔ふ】"
+    ],
+    "page": 42
   },
   "ののしる": {
-    "core": "｢罵倒する｣とは大違い。"
+    "core": "｢罵倒する｣とは大違い。",
+    "meanings": [
+      "①<span class='emp1'>大声で騒ぐ</span> <span class='emp2'>大騒ぎする</span> 大騒ぎで～(する)  【罵る】",
+      "①<span class='emp2'>大騒ぎする</span> <span class='emp1'>大声で騒ぐ</span> 大騒ぎで～(する)  【罵る】",
+      "②<span class='emp2'>評判が高い</span> <span class='emp2'>威勢がよい</span> うわさされる  【罵る】"
+    ],
+    "page": 42
   },
   "ありく": {
-    "core": "ただ｢歩く｣だけではない。｢歩きまわる｣の意味。"
+    "core": "ただ｢歩く｣だけではない。｢歩きまわる｣の意味。",
+    "meanings": [
+      "①<span class='emp1'>歩きまわる</span> <span class='emp1'>動きまわる</span>  【歩く】",
+      "②<span class='emp2'>いつも～(する)</span> <span class='emp2'>～(し)まわる</span>  【歩く】"
+    ],
+    "page": 43
   },
   "まもる": {
-    "core": "｢目(ま)｣＋｢守(も)る｣→｢見守る｣が原義。｢まぼる｣とも書く。"
+    "core": "｢目(ま)｣＋｢守(も)る｣→｢見守る｣が原義。｢まぼる｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>じっと見つめる</span> 見守る  【守る】",
+      "②<span class='emp2'>世話をする</span> 守る 守護する  【守る】",
+      "②守護する <span class='emp2'>世話をする</span> 守る  【守る】"
+    ],
+    "page": 44
   },
   "わづらふ": {
-    "core": "病気以外に、精神的な苦しみも表す。"
+    "core": "病気以外に、精神的な苦しみも表す。",
+    "meanings": [
+      "①<span class='emp1'>苦しむ</span> <span class='emp2'>悩む</span> <span class='emp2'>面倒に思う</span>  【煩ふ】",
+      "②<span class='emp2'>～(し)かねる</span>  【煩ふ】"
+    ],
+    "page": 44
   },
   "なやむ": {
-    "core": "主に病気など、身体的に苦しむ意。"
+    "core": "主に病気など、身体的に苦しむ意。",
+    "meanings": [
+      "①<span class='emp1'>苦しむ</span> <span class='emp2'>病気になる</span>  【悩む】",
+      "②非難する  【悩む】"
+    ],
+    "page": 45
   },
   "おこたる": {
-    "core": "｢中断する｣が原義→病気が中断→病気がなおる。"
+    "core": "｢中断する｣が原義→病気が中断→病気がなおる。",
+    "meanings": [
+      "①<span class='emp1'>(病気が)なおる</span>  【怠る】",
+      "②<span class='emp2'>中断する</span> 休止する  【怠る】"
+    ],
+    "page": 46
   },
   "あきらむ": {
-    "core": "｢あきらめる｣とは訳さない。"
+    "core": "｢あきらめる｣とは訳さない。",
+    "meanings": [
+      "①<span class='emp1'>明らかにする</span>  【明らむ】",
+      "②(憂さなどを)<span class='emp2'>晴らす</span> (心中を)<span class='emp2'>明かす</span>  【明らむ】"
+    ],
+    "page": 46
   },
   "かなし": {
-    "core": "｢愛し｣は｢かわいい｣、｢悲(哀)し｣は｢気の毒だ｣。"
+    "core": "｢愛し｣は｢かわいい｣、｢悲(哀)し｣は｢気の毒だ｣。",
+    "meanings": [
+      "①<span class='emp1'>かわいい</span> いとしい  【愛し】",
+      "②<span class='emp2'>心ひかれる</span>  【愛し】",
+      "③<span class='emp2'>不憫(ふびん)だ</span> 悲しい <span class='emp2'>気の毒だ</span>  【悲し・哀し】"
+    ],
+    "page": 47
   },
   "こころにくし": {
-    "core": "｢心《憎し》｣に現代語の｢憎い｣の意味はない。"
+    "core": "｢心《憎し》｣に現代語の｢憎い｣の意味はない。",
+    "meanings": [
+      "①<span class='emp1'>奥ゆかしい</span> <span class='emp2'>上品だ</span> 心がひかれる  【心憎し】"
+    ],
+    "page": 48
   },
   "うつくし": {
-    "core": "小さいもの・幼いものをいつくしむ気持ち。"
+    "core": "小さいもの・幼いものをいつくしむ気持ち。",
+    "meanings": [
+      "①<span class='emp1'>かわいらしい</span>  【美し】",
+      "②<span class='emp2'>立派だ</span> 見事だ  【美し】"
+    ],
+    "page": 48
   },
   "めでたし": {
-    "core": "最大級の称賛。５段階評価なら５に相当。"
+    "core": "最大級の称賛。５段階評価なら５に相当。",
+    "meanings": [
+      "①<span class='emp1'>すばらしい</span> <span class='emp2'>見事だ</span> <span class='emp2'>幸運だ</span>  【愛でたし】",
+      "②喜ばしい 祝うべきだ  【愛でたし】"
+    ],
+    "page": 49
   },
   "なまめかし": {
-    "core": "｢なま｣(｢若々しく美しい｣の意)から、｢優雅｣の意味に。"
+    "core": "｢なま｣(｢若々しく美しい｣の意)から、｢優雅｣の意味に。",
+    "meanings": [
+      "①<span class='emp1'>優雅だ</span> <span class='emp2'>優美だ</span> 上品だ  【艶めかし・生めかし】",
+      "②<span class='emp2'>みずみずしい</span> <span class='emp2'>若々しい</span>  【艶めかし・生めかし】"
+    ],
+    "page": 50
   },
   "ありがたし": {
-    "core": "｢あることが難しい｣から、｢めったにない｣の意味に。"
+    "core": "｢あることが難しい｣から、｢めったにない｣の意味に。",
+    "meanings": [
+      "①<span class='emp1'>めったにない</span> <span class='emp2'>めったにないほど立派だ</span>  【有り難し】",
+      "①<span class='emp2'>めったにないほど立派だ</span> <span class='emp1'>めったにない</span>  【有り難し】",
+      "③(実現が)<span class='emp2'>むずかしい</span> 困難だ  【有り難し】",
+      "②<span class='emp2'>生きるのがむずかしい</span>  【有り難し】"
+    ],
+    "page": 50
   },
   "はづかし": {
-    "core": "①｢立派だ｣の、相手をたたえる意が大切。"
+    "core": "①｢立派だ｣の、相手をたたえる意が大切。",
+    "meanings": [
+      "①<span class='emp2'>(こちらが気がひけるほど相手が)</span> <span class='emp1'>立派だ</span>  【恥づかし】",
+      "②<span class='emp2'>気後れする</span> 気がひける きまりが悪い  【恥づかし】"
+    ],
+    "page": 51
   },
   "やさし": {
-    "core": "｢痩す｣(痩せる)ほど恥ずかしがる様子は、優美なもの。"
+    "core": "｢痩す｣(痩せる)ほど恥ずかしがる様子は、優美なもの。",
+    "meanings": [
+      "①<span class='emp1'>恥ずかしい</span> <span class='emp2'>堪え難い</span> <span class='emp2'>つらい</span>  【羞し・優し】",
+      "②<span class='emp2'>優美だ</span> 上品だ  【羞し・優し】"
+    ],
+    "page": 52
   },
   "めづらし": {
-    "core": "現代語の｢珍しい｣とはニュアンスが違う。"
+    "core": "現代語の｢珍しい｣とはニュアンスが違う。",
+    "meanings": [
+      "①<span class='emp1'>すばらしい</span> 好ましい  【珍し】",
+      "②<span class='emp2'>めったにない</span> 例がない  【珍し】",
+      "③<span class='emp2'>目新しい</span> 新鮮だ  【珍し】"
+    ],
+    "page": 52
   },
   "なつかし": {
-    "core": "古典では｢昔を懐かしむ｣の意味は薄い。"
+    "core": "古典では｢昔を懐かしむ｣の意味は薄い。",
+    "meanings": [
+      "①<span class='emp1'>親しみが持てる</span> かわいい いとしい  【懐かし】",
+      "②<span class='emp2'>慕わしい</span> <span class='emp2'>心ひかれる</span>  【懐かし】"
+    ],
+    "page": 53
   },
   "おとなし": {
-    "core": "｢大人(おとな)らしい｣＝｢おとなし｣と覚える。"
+    "core": "｢大人(おとな)らしい｣＝｢おとなし｣と覚える。",
+    "meanings": [
+      "①<span class='emp1'>おとなびている</span> <span class='emp1'>主(おも)だっている</span> 大人(おとな)らしい  【大人し】",
+      "②<span class='emp2'>思慮分別がある</span> <span class='emp2'>落ち着いている</span>  【大人し】",
+      "③<span class='emp2'>年配である</span>  【大人し】"
+    ],
+    "page": 54
   },
   "さうざうし": {
-    "core": "｢騒々しい｣とは全くの別語。"
+    "core": "｢騒々しい｣とは全くの別語。",
+    "meanings": [
+      "①<span class='emp1'>物足りない</span> <span class='emp2'>寂しい</span> つまらない"
+    ],
+    "page": 54
   },
   "あぢきなし": {
-    "core": "現代語の｢味気ない｣とはニュアンスが違う。"
+    "core": "現代語の｢味気ない｣とはニュアンスが違う。",
+    "meanings": [
+      "①<span class='emp1'>おもしろくない</span> 苦々しい",
+      "②<span class='emp2'>どうにもならない</span>",
+      "③<span class='emp2'>つまらない</span> 無益だ",
+      "③無益だ <span class='emp2'>つまらない</span>"
+    ],
+    "page": 55
   },
   "すさまじ": {
-    "core": "現代語の｢すさまじい｣の意味で訳さないこと。"
+    "core": "現代語の｢すさまじい｣の意味で訳さないこと。",
+    "meanings": [
+      "①<span class='emp1'>殺風景だ</span> 寂しい  【凄まじ】",
+      "②<span class='emp2'>興ざめだ</span> ひどい おもしろくない  【凄まじ】"
+    ],
+    "page": 56
   },
   "あやし": {
-    "core": "｢怪し｣は①｢不思議だ｣、｢賤し｣は②｢卑しい・粗末だ｣。"
+    "core": "｢怪し｣は①｢不思議だ｣、｢賤し｣は②｢卑しい・粗末だ｣。",
+    "meanings": [
+      "①<span class='emp1'>不思議だ</span> 異常だ 不都合だ  【怪し】",
+      "②<span class='emp2'>(身分が)卑しい</span> みすぼらしい 粗末だ  【賤し】"
+    ],
+    "page": 56
   },
   "あさまし": {
-    "core": "｢驚きあきれるほど…｣。｢…｣は文脈から判断する。"
+    "core": "｢驚きあきれるほど…｣。｢…｣は文脈から判断する。",
+    "meanings": [
+      "①<span class='emp1'>驚きあきれるほどだ</span> 意外だ  【浅まし】",
+      "②<span class='emp2'>嘆かわしい</span> 興ざめだ  【浅まし】"
+    ],
+    "page": 57
   },
   "つらし": {
-    "core": "自分が｢つらい｣のではなく、相手が｢薄情だ｣の意。"
+    "core": "自分が｢つらい｣のではなく、相手が｢薄情だ｣の意。",
+    "meanings": [
+      "①<span class='emp1'>薄情だ</span> 冷淡だ  【辛し】",
+      "②<span class='emp2'>恨めしい</span> 苦痛だ  【辛し】"
+    ],
+    "page": 58
   },
   "こころぐるし": {
-    "core": "｢心苦しい｣(申し訳ない)ではない。"
+    "core": "｢心苦しい｣(申し訳ない)ではない。",
+    "meanings": [
+      "①<span class='emp1'>つらい</span> 切ない  【心苦し】",
+      "②<span class='emp2'>気の毒だ</span> 気がかりだ  【心苦し】"
+    ],
+    "page": 58
   },
   "わびし": {
-    "core": "｢わぶ｣と同じく、失望や困難、悩みのニュアンス。"
+    "core": "｢わぶ｣と同じく、失望や困難、悩みのニュアンス。",
+    "meanings": [
+      "①<span class='emp1'>つらい</span> <span class='emp2'>苦しい</span> 悲しい  【侘びし】",
+      "②<span class='emp2'>つまらない</span> 興ざめだ  【侘びし】",
+      "③みすぼらしい 貧しい  【侘びし】"
+    ],
+    "page": 59
   },
   "あたらし": {
-    "core": "｢新し｣よりも｢可惜し｣(惜しい)が大切。"
+    "core": "｢新し｣よりも｢可惜し｣(惜しい)が大切。",
+    "meanings": [
+      "①<span class='emp1'>惜しい</span> <span class='emp2'>もったいない</span>  【可惜し】",
+      "②<span class='emp2'>すばらしい</span> 立派だ  【可惜し】"
+    ],
+    "page": 60
   },
   "うしろめたし": {
-    "core": "｢後ろから見て気がかりだ｣が原義。"
+    "core": "｢後ろから見て気がかりだ｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>気がかりだ</span> <span class='emp2'>心配だ</span>  【後ろめたし】",
+      "①<span class='emp2'>心配だ</span> <span class='emp1'>気がかりだ</span>  【後ろめたし】"
+    ],
+    "page": 60
   },
   "むつかし": {
-    "core": "｢むずかる｣(古語では｢むつかる｣)＝｢不快に思う｣から連想。"
+    "core": "｢むずかる｣(古語では｢むつかる｣)＝｢不快に思う｣から連想。",
+    "meanings": [
+      "①<span class='emp1'>不快だ</span> <span class='emp2'>わずらわしい</span> (気分が)<span class='emp2'>すぐれない</span>  【難し】",
+      "①(気分が)<span class='emp2'>すぐれない</span> <span class='emp1'>不快だ</span> <span class='emp2'>わずらわしい</span>  【難し】",
+      "②<span class='emp2'>恐ろしい</span> 気味が悪い  【難し】"
+    ],
+    "page": 61
   },
   "あからさまなり": {
-    "core": "現代語の感覚で安易に訳すと通じない。"
+    "core": "現代語の感覚で安易に訳すと通じない。",
+    "meanings": [
+      "①<span class='emp1'>ほんのしばらく</span> <span class='emp1'>ちょっと</span>",
+      "②<span class='emp2'>全く</span> ほんの少しも"
+    ],
+    "page": 62
   },
   "おろかなり": {
-    "core": "｢疎｣(おろそか)と覚える。いい加減で不十分な様。"
+    "core": "｢疎｣(おろそか)と覚える。いい加減で不十分な様。",
+    "meanings": [
+      "①<span class='emp1'>いい加減だ</span> <span class='emp2'>疎(おろそ)かだ</span> <span class='emp2'>並一通りだ</span> 粗略だ  【疎かなり】",
+      "②<span class='emp2'>不十分だ</span> 未熟だ へただ  【疎かなり】"
+    ],
+    "page": 62
   },
   "いたづらなり": {
-    "core": "｢いたずら(悪戯)｣とは全くの別語。"
+    "core": "｢いたずら(悪戯)｣とは全くの別語。",
+    "meanings": [
+      "①<span class='emp1'>むだだ</span> 無益だ  【徒らなり】",
+      "②<span class='emp2'>むなしい</span> <span class='emp2'>つまらない</span> 退屈だ  【徒らなり】"
+    ],
+    "page": 63
   },
   "て": {
-    "core": "手の働きによって生じる、筆跡・手傷の意に注意。"
+    "core": "手の働きによって生じる、筆跡・手傷の意に注意。",
+    "meanings": [
+      "①<span class='emp1'>筆跡</span> 技量 文字 書風  【手】",
+      "②<span class='emp2'>手段</span> 方法  【手】",
+      "③<span class='emp2'>手傷</span> 負傷  【手】"
+    ],
+    "page": 64
   },
   "うへ": {
-    "core": "｢上｣にいる人、またその場所から①｢天皇｣、②｢御殿｣、③｢奥方｣の意味に。"
+    "core": "｢上｣にいる人、またその場所から①｢天皇｣、②｢御殿｣、③｢奥方｣の意味に。",
+    "meanings": [
+      "①<span class='emp1'>天皇</span> 主人 殿  【上】",
+      "②<span class='emp2'>御殿</span> <span class='emp2'>天皇の部屋</span> 宮中 清涼殿  【上】",
+      "④<span class='emp2'>加えて</span> <span class='emp2'>その上</span> 段階 状態 身の上  【上】",
+      "③<span class='emp2'>奥方</span> <span class='emp2'>貴婦人の敬称</span>  【上】"
+    ],
+    "page": 64
   },
   "ついで": {
-    "core": "｢つぎて(次手・次第)｣が語源で、｢順序｣が原義。"
+    "core": "｢つぎて(次手・次第)｣が語源で、｢順序｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>順序</span> <span class='emp2'>次第</span> 順番  【序】",
+      "②<span class='emp2'>機会</span> 折 場合  【序】"
+    ],
+    "page": 65
   },
   "やう": {
-    "core": "漢字は｢様｣。｢用(《よ》う)｣や｢要(《え》う)｣ではない。"
+    "core": "漢字は｢様｣。｢用(《よ》う)｣や｢要(《え》う)｣ではない。",
+    "meanings": [
+      "①<span class='emp1'>様子</span> <span class='emp2'>状態</span> 姿 形  【様】",
+      "②<span class='emp2'>理由</span> 事情 <span class='emp2'>手段</span> 方法  【様】",
+      "③<span class='emp2'>～こと</span> ～もの  【様】"
+    ],
+    "page": 66
   },
   "けしき": {
-    "core": "漢字は｢気色｣。｢景色｣ではない。"
+    "core": "漢字は｢気色｣。｢景色｣ではない。",
+    "meanings": [
+      "①<span class='emp1'>有様(ありさま)</span> <span class='emp1'>様子</span> <span class='emp2'>情景</span> 表情 顔色  【気色】",
+      "②<span class='emp2'>趣</span> 情趣  【気色】",
+      "④<span class='emp2'>兆候</span> きざし  【気色】",
+      "③<span class='emp2'>機嫌</span> 寵愛(ちょうあい)  【気色】"
+    ],
+    "page": 66
   },
   "としごろ": {
-    "core": "現代語の感覚で訳さないよう、特に注意。"
+    "core": "現代語の感覚で訳さないよう、特に注意。",
+    "meanings": [
+      "①<span class='emp1'>数年来</span> <span class='emp1'>長年</span>  【年比・年頃・年来】"
+    ],
+    "page": 67
   },
   "おと": {
-    "core": "｢音に聞く｣で｢うわさに聞く・有名な｣の意に。"
+    "core": "｢音に聞く｣で｢うわさに聞く・有名な｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>便り</span> <span class='emp1'>うわさ</span> 音沙汰 音信  【音】"
+    ],
+    "page": 68
   },
   "かげ": {
-    "core": "①・②は｢影｣で、光や姿の意味。③・④は｢陰(蔭)｣。"
+    "core": "①・②は｢影｣で、光や姿の意味。③・④は｢陰(蔭)｣。",
+    "meanings": [
+      "①<span class='emp2'>(太陽などの)</span><span class='emp1'>光</span>  【影】",
+      "②<span class='emp2'>姿</span> 形 面影  【影】",
+      "③<span class='emp2'>恩恵</span> <span class='emp2'>おかげ</span> 庇護(ひご)  【陰・蔭】"
+    ],
+    "page": 68
   },
   "つとめて(名詞)": {
-    "core": "｢努めて｣(努力して)とは違う。"
+    "core": "｢努めて｣(努力して)とは違う。",
+    "meanings": [
+      "①<span class='emp1'>早朝</span> 朝早く  【夙めて】",
+      "②<span class='emp2'>翌早朝</span>  【夙めて】"
+    ],
+    "page": 69
   },
   "さすがなり": {
-    "core": "｢さすがに｣が受ける直前の内容に注意。②｢そうもいかない｣は形容動詞｢さすがなり｣の用法。"
+    "core": "｢さすがに｣が受ける直前の内容に注意。②｢そうもいかない｣は形容動詞｢さすがなり｣の用法。",
+    "meanings": [
+      "①<span class='emp1'>そうは言うもののやはり</span> <span class='emp2'>いくら何でも</span>",
+      "②<span class='emp1'>そうもいかない</span> 感心しない"
+    ],
+    "page": 70
   },
   "なほ": {
-    "core": "｢変わらず《やはり》・何と言っても《やはり》｣の意。"
+    "core": "｢変わらず《やはり》・何と言っても《やはり》｣の意。",
+    "meanings": [
+      "①<span class='emp1'>やはり</span> そのまま  【尚・猶】",
+      "②<span class='emp2'>いっそう</span> ますます さらに  【尚・猶】"
+    ],
+    "page": 70
   },
   "やうやう": {
-    "core": "事態がゆっくりと次第に変化する様。｢やうやく｣とも書く。"
+    "core": "事態がゆっくりと次第に変化する様。｢やうやく｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>次第に</span> だんだん  【漸う】",
+      "②<span class='emp2'>やっと</span> かろうじて おもむろに  【漸う】"
+    ],
+    "page": 71
   },
   "そこら": {
-    "core": "｢その辺り｣の意味ではない。｢ら｣は複数の意。"
+    "core": "｢その辺り｣の意味ではない。｢ら｣は複数の意。",
+    "meanings": [
+      "①<span class='emp1'>たくさん</span> <span class='emp2'>多く</span> 大勢",
+      "②<span class='emp2'>たいそう</span> はなはだしく"
+    ],
+    "page": 72
   },
   "わざと": {
-    "core": "わざわざ意識して行う→｢正式に・特に｣の意味に。"
+    "core": "わざわざ意識して行う→｢正式に・特に｣の意味に。",
+    "meanings": [
+      "①<span class='emp1'>正式(に)</span> <span class='emp2'>本格的(に)</span>  【態と】",
+      "③<span class='emp2'>わざわざ</span> 意識的に  【態と】"
+    ],
+    "page": 72
   },
   "やがて": {
-    "core": "｢そのまま｣｢すぐに｣の意。現代語の意味では問われない。"
+    "core": "｢そのまま｣｢すぐに｣の意。現代語の意味では問われない。",
+    "meanings": [
+      "①<span class='emp1'>そのまま</span> 同時に  【軈て】",
+      "②<span class='emp2'>すぐに</span> ちょうど  【軈て】",
+      "③つまり すなわち  【軈て】"
+    ],
+    "page": 73
   },
   "すなはち": {
-    "core": "｢すぐに｣｢即刻｣の意味に注意。"
+    "core": "｢すぐに｣｢即刻｣の意味に注意。",
+    "meanings": [
+      "①<span class='emp1'>すぐに</span> 即座に  【即ち・則ち】",
+      "②<span class='emp1'>瞬間</span> <span class='emp2'>即刻</span> <span class='emp2'>当座</span> 即座  【即ち・則ち】",
+      "③<span class='emp2'>つまりは</span> <span class='emp2'>とりもなおさず</span> そのまま  【即ち・則ち】",
+      "④<span class='emp2'>そこで</span> そんなわけで  【即ち・則ち】"
+    ],
+    "page": 74
   },
   "みる": {
-    "core": "古典では｢結婚する｣の意味が重要。"
+    "core": "古典では｢結婚する｣の意味が重要。",
+    "meanings": [
+      "①<span class='emp1'>結婚する</span> 交際する  【見る】",
+      "②<span class='emp2'>理解する</span> 見る <span class='emp2'>判断する</span>  【見る】",
+      "③<span class='emp2'>世話をする</span> 面倒をみる  【見る】"
+    ],
+    "page": 78
   },
   "あふ": {
-    "core": "男女が｢逢う｣ことは、｢結婚する｣ことと同義。"
+    "core": "男女が｢逢う｣ことは、｢結婚する｣ことと同義。",
+    "meanings": [
+      "①<span class='emp1'>結婚する</span> 出会う めぐり会う  【逢ふ・合ふ】",
+      "③<span class='emp1'>我慢する</span> 堪える こらえる  【敢ふ】",
+      "②<span class='emp2'>つり合う</span>  【逢ふ・合ふ】",
+      "④<span class='emp2'>完全に～しきる</span> 無理に～する  【敢ふ】"
+    ],
+    "page": 79
   },
   "よばふ": {
-    "core": "｢呼ぶ｣＋｢ふ｣＝｢呼び続ける｣で、｢求婚する｣意に。"
+    "core": "｢呼ぶ｣＋｢ふ｣＝｢呼び続ける｣で、｢求婚する｣意に。",
+    "meanings": [
+      "①<span class='emp1'>求婚する</span> 言い寄る (男が女の所に)通う  【呼ばふ・婚ふ・夜這ふ】",
+      "②<span class='emp2'>呼び続ける</span>  【呼ばふ】"
+    ],
+    "page": 80
   },
   "ときめく": {
-    "core": "｢時めく｣と書く。｢時勢にあって栄える｣が原義。"
+    "core": "｢時めく｣と書く。｢時勢にあって栄える｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>寵愛(ちょうあい)を受ける</span>  【時めく】",
+      "②<span class='emp2'>時勢にあって栄える</span> 羽振りがよい  【時めく】"
+    ],
+    "page": 80
   },
   "にほふ": {
-    "core": "匂い立つような美しさ(視覚的な美)を表す。"
+    "core": "匂い立つような美しさ(視覚的な美)を表す。",
+    "meanings": [
+      "①<span class='emp1'>美しく咲く</span> <span class='emp1'>美しく輝く</span> <span class='emp2'>美しく染まる</span>  【匂ふ】",
+      "②<span class='emp2'>恩恵が及ぶ</span> 栄える  【匂ふ】"
+    ],
+    "page": 81
   },
   "うつろふ": {
-    "core": "心が｢色あせる｣とは、｢心変わり｣につながる。"
+    "core": "心が｢色あせる｣とは、｢心変わり｣につながる。",
+    "meanings": [
+      "①<span class='emp1'>色あせる</span> しぼむ  【移ろふ】",
+      "③<span class='emp2'>移り変わる</span> (心が)移り変わる  【移ろふ】",
+      "②移転する 移る  【移ろふ】"
+    ],
+    "page": 82
   },
   "やつる": {
-    "core": "｢やつれる｣(やせ衰える)→｢地味になる｣の意に。"
+    "core": "｢やつれる｣(やせ衰える)→｢地味になる｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>地味(粗末)な服装になる</span> <span class='emp2'>目立たぬようにする</span> みすぼらしくなる  【窶る】",
+      "①<span class='emp1'>地味(粗末)な服装になる</span> <span class='emp2'>目立たぬようにする</span> みすぼらしくなる  【窶る】"
+    ],
+    "page": 82
   },
   "おこなふ": {
-    "core": "｢おこなふ｣の｢行｣は、｢勤行・修行｣の意。"
+    "core": "｢おこなふ｣の｢行｣は、｢勤行・修行｣の意。",
+    "meanings": [
+      "①<span class='emp1'>勤行する</span> (仏道)<span class='emp2'>修行する</span> お勤めをする  【行ふ】",
+      "①(仏道)<span class='emp2'>修行する</span> <span class='emp1'>勤行する</span> お勤めをする  【行ふ】",
+      "②<span class='emp2'>治める</span> 政治を行う <span class='emp2'>とり行う</span> 処理する  【行ふ】"
+    ],
+    "page": 83
   },
   "かしづく": {
-    "core": "｢頭(かしら)をつけ｣て、敬意をもって養育する。"
+    "core": "｢頭(かしら)をつけ｣て、敬意をもって養育する。",
+    "meanings": [
+      "①<span class='emp1'>大切に育てる</span> いつくしむ  【傅く】",
+      "②<span class='emp2'>大切に世話をする</span> 後見(こうけん)する  【傅く】"
+    ],
+    "page": 84
   },
   "あそぶ": {
-    "core": "古典では、｢遊び｣と言えばまずは｢管絃(かんげん)の遊び｣。"
+    "core": "古典では、｢遊び｣と言えばまずは｢管絃(かんげん)の遊び｣。",
+    "meanings": [
+      "①<span class='emp1'>管絃(かんげん)(音楽)などの遊びをする</span> 演奏する  【遊ぶ】",
+      "②遊び興じる  【遊ぶ】",
+      "③歩き回る  【遊ぶ】"
+    ],
+    "page": 84
   },
   "おくる": {
-    "core": "｢人の死に遅れをとる｣→｢先立たれる｣の意に。"
+    "core": "｢人の死に遅れをとる｣→｢先立たれる｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>先立たれる</span> 遅れる 後に残る  【後る・遅る】",
+      "②<span class='emp2'>劣る</span> 気後れする  【後る・遅る】"
+    ],
+    "page": 85
   },
   "いむ": {
-    "core": "①｢忌み嫌う｣は｢忌｣の字を当てる。②｢受戒する｣は、仏の戒めを受けること(｢斎｣の字を当てる)。"
+    "core": "①｢忌み嫌う｣は｢忌｣の字を当てる。②｢受戒する｣は、仏の戒めを受けること(｢斎｣の字を当てる)。",
+    "meanings": [
+      "①<span class='emp1'>忌み嫌う</span> <span class='emp1'>不吉だ</span> 憎む 慎む  【忌む】",
+      "②<span class='emp2'>受戒する</span>  【斎む】"
+    ],
+    "page": 86
   },
   "しほたる": {
-    "core": "｢潮＋垂る｣で｢海水が垂れる｣→｢涙を流す｣の意に。"
+    "core": "｢潮＋垂る｣で｢海水が垂れる｣→｢涙を流す｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>海水に濡(ぬ)れてしずくが垂れる</span>  【潮垂る】",
+      "②(涙・露霜などで袖が)<span class='emp1'>濡(ぬ)れる</span> 涙を流す 悲しむ  【潮垂る】"
+    ],
+    "page": 86
   },
   "はつ": {
-    "core": "現代語の｢果てる｣に相当。｢死ぬ｣の意味にも。"
+    "core": "現代語の｢果てる｣に相当。｢死ぬ｣の意味にも。",
+    "meanings": [
+      "①<span class='emp1'>終わる</span> なくなる 死ぬ  【果つ】",
+      "②<span class='emp2'>～(し)きる</span> <span class='emp2'>～(し)終わる</span> すっかり～(する)  【果つ】"
+    ],
+    "page": 87
   },
   "やむごとなし": {
-    "core": "｢止む事無し｣というほどに、｢たいそう尊い｣。｢やんごとなし｣とも書く。"
+    "core": "｢止む事無し｣というほどに、｢たいそう尊い｣。｢やんごとなし｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>たいそう尊い</span> <span class='emp2'>高貴だ</span> 貴重だ",
+      "②<span class='emp2'>やむをえない</span> 捨てておけない",
+      "③<span class='emp2'>並々でない</span> 格別だ"
+    ],
+    "page": 88
   },
   "すきずきし": {
-    "core": "古典の世界では｢好色｣は｢風流｣に通じる。"
+    "core": "古典の世界では｢好色｣は｢風流｣に通じる。",
+    "meanings": [
+      "①<span class='emp1'>好色めいている</span>  【好き好きし】",
+      "②<span class='emp1'>風流だ</span> 熱心だ 物好きだ  【好き好きし】"
+    ],
+    "page": 88
   },
   "おほけなし": {
-    "core": "その人の態度や思いが、ある限度を超えた状態。"
+    "core": "その人の態度や思いが、ある限度を超えた状態。",
+    "meanings": [
+      "①<span class='emp1'>身分不相応だ</span> 身の程知らずだ",
+      "②<span class='emp2'>恐れ多い</span>"
+    ],
+    "page": 89
   },
   "おぼつかなし": {
-    "core": "はっきりとしない、ぼんやりとした様。"
+    "core": "はっきりとしない、ぼんやりとした様。",
+    "meanings": [
+      "①<span class='emp1'>はっきりしない</span> <span class='emp2'>ぼんやりしている</span>",
+      "②<span class='emp2'>心細い</span> <span class='emp2'>気がかりだ</span> 不安だ 待ち遠しい"
+    ],
+    "page": 90
   },
   "かごとがまし": {
-    "core": "｢かごと｣(｢恨み言｣の意)と一緒に覚える。"
+    "core": "｢かごと｣(｢恨み言｣の意)と一緒に覚える。",
+    "meanings": [
+      "①<span class='emp1'>恨みがましい様子だ</span> <span class='emp2'>嘆いている様子だ</span>  【託言がまし】"
+    ],
+    "page": 90
   },
   "いまめかし": {
-    "core": "｢今｣＋｢めく｣(～らしく見える)から転じた語。"
+    "core": "｢今｣＋｢めく｣(～らしく見える)から転じた語。",
+    "meanings": [
+      "①<span class='emp1'>当世風だ</span> <span class='emp1'>現代風だ</span> 華やかだ 目新しい  【今めかし】",
+      "②<span class='emp2'>今さらめいている</span> 軽薄だ  【今めかし】"
+    ],
+    "page": 91
   },
   "そこはかとなし": {
-    "core": "｢そこはかと｣(はっきりと)＋｢なし｣(しない)。"
+    "core": "｢そこはかと｣(はっきりと)＋｢なし｣(しない)。",
+    "meanings": [
+      "①<span class='emp1'>とりとめもない</span> <span class='emp2'>どこということもない</span>"
+    ],
+    "page": 92
   },
   "くちをし": {
-    "core": "期待はずれの結果に、残念で情けない気持ち。"
+    "core": "期待はずれの結果に、残念で情けない気持ち。",
+    "meanings": [
+      "①<span class='emp1'>残念だ</span> <span class='emp2'>がっかりだ</span> くやしい  【口惜し】",
+      "②<span class='emp2'>情けない</span> <span class='emp2'>つまらない</span> もの足りない  【口惜し】",
+      "③<span class='emp2'>卑しい</span> (身分が)言うに足りない  【口惜し】"
+    ],
+    "page": 92
   },
   "きよらなり": {
-    "core": "光り輝くような上品で美しい様。"
+    "core": "光り輝くような上品で美しい様。",
+    "meanings": [
+      "①<span class='emp1'>上品で美しい</span> <span class='emp2'>華美だ</span> 清く美しい 華麗だ  【清らなり】"
+    ],
+    "page": 93
   },
   "つれづれなり": {
-    "core": "｢同じような状態が続く｣→｢退屈｣の意に。"
+    "core": "｢同じような状態が続く｣→｢退屈｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>所在ない</span> <span class='emp2'>退屈だ</span>  【徒然なり】",
+      "①<span class='emp2'>退屈だ</span> <span class='emp1'>所在ない</span>  【徒然なり】",
+      "②退屈でもの寂しい 物思いに沈む  【徒然なり】"
+    ],
+    "page": 94
   },
   "むげなり": {
-    "core": "｢無下(下無し)｣→最低→全くひどい。"
+    "core": "｢無下(下無し)｣→最低→全くひどい。",
+    "meanings": [
+      "①<span class='emp1'>全くひどい</span> <span class='emp2'>あんまりだ</span>  【無下なり・無碍なり】",
+      "①<span class='emp2'>あんまりだ</span> <span class='emp1'>全くひどい</span>  【無下なり・無碍なり】",
+      "②<span class='emp2'>身分が低い</span> 卑賤(ひせん)だ  【無下なり・無碍なり】",
+      "③紛れもない 疑問の余地がない  【無下なり・無碍なり】"
+    ],
+    "page": 94
   },
   "ふみ": {
-    "core": "｢ふみ｣は書物、書物は学問、学問は漢詩文。"
+    "core": "｢ふみ｣は書物、書物は学問、学問は漢詩文。",
+    "meanings": [
+      "①<span class='emp1'>書物</span> <span class='emp2'>文献</span> 文書  【文】",
+      "②<span class='emp2'>手紙</span>  【文】",
+      "③<span class='emp2'>漢詩文</span> <span class='emp2'>学問</span>  【文】"
+    ],
+    "page": 95
   },
   "おほやけ": {
-    "core": "①の｢朝廷｣や｢天皇｣が試験で問われる。"
+    "core": "①の｢朝廷｣や｢天皇｣が試験で問われる。",
+    "meanings": [
+      "①<span class='emp1'>天皇</span> <span class='emp1'>朝廷</span> 皇居 宮中 皇后  【公・朝廷】",
+      "②<span class='emp2'>公的なこと</span>  【公・朝廷】"
+    ],
+    "page": 96
   },
   "くもゐ": {
-    "core": "雲がある遠い所→手が届かない｢宮中｣の意。"
+    "core": "雲がある遠い所→手が届かない｢宮中｣の意。",
+    "meanings": [
+      "①<span class='emp1'>宮中</span> 内裏(だいり) 都  【雲居・雲井】",
+      "②<span class='emp2'>天</span> <span class='emp2'>空</span> 雲のある所  【雲居・雲井】"
+    ],
+    "page": 96
   },
   "みやび": {
-    "core": "｢みやぶ｣(宮廷風だ・優雅だ)から。｢ひなぶ｣も覚える。"
+    "core": "｢みやぶ｣(宮廷風だ・優雅だ)から。｢ひなぶ｣も覚える。",
+    "meanings": [
+      "①<span class='emp1'>風雅</span> <span class='emp2'>宮廷風</span> 優雅  【雅】"
+    ],
+    "page": 97
   },
   "あいぎやう": {
-    "core": "現代語にない②｢思いやり｣の意味に注意。"
+    "core": "現代語にない②｢思いやり｣の意味に注意。",
+    "meanings": [
+      "①<span class='emp1'>かわいらしさ</span> 愛らしさ  【愛敬】",
+      "②<span class='emp2'>思いやり</span>  【愛敬】"
+    ],
+    "page": 98
   },
   "ざえ": {
-    "core": "男子が身につけるべき漢詩文などの学問。"
+    "core": "男子が身につけるべき漢詩文などの学問。",
+    "meanings": [
+      "①<span class='emp1'>学才</span> (漢詩文などの)<span class='emp1'>学問</span> <span class='emp2'>教養</span>  【才】",
+      "②<span class='emp2'>技芸</span> (芸術の)才能  【才】"
+    ],
+    "page": 98
   },
   "みち": {
-    "core": "｢道｣の内容を吟味しながら読む。"
+    "core": "｢道｣の内容を吟味しながら読む。",
+    "meanings": [
+      "①<span class='emp1'>政道</span> <span class='emp1'>道理</span> 筋道 秩序  【道】",
+      "②<span class='emp2'>方法</span> <span class='emp2'>手段</span>  【道】",
+      "④(学問・芸道などの)<span class='emp2'>方面</span>  【道】",
+      "③<span class='emp2'>仏道</span> 神仏の教え  【道】"
+    ],
+    "page": 99
   },
   "うしろみ": {
-    "core": "｢後ろから見る人｣は｢後見人｣。"
+    "core": "｢後ろから見る人｣は｢後見人｣。",
+    "meanings": [
+      "①<span class='emp1'>後見(人)</span> 世話(役)  【後見】"
+    ],
+    "page": 100
   },
   "いろ": {
-    "core": "｢いろ→顔色→恋愛→風流｣の流れで覚える。"
+    "core": "｢いろ→顔色→恋愛→風流｣の流れで覚える。",
+    "meanings": [
+      "①<span class='emp1'>顔色</span> 表情  【色】",
+      "②<span class='emp1'>風流</span> <span class='emp2'>情緒</span> <span class='emp2'>美しさ</span>  【色】",
+      "③<span class='emp2'>恋愛</span> 情事  【色】"
+    ],
+    "page": 100
   },
   "なさけ": {
-    "core": "｢風流心｣や｢思いやり｣を表す。"
+    "core": "｢風流心｣や｢思いやり｣を表す。",
+    "meanings": [
+      "①<span class='emp1'>風流心</span> 風情  【情け】",
+      "②<span class='emp1'>思いやり</span> <span class='emp2'>恋愛</span> 情愛  【情け】"
+    ],
+    "page": 101
   },
   "こころ": {
-    "core": "｢人の精神｣や｢物事の本質｣など、訳し分けが必要。"
+    "core": "｢人の精神｣や｢物事の本質｣など、訳し分けが必要。",
+    "meanings": [
+      "①<span class='emp1'>気持ち</span> <span class='emp1'>感情</span> 精神  【心】",
+      "②<span class='emp2'>思慮</span> <span class='emp2'>風流心</span> 情趣 情愛  【心】",
+      "④<span class='emp2'>中心</span> <span class='emp2'>本質</span> 真ん中  【心】",
+      "③<span class='emp2'>意味</span> わけ 趣向  【心】"
+    ],
+    "page": 102
   },
   "ちぎり": {
-    "core": "｢ちぎる｣(約束する)から｢前世からのちぎり＝因縁・宿縁｣の意味に。"
+    "core": "｢ちぎる｣(約束する)から｢前世からのちぎり＝因縁・宿縁｣の意味に。",
+    "meanings": [
+      "①<span class='emp1'>約束</span> <span class='emp2'>男女の交わり</span>  【契り】",
+      "②<span class='emp2'>前世からの因縁</span> 宿縁  【契り】"
+    ],
+    "page": 103
   },
   "ほい・ほんい": {
-    "core": "｢ほんい｣(本意)の｢ん｣が抜けて、｢ほい｣に。"
+    "core": "｢ほんい｣(本意)の｢ん｣が抜けて、｢ほい｣に。",
+    "meanings": [
+      "①<span class='emp1'>本来の志</span> <span class='emp1'>真意</span> <span class='emp2'>本望</span>  【本意】",
+      "①<span class='emp1'>本来の志</span> <span class='emp1'>真意</span> <span class='emp2'>本望</span>  【本意】",
+      "①<span class='emp1'>真意</span> <span class='emp1'>本来の志</span> <span class='emp2'>本望</span>  【本意】",
+      "①<span class='emp1'>真意</span> <span class='emp1'>本来の志</span> <span class='emp2'>本望</span>  【本意】",
+      "①<span class='emp2'>本望</span> <span class='emp1'>本来の志</span> <span class='emp1'>真意</span>  【本意】"
+    ],
+    "page": 104
   },
   "よ": {
-    "core": "｢よ｣｢よのなか｣は男女の仲かも？"
+    "core": "｢よ｣｢よのなか｣は男女の仲かも？",
+    "meanings": [
+      "①<span class='emp1'>現世</span> <span class='emp2'>俗世</span> 世間 <span class='emp2'>世の中</span> この世  【世・代】",
+      "②<span class='emp1'>夫婦の仲</span> 男女の仲  【世・代】",
+      "①<span class='emp2'>世の中</span> <span class='emp1'>現世</span> <span class='emp2'>俗世</span> 世間 この世  【世・代】",
+      "③ 年齢 生涯 <span class='emp2'>時代</span> <span class='emp2'>時</span>  【世・代】"
+    ],
+    "page": 105
   },
   "ゐる": {
-    "core": "｢居る｣は①｢すわる｣、｢率る｣は②｢連れる｣。"
+    "core": "｢居る｣は①｢すわる｣、｢率る｣は②｢連れる｣。",
+    "meanings": [
+      "①<span class='emp1'>すわる</span> <span class='emp2'>いる</span> 住む  【居る】",
+      "②<span class='emp1'>連れる</span> <span class='emp2'>伴う</span>  【率る】"
+    ],
+    "page": 108
   },
   "ぐす": {
-    "core": "｢具｣(備える)の意味をもつ言葉。"
+    "core": "｢具｣(備える)の意味をもつ言葉。",
+    "meanings": [
+      "①<span class='emp1'>備える</span> <span class='emp2'>従える</span> 伴う  【具す】",
+      "②<span class='emp2'>従う</span> <span class='emp1'>備わる</span> そろう  【具す】",
+      "④<span class='emp2'>連れ添う</span> 夫婦になる  【具す】",
+      "③<span class='emp2'>持つ</span> <span class='emp2'>携える</span> 持参する  【具す】"
+    ],
+    "page": 108
   },
   "いそぐ": {
-    "core": "｢急いで《準備》する｣と覚える。"
+    "core": "｢急いで《準備》する｣と覚える。",
+    "meanings": [
+      "①<span class='emp1'>準備する</span> 用意する  【急ぐ】"
+    ],
+    "page": 109
   },
   "まうく": {
-    "core": "あらかじめ設けておくこと→用意(準備)する。"
+    "core": "あらかじめ設けておくこと→用意(準備)する。",
+    "meanings": [
+      "①<span class='emp1'>用意する</span> <span class='emp2'>準備する</span>  【設く】",
+      "②<span class='emp2'>身に受ける</span> <span class='emp2'>授かる</span> <span class='emp2'>拾う</span> 得をする  【儲く】"
+    ],
+    "page": 110
   },
   "ねぶ": {
-    "core": "実際の年齢より、おとなびている様。"
+    "core": "実際の年齢より、おとなびている様。",
+    "meanings": [
+      "①<span class='emp1'>おとなびる</span> 成長する",
+      "②<span class='emp2'>年をとる</span> ふける"
+    ],
+    "page": 110
   },
   "およすく": {
-    "core": "｢老ゆ｣から変化してできた語。｢およずく｣｢およすぐ｣とも書く。"
+    "core": "｢老ゆ｣から変化してできた語。｢およずく｣｢およすぐ｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>成長する</span> 大人になる",
+      "②<span class='emp2'>おとなびる</span> ませる 老成する",
+      "③<span class='emp2'>地味にする</span> <span class='emp2'>地味だ</span> 目立たないようにする"
+    ],
+    "page": 111
   },
   "やる": {
-    "core": "①｢送る｣はもちろん、②｢導き入れる｣、③｢(心を)晴らす｣、④｢～(し)きる｣の意味にも注意が必要。"
+    "core": "①｢送る｣はもちろん、②｢導き入れる｣、③｢(心を)晴らす｣、④｢～(し)きる｣の意味にも注意が必要。",
+    "meanings": [
+      "①<span class='emp1'>送る</span> <span class='emp1'>行かせる</span>  【遣る】",
+      "②<span class='emp2'>導き入れる</span>  【遣る】",
+      "④<span class='emp2'>～(し)きる</span> 完全に～(する) 遠く～(する)  【遣る】",
+      "③(心を)<span class='emp2'>晴らす</span>  【遣る】"
+    ],
+    "page": 112
   },
   "おこす": {
-    "core": "こちらへ向かってくる動作を表す。"
+    "core": "こちらへ向かってくる動作を表す。",
+    "meanings": [
+      "①<span class='emp1'>よこす</span> (こちらへ)<span class='emp1'>送ってくる</span>  【遣す】",
+      "②こちらへ(を)～(する)  【遣す】"
+    ],
+    "page": 113
   },
   "はかなし": {
-    "core": "心細く頼りない気持ち。"
+    "core": "心細く頼りない気持ち。",
+    "meanings": [
+      "①<span class='emp1'>頼りない</span> 心細い <span class='emp2'>あてにならない</span> <span class='emp2'>無常だ</span> <span class='emp2'>無益だ</span>  【果敢無し】",
+      "②<span class='emp2'>ちょっとした</span> つまらない  【果敢無し】"
+    ],
+    "page": 114
   },
   "はかばかし": {
-    "core": "｢はか｣(仕事の進み具合)を重ねた言葉。"
+    "core": "｢はか｣(仕事の進み具合)を重ねた言葉。",
+    "meanings": [
+      "①<span class='emp1'>はっきりしている</span> 際立っている  【果果し・捗捗し】",
+      "②<span class='emp2'>しっかりしている</span> 確かだ 本格的だ  【果果し・捗捗し】"
+    ],
+    "page": 114
   },
   "いとほし": {
-    "core": "他人に対する同情・憐(あわ)れみ。"
+    "core": "他人に対する同情・憐(あわ)れみ。",
+    "meanings": [
+      "①<span class='emp1'>かわいそうだ</span> <span class='emp2'>気の毒だ</span>",
+      "②<span class='emp2'>かわいい</span> いとしい"
+    ],
+    "page": 115
   },
   "らうたし": {
-    "core": "｢労(らう)＋甚(いた)し｣→労(いた)わりたい→かわいらしい。"
+    "core": "｢労(らう)＋甚(いた)し｣→労(いた)わりたい→かわいらしい。",
+    "meanings": [
+      "①<span class='emp1'>かわいらしい</span> 可憐(かれん)だ かわいい"
+    ],
+    "page": 116
   },
   "かしこし": {
-    "core": "自然の霊力や権力者の威光を恐れ敬う意。"
+    "core": "自然の霊力や権力者の威光を恐れ敬う意。",
+    "meanings": [
+      "①<span class='emp1'>恐れ多い</span> 恐ろしい  【畏し・恐し・賢し】",
+      "②<span class='emp2'>高貴だ</span> 尊い  【畏し・恐し・賢し】"
+    ],
+    "page": 116
   },
   "かたじけなし": {
-    "core": "上位者に対して下位の者が感じる気持ち。"
+    "core": "上位者に対して下位の者が感じる気持ち。",
+    "meanings": [
+      "①<span class='emp1'>恐れ多い</span> <span class='emp2'>もったいない</span>  【辱し・忝し】",
+      "②<span class='emp2'>恥ずかしい</span> 面目ない  【辱し・忝し】"
+    ],
+    "page": 117
   },
   "こころづきなし": {
-    "core": "自分の心に付かない→気にくわない。"
+    "core": "自分の心に付かない→気にくわない。",
+    "meanings": [
+      "①<span class='emp1'>気にくわない</span> <span class='emp2'>嫌だ</span> おもしろくない  【心付き無し】"
+    ],
+    "page": 118
   },
   "つきづきし": {
-    "core": "｢付く｣＋｢付く｣→二つのことがぴったり付く。"
+    "core": "｢付く｣＋｢付く｣→二つのことがぴったり付く。",
+    "meanings": [
+      "①<span class='emp1'>似つかわしい</span> <span class='emp2'>ふさわしい</span>  【付き付きし】"
+    ],
+    "page": 118
   },
   "になし": {
-    "core": "｢二＋無し｣または｢似＋無し｣で｢二つと無い｣の意。"
+    "core": "｢二＋無し｣または｢似＋無し｣で｢二つと無い｣の意。",
+    "meanings": [
+      "①<span class='emp1'>たぐいない</span> <span class='emp2'>すばらしい</span> 二つと無い  【二無し・似無し】"
+    ],
+    "page": 119
   },
   "またなし": {
-    "core": "｢又｣＋｢無し｣→またとない。"
+    "core": "｢又｣＋｢無し｣→またとない。",
+    "meanings": [
+      "①<span class='emp1'>またとない</span> <span class='emp2'>たぐいない</span> この上ない  【又無し】"
+    ],
+    "page": 119
   },
   "あはれ": {
-    "core": "｢ああ、しみじみと心にしみる｣がキーワード。①｢ああ｣は感動詞、②｢しみじみとした情趣｣は名詞、③｢しみじみと情趣深い｣、④｢心にしみて気の毒だ｣、⑤｢美しい・かわいい｣は形容動詞｢あはれなり｣の用法。"
+    "core": "｢ああ、しみじみと心にしみる｣がキーワード。①｢ああ｣は感動詞、②｢しみじみとした情趣｣は名詞、③｢しみじみと情趣深い｣、④｢心にしみて気の毒だ｣、⑤｢美しい・かわいい｣は形容動詞｢あはれなり｣の用法。",
+    "meanings": [
+      "①<span class='emp1'>ああ</span>  【哀れ】",
+      "③<span class='emp1'>しみじみと情趣深い</span> しみじみと悲しい  【哀れなり】",
+      "②<span class='emp1'>しみじみとした情趣</span> <span class='emp2'>感動</span> 悲哀 愛情 <span class='emp2'>情味</span>  【哀れ】",
+      "④<span class='emp2'>心にしみて気の毒だ</span>  【哀れなり】"
+    ],
+    "page": 120
   },
   "をかし": {
-    "core": "興味・好感・称賛など、前向きな評価の言葉。"
+    "core": "興味・好感・称賛など、前向きな評価の言葉。",
+    "meanings": [
+      "①<span class='emp1'>興趣がある</span> 興味深い",
+      "②<span class='emp2'>美しい</span> 愛らしい すばらしい",
+      "③<span class='emp2'>風情がある</span> 趣がある"
+    ],
+    "page": 121
   },
   "おもしろし": {
-    "core": "心が晴ればれするような趣。"
+    "core": "心が晴ればれするような趣。",
+    "meanings": [
+      "①<span class='emp1'>趣がある</span> <span class='emp2'>風流だ</span> 趣深い  【面白し】",
+      "②<span class='emp2'>興味深い</span> おもしろい  【面白し】"
+    ],
+    "page": 122
   },
   "あへなし": {
-    "core": "｢敢ふ｣＋｢無し｣→｢しいて～できない｣が原義。"
+    "core": "｢敢ふ｣＋｢無し｣→｢しいて～できない｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>どうしようもない</span> 張り合いがない  【敢へ無し】",
+      "②<span class='emp2'>あっけない</span>  【敢へ無し】",
+      "①張り合いがない <span class='emp1'>どうしようもない</span>  【敢へ無し】"
+    ],
+    "page": 122
   },
   "あいなし": {
-    "core": "筋違いで不都合なことは、おもしろくないもの。"
+    "core": "筋違いで不都合なことは、おもしろくないもの。",
+    "meanings": [
+      "①<span class='emp1'>おもしろくない</span> <span class='emp2'>気にくわない</span> 筋が通らない",
+      "②<span class='emp2'>ただもう</span> むやみに"
+    ],
+    "page": 123
   },
   "よろし": {
-    "core": "｢まあまあ普通だ｣といった感じ。"
+    "core": "｢まあまあ普通だ｣といった感じ。",
+    "meanings": [
+      "①<span class='emp1'>適当だ</span> ふさわしい  【宜し】",
+      "②<span class='emp2'>まあまあだ</span> 悪くない  【宜し】"
+    ],
+    "page": 124
   },
   "わろし": {
-    "core": "相対的に｢よくない｣という意味を表す。"
+    "core": "相対的に｢よくない｣という意味を表す。",
+    "meanings": [
+      "①<span class='emp1'>よくない</span> <span class='emp1'>みっともない</span> 不適当だ  【悪し】",
+      "①<span class='emp1'>みっともない</span> <span class='emp1'>よくない</span> 不適当だ  【悪し】",
+      "②<span class='emp2'>へただ</span> 下品だ  【悪し】",
+      "③<span class='emp2'>貧しい</span> 経済的に恵まれない  【悪し】"
+    ],
+    "page": 124
   },
   "あし": {
-    "core": "絶対的・本質的に｢悪い｣状態を言う。"
+    "core": "絶対的・本質的に｢悪い｣状態を言う。",
+    "meanings": [
+      "①<span class='emp1'>悪い</span> <span class='emp1'>へただ</span> 不都合だ 激しい  【悪し】",
+      "①<span class='emp1'>へただ</span> <span class='emp1'>悪い</span> 不都合だ 激しい  【悪し】"
+    ],
+    "page": 125
   },
   "はしたなし": {
-    "core": "｢端(はした)なり｣(中途半端できまりが悪い)が語源。"
+    "core": "｢端(はした)なり｣(中途半端できまりが悪い)が語源。",
+    "meanings": [
+      "①<span class='emp1'>間が悪い</span> <span class='emp2'>中途半端だ</span> <span class='emp2'>きまりが悪い</span>  【端なし】",
+      "②<span class='emp2'>無遠慮だ</span> 無愛想だ  【端なし】"
+    ],
+    "page": 126
   },
   "なかなかなり": {
-    "core": "中途半端なら《かえって》しないほうがよい。"
+    "core": "中途半端なら《かえって》しないほうがよい。",
+    "meanings": [
+      "①<span class='emp1'>中途半端だ</span> どっちつかずだ  【中中なり】",
+      "②<span class='emp1'>かえって</span> なまじっか かえって(し)ないほうがよい  【中中なり】",
+      "②<span class='emp1'>かえって</span> なまじっか かえって(し)ないほうがよい  【中中なり】",
+      "①どっちつかずだ <span class='emp1'>中途半端だ</span>  【中中なり】"
+    ],
+    "page": 126
   },
   "おぼろけなり": {
-    "core": "ぼんやり特徴のない普通の様子。｢おぼろげなり｣とも書く。"
+    "core": "ぼんやり特徴のない普通の様子。｢おぼろげなり｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>並一通りだ</span> 普通だ",
+      "②<span class='emp2'>並たいていでない</span> 格別だ"
+    ],
+    "page": 127
   },
   "なべて": {
-    "core": "｢並んで｣が原義→｢一般に・一面に｣などの意味に。"
+    "core": "｢並んで｣が原義→｢一般に・一面に｣などの意味に。",
+    "meanings": [
+      "①<span class='emp1'>一般に</span> すべて  【並べて】",
+      "②<span class='emp2'>一面に</span> おしなべて  【並べて】",
+      "③<span class='emp2'>普通に</span> <span class='emp2'>並一通りに</span>  【並べて】"
+    ],
+    "page": 128
   },
   "あてなり": {
-    "core": "一級品の高貴さ・上品さを言う語。"
+    "core": "一級品の高貴さ・上品さを言う語。",
+    "meanings": [
+      "①<span class='emp1'>身分が高い</span> <span class='emp2'>高貴だ</span>  【貴なり】",
+      "②<span class='emp2'>上品だ</span> 優雅だ  【貴なり】"
+    ],
+    "page": 128
   },
   "いうなり": {
-    "core": "｢言う｣ではない。｢優美・優雅｣の｢優(いう)｣と覚える。"
+    "core": "｢言う｣ではない。｢優美・優雅｣の｢優(いう)｣と覚える。",
+    "meanings": [
+      "①<span class='emp1'>優美だ</span> <span class='emp2'>上品だ</span> <span class='emp1'>優雅だ</span> 風流だ  【優なり】",
+      "①<span class='emp2'>上品だ</span> <span class='emp1'>優美だ</span> <span class='emp2'>優雅だ</span> 風流だ  【優なり】",
+      "②<span class='emp2'>上手だ</span> すばらしい  【優なり】"
+    ],
+    "page": 129
   },
   "えんなり": {
-    "core": "｢艶｣から変化した語で、あでやかな優美さ。"
+    "core": "｢艶｣から変化した語で、あでやかな優美さ。",
+    "meanings": [
+      "①<span class='emp1'>優美だ</span> <span class='emp1'>あでやかで美しい</span> 趣深く美しい  【艶なり】",
+      "①<span class='emp1'>あでやかで美しい</span> <span class='emp1'>優美だ</span> 趣深く美しい  【艶なり】",
+      "②色っぽい 妖艶だ なまめかしい  【艶なり】"
+    ],
+    "page": 130
   },
   "あらはなり": {
-    "core": "はっきりと丸見えの状態。"
+    "core": "はっきりと丸見えの状態。",
+    "meanings": [
+      "①<span class='emp1'>丸見えだ</span> <span class='emp2'>無遠慮だ</span> 露骨だ  【顕はなり・露はなり】",
+      "①<span class='emp2'>無遠慮だ</span> <span class='emp1'>丸見えだ</span> 露骨だ  【顕はなり・露はなり】",
+      "②<span class='emp2'>はっきりしている</span> <span class='emp2'>顕著だ</span>  【顕はなり・露はなり】"
+    ],
+    "page": 130
   },
   "みそかなり": {
-    "core": "｢密｣の字を当てる。こっそりひそかな様。"
+    "core": "｢密｣の字を当てる。こっそりひそかな様。",
+    "meanings": [
+      "①<span class='emp1'>こっそり</span> <span class='emp2'>ひそかだ</span> 人目を忍んで  【密かなり】"
+    ],
+    "page": 131
   },
   "まめなり": {
-    "core": "｢まめ｣は、｢忠実｣｢誠実｣の意味。"
+    "core": "｢まめ｣は、｢忠実｣｢誠実｣の意味。",
+    "meanings": [
+      "①<span class='emp1'>忠実だ</span> <span class='emp2'>誠実だ</span> <span class='emp2'>まじめだ</span> 勤勉だ  【忠実なり】",
+      "①<span class='emp2'>まじめだ</span> <span class='emp1'>忠実だ</span> <span class='emp2'>誠実だ</span> 勤勉だ  【忠実なり】",
+      "②<span class='emp2'>実用的だ</span>  【忠実なり】"
+    ],
+    "page": 132
   },
   "あだなり": {
-    "core": "｢あだ｣は、表面だけで実がないこと。"
+    "core": "｢あだ｣は、表面だけで実がないこと。",
+    "meanings": [
+      "①<span class='emp1'>浮気だ</span> <span class='emp2'>浮ついた</span> いい加減だ  【徒なり】",
+      "②<span class='emp2'>はかない</span> <span class='emp2'>むだだ</span> <span class='emp2'>つまらない</span> 頼りない 甲斐(かい)がない  【徒なり】"
+    ],
+    "page": 133
   },
   "ことわりなり": {
-    "core": "｢理(ことわり)｣のこと。｢断り｣とは全くの別語。②｢もっともだ｣は形容動詞｢ことわりなり｣の用法。"
+    "core": "｢理(ことわり)｣のこと。｢断り｣とは全くの別語。②｢もっともだ｣は形容動詞｢ことわりなり｣の用法。",
+    "meanings": [
+      "①<span class='emp1'>道理</span> 理由 わけ 判断 弁解 理屈  【理】",
+      "②<span class='emp1'>もっともだ</span> <span class='emp2'>当然だ</span>  【理なり】"
+    ],
+    "page": 134
   },
   "わりなし": {
-    "core": "｢理(ことわり)｣＋｢無し｣→｢道理に合わずつらい｣が語源。"
+    "core": "｢理(ことわり)｣＋｢無し｣→｢道理に合わずつらい｣が語源。",
+    "meanings": [
+      "①<span class='emp1'>わけがわからない</span> <span class='emp2'>仕方がない</span>",
+      "②<span class='emp2'>堪え難い</span> つらい 苦しい",
+      "③<span class='emp2'>むやみに</span> 無理に 強引だ",
+      "②苦しい <span class='emp2'>堪え難い</span> つらい"
+    ],
+    "page": 134
   },
   "よし": {
-    "core": "｢ゆゑ｣よりやや劣る由緒や趣。"
+    "core": "｢ゆゑ｣よりやや劣る由緒や趣。",
+    "meanings": [
+      "①<span class='emp1'>理由</span> <span class='emp1'>由緒</span> 方法 縁故 手段 <span class='emp2'>趣</span> 趣味 <span class='emp2'>様子</span>  【由】",
+      "②<span class='emp2'>～こと</span> <span class='emp2'>旨</span>  【由】"
+    ],
+    "page": 135
   },
   "よしなし": {
-    "core": "｢よし(由)｣＋｢無し｣→｢由｣を否定した意味に。"
+    "core": "｢よし(由)｣＋｢無し｣→｢由｣を否定した意味に。",
+    "meanings": [
+      "①<span class='emp1'>つまらない</span> <span class='emp2'>具合が悪い</span> <span class='emp2'>意味がない</span>  【由無し】",
+      "②<span class='emp2'>理由や方法がない</span> 根拠がない  【由無し】",
+      "③無関係だ 縁がない  【由無し】"
+    ],
+    "page": 136
   },
   "ゆゑ": {
-    "core": "｢よし(由)｣よりも、先天的で一流の由緒・趣。"
+    "core": "｢よし(由)｣よりも、先天的で一流の由緒・趣。",
+    "meanings": [
+      "①<span class='emp1'>理由</span> <span class='emp2'>由緒</span>  【故】",
+      "②<span class='emp2'>～ため(に)</span> ～よって  【故】",
+      "③<span class='emp2'>風情</span> <span class='emp2'>情趣</span> <span class='emp2'>教養</span>  【故】"
+    ],
+    "page": 137
   },
   "こと": {
-    "core": "①｢言葉｣は｢言｣、②｢わけ｣は｢事｣。どちらか見分ける。"
+    "core": "①｢言葉｣は｢言｣、②｢わけ｣は｢事｣。どちらか見分ける。",
+    "meanings": [
+      "①<span class='emp1'>言葉</span> <span class='emp2'>評判</span> 和歌  【言】",
+      "②<span class='emp2'>わけ</span> <span class='emp2'>事柄</span> <span class='emp2'>事態</span> こと 仕事 <span class='emp2'>事情</span>  【事】"
+    ],
+    "page": 138
   },
   "ことなり": {
-    "core": "｢《異》なり｣で、他と違っている様を表す。"
+    "core": "｢《異》なり｣で、他と違っている様を表す。",
+    "meanings": [
+      "①<span class='emp1'>他と違っている</span>  【異なり・殊なり】",
+      "②<span class='emp2'>特にすぐれている</span> 格別だ  【異なり・殊なり】"
+    ],
+    "page": 139
   },
   "ひがこと": {
-    "core": "｢ひが｣は、｢間違い｣などの意味。｢ひがごと｣とも書く。"
+    "core": "｢ひが｣は、｢間違い｣などの意味。｢ひがごと｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>間違い</span> <span class='emp2'>悪事</span>  【僻事】"
+    ],
+    "page": 140
   },
   "ひがひがし": {
-    "core": "｢ひが｣(｢普通でない｣の意)を重ねてできた語。"
+    "core": "｢ひが｣(｢普通でない｣の意)を重ねてできた語。",
+    "meanings": [
+      "①<span class='emp1'>ひねくれている</span>  【僻僻し】",
+      "②<span class='emp2'>無風流だ</span> 普通でない  【僻僻し】"
+    ],
+    "page": 140
   },
   "おもて": {
-    "core": "もともと②｢顔｣の意味だが、①｢面目｣のほうが重要。"
+    "core": "もともと②｢顔｣の意味だが、①｢面目｣のほうが重要。",
+    "meanings": [
+      "①<span class='emp1'>面目</span> 顔向け  【面・表】",
+      "②顔 顔つき 顔面 表面  【面・表】"
+    ],
+    "page": 141
   },
   "かたち": {
-    "core": "①｢容貌｣、③｢美人｣以外は、そのまま｢形｣と訳してよい。"
+    "core": "①｢容貌｣、③｢美人｣以外は、そのまま｢形｣と訳してよい。",
+    "meanings": [
+      "①<span class='emp1'>容貌</span> <span class='emp2'>容姿</span>  【形・容貌】",
+      "②形 <span class='emp2'>姿</span> 形態  【形・容貌】",
+      "③美人 美貌  【形・容貌】"
+    ],
+    "page": 142
   },
   "げに": {
-    "core": "｢なるほど｣と納得してうなずく意。"
+    "core": "｢なるほど｣と納得してうなずく意。",
+    "meanings": [
+      "①<span class='emp1'>本当に</span> <span class='emp1'>なるほど</span> まことに いかにも  【現に・実に】"
+    ],
+    "page": 142
   },
   "けに": {
-    "core": "｢異(け)なり｣(｢普通と違う｣の意)の連用形が副詞化。"
+    "core": "｢異(け)なり｣(｢普通と違う｣の意)の連用形が副詞化。",
+    "meanings": [
+      "①<span class='emp1'>いっそうはなはだしく</span> <span class='emp2'>いよいよ</span>  【異に】",
+      "②普通と違って 妙に  【異に】"
+    ],
+    "page": 143
   },
   "いさ": {
-    "core": "あいまいにごまかす感動詞。"
+    "core": "あいまいにごまかす感動詞。",
+    "meanings": [
+      "①<span class='emp1'>さあ</span> ええと",
+      "②<span class='emp2'>さあ(どうだか)</span>"
+    ],
+    "page": 144
   },
   "いざ": {
-    "core": "人を誘うときに発する語。"
+    "core": "人を誘うときに発する語。",
+    "meanings": [
+      "①<span class='emp1'>さあ</span>"
+    ],
+    "page": 144
   },
   "いで": {
-    "core": "勧誘・感嘆・決意の言葉。"
+    "core": "勧誘・感嘆・決意の言葉。",
+    "meanings": [
+      "①<span class='emp1'>さあ</span>",
+      "②<span class='emp2'>いやもう</span> なんとまあ"
+    ],
+    "page": 145
   },
   "したたむ": {
-    "core": "準備から後始末まできちんと処理する意。"
+    "core": "準備から後始末まできちんと処理する意。",
+    "meanings": [
+      "①<span class='emp1'>処理する</span> <span class='emp2'>整理する</span> <span class='emp2'>とり行う</span>  【認む】",
+      "②<span class='emp2'>取り締まる</span> 治める  【認む】"
+    ],
+    "page": 148
   },
   "たばかる": {
-    "core": "現代語では②｢だます｣の意味だが、古典では①｢策をめぐらす｣が重要。"
+    "core": "現代語では②｢だます｣の意味だが、古典では①｢策をめぐらす｣が重要。",
+    "meanings": [
+      "①<span class='emp1'>策をめぐらす</span> <span class='emp1'>計画する</span> <span class='emp2'>工夫する</span>  【謀る】",
+      "②だます  【謀る】"
+    ],
+    "page": 148
   },
   "ものす": {
-    "core": "英語の｢do｣のような働き。補助動詞の用法も。"
+    "core": "英語の｢do｣のような働き。補助動詞の用法も。",
+    "meanings": [
+      "①<span class='emp1'>いる</span> <span class='emp1'>ある</span>  【物す】",
+      "④<span class='emp1'>～(で)ある</span>〔補助動詞〕  【物す】",
+      "②<span class='emp2'>行く</span> 来る  【物す】",
+      "③<span class='emp2'>言う</span> <span class='emp2'>書く</span>  【物す】"
+    ],
+    "page": 149
   },
   "おぼゆ": {
-    "core": "｢思ふ｣＋｢ゆ｣→おもはゆ→おもほゆ→おぼゆ。"
+    "core": "｢思ふ｣＋｢ゆ｣→おもはゆ→おもほゆ→おぼゆ。",
+    "meanings": [
+      "①<span class='emp1'>(自然と)思われる</span> 思い出される  【覚ゆ】",
+      "②<span class='emp2'>似る</span> 面影がある  【覚ゆ】"
+    ],
+    "page": 150
   },
   "すまふ": {
-    "core": "①｢抵抗する｣は｢争ふ｣、②｢辞退する｣は｢辞ふ｣、③｢住む｣は｢住まふ｣。"
+    "core": "①｢抵抗する｣は｢争ふ｣、②｢辞退する｣は｢辞ふ｣、③｢住む｣は｢住まふ｣。",
+    "meanings": [
+      "①<span class='emp1'>抵抗する</span> <span class='emp1'>争う</span>  【争ふ】",
+      "②<span class='emp2'>辞退する</span> 断る  【辞ふ】",
+      "③住む 住み続ける  【住まふ】"
+    ],
+    "page": 150
   },
   "しのぶ": {
-    "core": "①｢忍ぶ｣は｢我慢する｣、②｢偲ぶ｣は｢懐かしく思う｣。"
+    "core": "①｢忍ぶ｣は｢我慢する｣、②｢偲ぶ｣は｢懐かしく思う｣。",
+    "meanings": [
+      "①<span class='emp1'>我慢する</span> <span class='emp2'>こらえる</span> 耐える  【忍ぶ】",
+      "②<span class='emp1'>懐かしく思う</span>  【偲ぶ】",
+      "③<span class='emp2'>秘密にする</span> <span class='emp2'>隠れる</span> 隠す  【忍ぶ】"
+    ],
+    "page": 151
   },
   "さる": {
-    "core": "｢避る｣(①)、｢去る｣(②)、｢然る｣(③)の漢字から判別する。"
+    "core": "｢避る｣(①)、｢去る｣(②)、｢然る｣(③)の漢字から判別する。",
+    "meanings": [
+      "①<span class='emp1'>避ける</span> よける  【避る】",
+      "②<span class='emp2'>(その時に)なる</span> (その時が)来る 去る 遠ざかる 遠ざける  【去る】",
+      "③<span class='emp2'>もっともな</span> <span class='emp2'>そういう</span> <span class='emp2'>しかるべき</span> 立派な  【然る】"
+    ],
+    "page": 152
   },
   "かる": {
-    "core": "①｢離れる｣は｢離る｣、②｢枯れる｣は｢枯る｣、③｢かすれる｣と④｢干上がる｣は｢嗄る｣と｢涸る｣。"
+    "core": "①｢離れる｣は｢離る｣、②｢枯れる｣は｢枯る｣、③｢かすれる｣と④｢干上がる｣は｢嗄る｣と｢涸る｣。",
+    "meanings": [
+      "①<span class='emp1'>離れる</span> 別れる <span class='emp2'>疎遠になる</span> <span class='emp2'>絶える</span>  【離る】",
+      "①<span class='emp2'>疎遠になる</span> <span class='emp1'>離れる</span> 別れる <span class='emp2'>絶える</span>  【離る】",
+      "③<span class='emp2'>かすれる</span> しわがれる  【嗄る】"
+    ],
+    "page": 153
   },
   "わたる": {
-    "core": "現代語の｢渡る｣よりも意味が広い。"
+    "core": "現代語の｢渡る｣よりも意味が広い。",
+    "meanings": [
+      "①<span class='emp1'>通る</span> <span class='emp1'>行く</span> <span class='emp2'>来る</span>  【渡る】",
+      "②<span class='emp1'>ある</span> <span class='emp1'>～(で)ある</span>  【渡る】",
+      "③<span class='emp2'>通じる</span> 過ごす  【渡る】",
+      "④<span class='emp2'>一面に～(する)</span> <span class='emp2'>ずっと～(する)</span>  【渡る】"
+    ],
+    "page": 154
   },
   "さかし": {
-    "core": "理性的に判断する様。"
+    "core": "理性的に判断する様。",
+    "meanings": [
+      "①<span class='emp1'>賢い</span> <span class='emp2'>上手(じょうず)だ</span> <span class='emp2'>気が利いている</span>  【賢し】",
+      "②<span class='emp2'>気丈だ</span> しっかりしている  【賢し】",
+      "③<span class='emp2'>こざかしい</span> 生意気だ  【賢し】"
+    ],
+    "page": 155
   },
   "いみじ": {
-    "core": "よい意味だけでなく、ときに悪い意味も。"
+    "core": "よい意味だけでなく、ときに悪い意味も。",
+    "meanings": [
+      "①<span class='emp1'>ひどい</span> <span class='emp1'>はなはだしい</span>",
+      "②<span class='emp2'>すばらしい</span> 立派だ",
+      "③<span class='emp2'>たいそう</span> 非常に"
+    ],
+    "page": 156
   },
   "いたし": {
-    "core": "｢痛い｣ほどに、たいそうすばらしい。"
+    "core": "｢痛い｣ほどに、たいそうすばらしい。",
+    "meanings": [
+      "①<span class='emp1'>はなはだしい</span> <span class='emp2'>ひどい</span> たいそう  【甚し・痛し】",
+      "①<span class='emp2'>ひどい</span> <span class='emp1'>はなはだしい</span> たいそう  【甚し・痛し】",
+      "③<span class='emp2'>たいして</span> それほど  【甚し・痛し】",
+      "②<span class='emp2'>すばらしい</span>  【甚し・痛し】"
+    ],
+    "page": 156
   },
   "しどけなし": {
-    "core": "型にとらわれない様子を表す。"
+    "core": "型にとらわれない様子を表す。",
+    "meanings": [
+      "①<span class='emp1'>だらしない</span> <span class='emp2'>乱れている</span> 不調法だ",
+      "②<span class='emp2'>無造作だ</span> 気楽だ くつろいでいる"
+    ],
+    "page": 157
   },
   "ゆゆし": {
-    "core": "神聖なものなどを｢恐れはばかる｣が原義。"
+    "core": "神聖なものなどを｢恐れはばかる｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>不吉だ</span> <span class='emp2'>ひどい</span> はなはだしい",
+      "②<span class='emp2'>すばらしい</span> <span class='emp2'>恐れ多い</span>"
+    ],
+    "page": 158
   },
   "ゆかし": {
-    "core": "｢～(し)たい｣と心がひかれる気持ち。"
+    "core": "｢～(し)たい｣と心がひかれる気持ち。",
+    "meanings": [
+      "①<span class='emp1'>見たい</span> <span class='emp1'>聞きたい</span> <span class='emp1'>知りたい</span> 読みたい  【床し】",
+      "②<span class='emp2'>心がひかれる</span>  【床し】",
+      "③<span class='emp2'>懐かしい</span> 恋しい  【床し】"
+    ],
+    "page": 158
   },
   "すごし": {
-    "core": "見てぞっとするような状況を表す。"
+    "core": "見てぞっとするような状況を表す。",
+    "meanings": [
+      "①<span class='emp1'>もの寂しい</span> <span class='emp2'>気味が悪い</span> 恐ろしい  【凄し】",
+      "②<span class='emp2'>ぞっとするほどすばらしい</span>  【凄し】"
+    ],
+    "page": 159
   },
   "めざまし": {
-    "core": "｢目覚む｣(｢目が覚める｣の意)が変化してできた語。"
+    "core": "｢目覚む｣(｢目が覚める｣の意)が変化してできた語。",
+    "meanings": [
+      "①<span class='emp1'>心外だ</span> <span class='emp2'>気にくわない</span>  【目覚まし】",
+      "①<span class='emp2'>気にくわない</span> <span class='emp1'>心外だ</span>  【目覚まし】",
+      "②<span class='emp2'>すばらしい</span> 立派だ  【目覚まし】"
+    ],
+    "page": 160
   },
   "ところせし": {
-    "core": "｢場所が狭い｣という原義から転じ、｢窮屈だ｣の意に。"
+    "core": "｢場所が狭い｣という原義から転じ、｢窮屈だ｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>窮屈だ</span> <span class='emp2'>気づまりだ</span> いっぱいだ 面倒だ  【所狭し】",
+      "②<span class='emp2'>いばっている</span> 堂々としている  【所狭し】",
+      "③<span class='emp2'>大げさだ</span> <span class='emp2'>仰々しい</span>  【所狭し】"
+    ],
+    "page": 160
   },
   "かどかどし": {
-    "core": "①｢才気がある｣は｢才々し｣、②｢とげとげしい｣は｢角々し｣で、本来別語。"
+    "core": "①｢才気がある｣は｢才々し｣、②｢とげとげしい｣は｢角々し｣で、本来別語。",
+    "meanings": [
+      "①<span class='emp1'>才気がある</span> <span class='emp2'>賢い</span>  【才々し】",
+      "②<span class='emp2'>とげとげしい</span> 角ばっている  【角々し】"
+    ],
+    "page": 161
   },
   "さうなし": {
-    "core": "①｢たぐいなし｣は｢双無し｣、②｢たやすい｣は｢左右無し｣。"
+    "core": "①｢たぐいなし｣は｢双無し｣、②｢たやすい｣は｢左右無し｣。",
+    "meanings": [
+      "①<span class='emp1'>たぐいない</span>  【双無し】",
+      "②<span class='emp1'>たやすい</span> 造作無い あれこれ考えない  【左右無し】",
+      "②あれこれ考えない <span class='emp1'>たやすい</span> 造作無い  【左右無し】"
+    ],
+    "page": 162
   },
   "あなづらはし": {
-    "core": "現代語の｢あなどる｣から類推。"
+    "core": "現代語の｢あなどる｣から類推。",
+    "meanings": [
+      "①<span class='emp1'>軽んじやすい</span> <span class='emp2'>軽んじてよい</span>  【侮らはし】",
+      "②<span class='emp2'>気がおけない</span> 気が許せる  【侮らはし】"
+    ],
+    "page": 162
   },
   "ねたし": {
-    "core": "相手に引け目を感じたり反感を持つ気持ち。"
+    "core": "相手に引け目を感じたり反感を持つ気持ち。",
+    "meanings": [
+      "①<span class='emp1'>癪(しゃく)だ</span> <span class='emp2'>憎らしい</span> 残念だ くやしい  【嫉し・妬し】",
+      "②<span class='emp1'>ねたましくなるほどすばらしい</span>  【嫉し・妬し】"
+    ],
+    "page": 163
   },
   "うし": {
-    "core": "自分が｢つらい｣と、相手が｢つれない｣の両方の意味。"
+    "core": "自分が｢つらい｣と、相手が｢つれない｣の両方の意味。",
+    "meanings": [
+      "①<span class='emp1'>つらい</span> 嫌だ  【憂し】",
+      "②<span class='emp2'>つれない</span> 無情だ  【憂し】"
+    ],
+    "page": 164
   },
   "こころもとなし": {
-    "core": "心がむやみに急きたてられる→｢不安｣｢待ち遠しい｣。"
+    "core": "心がむやみに急きたてられる→｢不安｣｢待ち遠しい｣。",
+    "meanings": [
+      "①<span class='emp1'>気がかりだ</span> <span class='emp2'>落ち着かない</span> 不安だ  【心許なし】",
+      "②<span class='emp1'>待ち遠しい</span> じれったい  【心許なし】",
+      "③<span class='emp2'>ぼんやりしている</span>  【心許なし】"
+    ],
+    "page": 165
   },
   "こまやかなり": {
-    "core": "きめ細かく細部にまで行き届いている様。"
+    "core": "きめ細かく細部にまで行き届いている様。",
+    "meanings": [
+      "①(色が)<span class='emp1'>濃い</span> <span class='emp2'>きめ細かい</span> 詳細だ  【細やかなり・濃やかなり】",
+      "②<span class='emp2'>ねんごろだ</span> <span class='emp1'>親密だ</span> 心がこもっている  【細やかなり・濃やかなり】",
+      "③<span class='emp2'>上品だ</span> 繊細だ にっこりしている  【細やかなり・濃やかなり】"
+    ],
+    "page": 166
   },
   "あながちなり": {
-    "core": "｢自分勝手に強引に何かをする｣が原義。"
+    "core": "｢自分勝手に強引に何かをする｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>一途(いちず)だ</span> ひたむきだ  【強ちなり】",
+      "②<span class='emp2'>むやみだ</span> あんまりだ 際立っている  【強ちなり】",
+      "④(下に打消の語や反語表現を伴って)<span class='emp2'>必ずしも</span> 決して  【強ちなり】",
+      "③<span class='emp2'>無理だ</span> 強引だ  【強ちなり】"
+    ],
+    "page": 167
   },
   "ねんごろなり": {
-    "core": "｢懇｣の字を当てる。熱心で一途な様子。"
+    "core": "｢懇｣の字を当てる。熱心で一途な様子。",
+    "meanings": [
+      "①<span class='emp1'>一途だ</span> 心を込めた 一生懸命だ  【懇ろなり・念比なり】",
+      "②<span class='emp2'>丁寧だ</span> <span class='emp2'>念入りだ</span> 熱心だ  【懇ろなり・念比なり】",
+      "③<span class='emp2'>親密だ</span> むつまじい 懇意だ  【懇ろなり・念比なり】",
+      "②<span class='emp2'>念入りだ</span> <span class='emp2'>丁寧だ</span> 熱心だ  【懇ろなり・念比なり】"
+    ],
+    "page": 168
   },
   "なほざりなり": {
-    "core": "深く考えず、何気なく何かをする様子。"
+    "core": "深く考えず、何気なく何かをする様子。",
+    "meanings": [
+      "①<span class='emp1'>いい加減だ</span> おろそかだ  【等閑なり】",
+      "②<span class='emp2'>何気ない</span> 気にとめない  【等閑なり】",
+      "③<span class='emp2'>あっさりしている</span> ほどほどだ  【等閑なり】"
+    ],
+    "page": 169
   },
   "うちつけなり": {
-    "core": "｢突然・軽率・ぶしつけ｣がキーワード。"
+    "core": "｢突然・軽率・ぶしつけ｣がキーワード。",
+    "meanings": [
+      "①<span class='emp1'>とたんに</span> <span class='emp1'>突然だ</span>  【打ち付けなり】",
+      "②<span class='emp2'>露骨だ</span> <span class='emp2'>軽率だ</span>  【打ち付けなり】",
+      "③<span class='emp2'>ぶしつけだ</span> 無遠慮だ  【打ち付けなり】"
+    ],
+    "page": 170
   },
   "すくよかなり": {
-    "core": "マイナスイメージの意味に注意。｢すぐよかなり｣とも書く。"
+    "core": "マイナスイメージの意味に注意。｢すぐよかなり｣とも書く。",
+    "meanings": [
+      "①(心身が)<span class='emp1'>しっかりしている</span> 剛直だ 堅実だ  【健よかなり】",
+      "②<span class='emp2'>無愛想だ</span> <span class='emp2'>堅苦しい</span> 無骨だ 険しい  【健よかなり】"
+    ],
+    "page": 170
   },
   "おいらかなり": {
-    "core": "感情が穏やかでおっとりとしている様子。"
+    "core": "感情が穏やかでおっとりとしている様子。",
+    "meanings": [
+      "①<span class='emp1'>おっとりしている</span> <span class='emp2'>穏やかだ</span>",
+      "②<span class='emp2'>あっさりしている</span> <span class='emp2'>率直だ</span> 普通だ そっけない"
+    ],
+    "page": 171
   },
   "かたくななり": {
-    "core": "｢頑固｣の｢頑｣の字は、現代語でも｢かたくな｣と読む。"
+    "core": "｢頑固｣の｢頑｣の字は、現代語でも｢かたくな｣と読む。",
+    "meanings": [
+      "①<span class='emp1'>頑固だ</span> 偏屈だ  【頑ななり】",
+      "②<span class='emp2'>情趣を解さない</span> 教養がない  【頑ななり】",
+      "③<span class='emp2'>無骨だ</span> 見苦しい  【頑ななり】"
+    ],
+    "page": 172
   },
   "すずろなり": {
-    "core": "｢何となく・わけもなく｣がキーワード。｢そぞろなり｣とも書く。"
+    "core": "｢何となく・わけもなく｣がキーワード。｢そぞろなり｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>むやみに</span> <span class='emp2'>何となく</span> わけもなく  【漫ろなり】",
+      "②<span class='emp2'>思いがけない</span>  【漫ろなり】",
+      "③<span class='emp2'>いい加減だ</span> 無関係だ  【漫ろなり】"
+    ],
+    "page": 172
   },
   "かた": {
-    "core": "漢字を当てて意味を推測。"
+    "core": "漢字を当てて意味を推測。",
+    "meanings": [
+      "①<span class='emp1'>方法</span> <span class='emp1'>方向</span> <span class='emp2'>場所</span> 方面 時節  【方】",
+      "②<span class='emp2'>しるし</span> 形 絵 模様  【形】",
+      "③<span class='emp2'>潮干潟</span> 入江  【潟】"
+    ],
+    "page": 173
   },
   "ほど": {
-    "core": "場面に応じた訳し分けが肝心。"
+    "core": "場面に応じた訳し分けが肝心。",
+    "meanings": [
+      "①<span class='emp1'>間</span> <span class='emp1'>時間</span> <span class='emp1'>ころ</span> <span class='emp2'>時節</span> うち 時  【程】",
+      "③<span class='emp1'>身分</span> <span class='emp1'>年齢</span> 分際  【程】",
+      "②<span class='emp1'>あたり</span> <span class='emp1'>距離</span> 広さ 長さ 付近  【程】",
+      "④<span class='emp1'>程度</span> <span class='emp2'>様子</span>  【程】",
+      "⑤～くらい〔副助詞的〕 ～の限り〔副助詞的〕  【程】"
+    ],
+    "page": 174
   },
   "たより": {
-    "core": "｢頼みになるもの・よりどころ｣が原義。"
+    "core": "｢頼みになるもの・よりどころ｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>よりどころ</span> <span class='emp1'>つて</span> <span class='emp2'>縁故</span>  【頼り・便り】",
+      "②<span class='emp1'>機会</span> <span class='emp2'>便宜</span> ついで  【頼り・便り】",
+      "③<span class='emp2'>具合</span> <span class='emp2'>配置</span>  【頼り・便り】"
+    ],
+    "page": 175
   },
   "うたて・うたた": {
-    "core": "｢ますますひどく｣→｢見苦しく｣→｢嫌なことに｣の意に。"
+    "core": "｢ますますひどく｣→｢見苦しく｣→｢嫌なことに｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>ひどく</span> <span class='emp2'>ますます</span>  【転】",
+      "②<span class='emp1'>嫌なことに</span> 情けなく 嘆かわしく つらく  【転】",
+      "③<span class='emp2'>見苦しく</span> <span class='emp2'>異様に</span> 気味悪く  【転】",
+      "②情けなく <span class='emp1'>嫌なことに</span> 嘆かわしく つらく  【転】"
+    ],
+    "page": 176
   },
   "おのづから": {
-    "core": "｢自然とそうなる｣の意から｢偶然・たまたま｣の意に。"
+    "core": "｢自然とそうなる｣の意から｢偶然・たまたま｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>自然と</span> <span class='emp2'>たまたま</span> もしかすると  【自ら】",
+      "①<span class='emp2'>たまたま</span> <span class='emp1'>自然と</span> もしかすると  【自ら】"
+    ],
+    "page": 177
   },
   "いかで": {
-    "core": "｢～か｣(①)、または｢～か、いや～｣(②)と訳す。ほか③｢何とかして｣にも注意。"
+    "core": "｢～か｣(①)、または｢～か、いや～｣(②)と訳す。ほか③｢何とかして｣にも注意。",
+    "meanings": [
+      "①<span class='emp1'>どのように～か</span> <span class='emp2'>どうして～か</span>  【如何で】",
+      "②<span class='emp1'>どうして～か、いや～</span>  【如何で】",
+      "③<span class='emp2'>何とかして</span>  【如何で】"
+    ],
+    "page": 178
   },
   "いかが": {
-    "core": "｢～か｣(①)、または｢～か、いや～｣(②)と訳す。反語は｢いや～｣を忘れない。"
+    "core": "｢～か｣(①)、または｢～か、いや～｣(②)と訳す。反語は｢いや～｣を忘れない。",
+    "meanings": [
+      "①<span class='emp1'>どのように～か</span> どう～か  【如何】",
+      "②<span class='emp1'>どうして～か、いや～</span> <span class='emp1'>どう～か、いや～</span>  【如何】",
+      "③どうだろうか  【如何】"
+    ],
+    "page": 179
   },
   "など": {
-    "core": "｢何｣＋｢と｣→なにと→など。疑問と反語の訳し分けに注意。"
+    "core": "｢何｣＋｢と｣→なにと→など。疑問と反語の訳し分けに注意。",
+    "meanings": [
+      "①<span class='emp1'>どうして～か</span>",
+      "②<span class='emp1'>どうして～か、いや～</span>"
+    ],
+    "page": 180
   },
   "なでふ": {
-    "core": "疑問と反語の訳し分けに注意。読み方は｢ナジョー｣。"
+    "core": "疑問と反語の訳し分けに注意。読み方は｢ナジョー｣。",
+    "meanings": [
+      "①<span class='emp1'>どうして～か、いや～</span>",
+      "②<span class='emp2'>どれほどの～か、いや～</span> どういう～か、いや～",
+      "④<span class='emp2'>何という</span> どんな"
+    ],
+    "page": 181
   },
   "おはす": {
-    "core": "①｢いらっしゃる｣も②｢～(て)いらっしゃる｣も｢いらっしゃる｣と訳せばＯＫ。"
+    "core": "①｢いらっしゃる｣も②｢～(て)いらっしゃる｣も｢いらっしゃる｣と訳せばＯＫ。",
+    "meanings": [
+      "①<span class='emp1'>いらっしゃる</span> <span class='emp2'>おいでになる</span> お出かけになる  【御座す】",
+      "①<span class='emp1'>いらっしゃる</span> <span class='emp2'>おいでになる</span> お出かけになる  【御座す】",
+      "①<span class='emp2'>おいでになる</span> <span class='emp1'>いらっしゃる</span> お出かけになる  【御座す】",
+      "②<span class='emp2'>～(て)いらっしゃる</span>〔補助動詞〕 <span class='emp2'>お～になる</span>〔補助動詞〕  【御座す】"
+    ],
+    "page": 182
   },
   "おほす": {
-    "core": "｢命令する・命じる｣の意味から、｢おっしゃる｣の意へ。"
+    "core": "｢命令する・命じる｣の意味から、｢おっしゃる｣の意へ。",
+    "meanings": [
+      "①<span class='emp1'>おっしゃる</span>  【仰す】",
+      "②<span class='emp2'>命じる</span> 言いつける  【仰す】",
+      "②言いつける <span class='emp2'>命じる</span>  【仰す】"
+    ],
+    "page": 183
   },
   "きこしめす": {
-    "core": "｢聞く｣＋｢す｣＋｢めす｣。｢聞く・食ふ・飲む｣の最高敬語。"
+    "core": "｢聞く｣＋｢す｣＋｢めす｣。｢聞く・食ふ・飲む｣の最高敬語。",
+    "meanings": [
+      "②<span class='emp1'>めし上がる</span> お飲みになる  【聞こし召す】",
+      "③<span class='emp2'>お治めになる</span>  【聞こし召す】"
+    ],
+    "page": 184
   },
   "めす": {
-    "core": "①｢お呼びになる・お取り寄せになる｣は｢呼ぶ・取り寄す｣、②｢めし上がる・お召しになる・お乗りになる｣は｢食ふ・着る・乗る｣の尊敬語。"
+    "core": "①｢お呼びになる・お取り寄せになる｣は｢呼ぶ・取り寄す｣、②｢めし上がる・お召しになる・お乗りになる｣は｢食ふ・着る・乗る｣の尊敬語。",
+    "meanings": [
+      "①<span class='emp1'>お呼びになる</span> <span class='emp2'>お取り寄せになる</span>  【召す】",
+      "①<span class='emp2'>お取り寄せになる</span> <span class='emp1'>お呼びになる</span>  【召す】",
+      "②<span class='emp2'>お召しになる</span> <span class='emp2'>めし上がる</span> <span class='emp2'>お乗りになる</span>  【召す】",
+      "②<span class='emp2'>めし上がる</span> <span class='emp2'>お召しになる</span> <span class='emp2'>お乗りになる</span>  【召す】",
+      "②<span class='emp2'>お乗りになる</span> <span class='emp2'>めし上がる</span> <span class='emp2'>お召しになる</span>  【召す】"
+    ],
+    "page": 185
   },
   "おぼす": {
-    "core": "｢思ふ｣の尊敬語。｢おぼゆ｣とは別語。"
+    "core": "｢思ふ｣の尊敬語。｢おぼゆ｣とは別語。",
+    "meanings": [
+      "①<span class='emp1'>お思いになる</span>  【思す】"
+    ],
+    "page": 186
   },
   "しろしめす": {
-    "core": "｢知る｣・｢領(し)る｣(｢治める・領有する｣意)の尊敬語。"
+    "core": "｢知る｣・｢領(し)る｣(｢治める・領有する｣意)の尊敬語。",
+    "meanings": [
+      "①<span class='emp1'>ご存じである</span> <span class='emp2'>お知りになる</span>  【知ろし召す】",
+      "②<span class='emp2'>お治めになる</span>  【領ろし召す】"
+    ],
+    "page": 186
   },
   "おほとのごもる": {
-    "core": "｢大殿｣(大きな寝殿)に｢籠る｣→｢寝る｣の尊敬語。"
+    "core": "｢大殿｣(大きな寝殿)に｢籠る｣→｢寝る｣の尊敬語。",
+    "meanings": [
+      "①<span class='emp1'>おやすみになる</span>  【大殿籠る】"
+    ],
+    "page": 187
   },
   "あそばす": {
-    "core": "｢あそぶ｣＋｢す｣。現代語の｢遊ぶ｣より意味が広い。"
+    "core": "｢あそぶ｣＋｢す｣。現代語の｢遊ぶ｣より意味が広い。",
+    "meanings": [
+      "①(楽器などを)<span class='emp1'>演奏なさる</span>  【遊ばす】",
+      "②(詩文・和歌などを)<span class='emp1'>お詠みになる</span> (詩文・和歌などを)<span class='emp1'>お作りになる</span>  【遊ばす】",
+      "④<span class='emp2'>～あられる</span>〔補助動詞〕 <span class='emp2'>～なさる</span>〔補助動詞〕 <span class='emp2'>お～になる</span>〔補助動詞〕  【遊ばす】",
+      "③(歌舞・狩猟などを)なさる  【遊ばす】"
+    ],
+    "page": 188
   },
   "ごらんず": {
-    "core": "｢見る｣の尊敬語。｢見給ふ｣よりも敬意が強い。"
+    "core": "｢見る｣の尊敬語。｢見給ふ｣よりも敬意が強い。",
+    "meanings": [
+      "①<span class='emp1'>ご覧になる</span>  【御覧ず】"
+    ],
+    "page": 189
   },
   "きこゆ": {
-    "core": "貴人が話題中にあれば、①｢申し上げる｣、④｢(お)～申し上げる｣の敬語を疑ってみる。"
+    "core": "貴人が話題中にあれば、①｢申し上げる｣、④｢(お)～申し上げる｣の敬語を疑ってみる。",
+    "meanings": [
+      "①<span class='emp1'>申し上げる</span> 手紙をさし上げる  【聞こゆ】",
+      "④<span class='emp1'>(お)～申し上げる</span>〔補助動詞〕 ～申す〔補助動詞〕  【聞こゆ】",
+      "②<span class='emp2'>うわさされる</span> 聞こえる  【聞こゆ】",
+      "③<span class='emp2'>わかる</span> <span class='emp2'>理解できる</span>  【聞こゆ】"
+    ],
+    "page": 190
   },
   "そうす": {
-    "core": "天皇(または院)に｢申し上げる｣場合だけ。"
+    "core": "天皇(または院)に｢申し上げる｣場合だけ。",
+    "meanings": [
+      "①<span class='emp1'>奏上する</span> <span class='emp1'>申し上げる</span>  【奏す】",
+      "②<span class='emp2'>演奏する</span> 奏でる  【奏す】"
+    ],
+    "page": 191
   },
   "まかる": {
-    "core": "｢行く・来｣の謙譲語。｢貴所から退出する｣が原義。"
+    "core": "｢行く・来｣の謙譲語。｢貴所から退出する｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>退出申し上げる</span> <span class='emp2'>参上する</span> <span class='emp2'>参る</span>  【罷る】",
+      "②<span class='emp2'>参ります</span> 行きます  【罷る】",
+      "③<span class='emp2'>～ます</span> <span class='emp2'>～申す</span>  【罷る】"
+    ],
+    "page": 192
   },
   "つかうまつる": {
-    "core": "すべて、動作の受け手への敬意を示す謙譲語。"
+    "core": "すべて、動作の受け手への敬意を示す謙譲語。",
+    "meanings": [
+      "①<span class='emp1'>お仕えする</span> <span class='emp2'>いたす</span>  【仕う奉る】",
+      "③<span class='emp1'>(お)～申し上げる</span>〔補助動詞〕  【仕う奉る】",
+      "②<span class='emp2'>(して)さし上げる</span> (し)申し上げる  【仕う奉る】"
+    ],
+    "page": 193
   },
   "たまふ": {
-    "core": "尊敬語(①｢くださる｣、②｢～なさる・お～になる｣)か謙譲語(③｢～ております｣)かを区別する。"
+    "core": "尊敬語(①｢くださる｣、②｢～なさる・お～になる｣)か謙譲語(③｢～ております｣)かを区別する。",
+    "meanings": [
+      "①<span class='emp1'>くださる</span> <span class='emp2'>下賜なさる</span>  【給ふ・賜ふ】",
+      "②<span class='emp1'>～なさる</span>〔補助動詞〕 <span class='emp2'>お～になる</span>〔補助動詞〕  【給ふ・賜ふ】",
+      "②<span class='emp2'>お～になる</span>〔補助動詞〕 <span class='emp1'>～なさる</span>〔補助動詞〕  【給ふ・賜ふ】",
+      "③<span class='emp2'>～ております</span>〔補助動詞〕 <span class='emp2'>～(さ)せていただく</span>〔補助動詞〕 <span class='emp2'>～ます</span>〔補助動詞〕  【給ふ・賜ふ】"
+    ],
+    "page": 194
   },
   "まゐる": {
-    "core": "謙譲語(①｢参上する｣、②｢さし上げる｣、④｢～(て)さし上げる｣)と尊敬語(③｢めし上がる｣)の両方の意味がある。"
+    "core": "謙譲語(①｢参上する｣、②｢さし上げる｣、④｢～(て)さし上げる｣)と尊敬語(③｢めし上がる｣)の両方の意味がある。",
+    "meanings": [
+      "①<span class='emp1'>参上する</span> 参内する 参詣する  【参る】",
+      "②<span class='emp2'>さし上げる</span>  【参る】",
+      "④<span class='emp2'>～(て)さし上げる</span> <span class='emp2'>お～申し上げる</span>  【参る】",
+      "③<span class='emp2'>めし上がる</span>  【参る】"
+    ],
+    "page": 195
   },
   "たてまつる": {
-    "core": "謙譲語の用法が主だが、③｢お召しになる｣の尊敬語の用法も。｢たいまつる｣とも書く。"
+    "core": "謙譲語の用法が主だが、③｢お召しになる｣の尊敬語の用法も。｢たいまつる｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>さし上げる</span>  【奉る】",
+      "②<span class='emp1'>(お)～申し上げる</span>〔補助動詞〕  【奉る】",
+      "③<span class='emp2'>お召しになる</span> <span class='emp2'>めし上がる</span> <span class='emp2'>お乗りになる</span>  【奉る】",
+      "③<span class='emp2'>お乗りになる</span> <span class='emp2'>お召しになる</span> <span class='emp2'>めし上がる</span>  【奉る】",
+      "③<span class='emp2'>めし上がる</span> <span class='emp2'>お召しになる</span> <span class='emp2'>お乗りになる</span>  【奉る】",
+      "④参上させる  【奉る】"
+    ],
+    "page": 196
   },
   "はべり": {
-    "core": "｢お仕えする｣という謙譲語が原義。"
+    "core": "｢お仕えする｣という謙譲語が原義。",
+    "meanings": [
+      "①<span class='emp1'>お仕えする</span> <span class='emp2'>お側に控える</span> 伺候する  【侍り】",
+      "②<span class='emp1'>ございます</span> <span class='emp2'>あります</span> います  【侍り】",
+      "②<span class='emp2'>あります</span> <span class='emp1'>ございます</span> います  【侍り】",
+      "③<span class='emp2'>～(で)ございます</span>〔補助動詞〕 <span class='emp2'>～です</span>〔補助動詞〕 <span class='emp2'>～ます</span>〔補助動詞〕 <span class='emp2'>～(て)おります</span>〔補助動詞〕  【侍り】"
+    ],
+    "page": 197
   },
   "さぶらふ": {
-    "core": "貴人の｢お側に控える｣、貴人に｢お仕えする｣(①謙譲語)が原義。｢さうらふ｣とも書く。"
+    "core": "貴人の｢お側に控える｣、貴人に｢お仕えする｣(①謙譲語)が原義。｢さうらふ｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>お仕えする</span> <span class='emp2'>お側に控える</span> 伺候する お手もとにある  【候ふ・侍ふ】",
+      "②<span class='emp1'>ございます</span> <span class='emp2'>あります</span> います  【候ふ・侍ふ】",
+      "③<span class='emp2'>～(で)ございます</span>〔補助動詞〕 <span class='emp2'>～です</span>〔補助動詞〕 <span class='emp2'>～ます</span>〔補助動詞〕 <span class='emp2'>～(て)おります</span>〔補助動詞〕  【候ふ・侍ふ】"
+    ],
+    "page": 198
   },
   "こころう": {
-    "core": "｢心｣＋｢得(う)｣。現代語では｢心得(え)る｣。"
+    "core": "｢心｣＋｢得(う)｣。現代語では｢心得(え)る｣。",
+    "meanings": [
+      "①<span class='emp1'>理解できる</span> <span class='emp2'>納得がいく</span> 判断する  【心得】",
+      "①<span class='emp2'>納得がいく</span> <span class='emp1'>理解できる</span> 判断する  【心得】",
+      "②<span class='emp2'>通じる</span> たしなみがある  【心得】"
+    ],
+    "page": 202
   },
   "こころゆく": {
-    "core": "心が満足して晴れ晴れする気持ち。"
+    "core": "心が満足して晴れ晴れする気持ち。",
+    "meanings": [
+      "①<span class='emp1'>心が晴れ晴れする</span> <span class='emp2'>満足する</span>  【心行く】",
+      "①<span class='emp2'>満足する</span> <span class='emp1'>心が晴れ晴れする</span>  【心行く】"
+    ],
+    "page": 202
   },
   "めづ": {
-    "core": "現代語では｢愛(め)でる｣。漢字を思い浮かべる。"
+    "core": "現代語では｢愛(め)でる｣。漢字を思い浮かべる。",
+    "meanings": [
+      "①<span class='emp1'>心がひかれる</span> 感動する  【愛づ】",
+      "②<span class='emp2'>愛する</span> <span class='emp2'>ほめる</span>  【愛づ】",
+      "①感動する <span class='emp1'>心がひかれる</span>  【愛づ】"
+    ],
+    "page": 203
   },
   "つつむ": {
-    "core": "①｢はばかる｣は｢慎む｣。②｢包み隠す｣は｢包む｣。重要なのは①。"
+    "core": "①｢はばかる｣は｢慎む｣。②｢包み隠す｣は｢包む｣。重要なのは①。",
+    "meanings": [
+      "①<span class='emp1'>はばかる</span> <span class='emp2'>遠慮する</span> 気後れする  【慎む】",
+      "②<span class='emp2'>包み隠す</span> <span class='emp2'>覆い囲む</span> 隠す  【包む】"
+    ],
+    "page": 204
   },
   "やすらふ": {
-    "core": "｢休む｣＋｢ふ｣→｢休み続ける｣から｢ためらう｣の意に。"
+    "core": "｢休む｣＋｢ふ｣→｢休み続ける｣から｢ためらう｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>ためらう</span> たたずむ  【休らふ】",
+      "②<span class='emp2'>休む</span> <span class='emp2'>留まる</span>  【休らふ】"
+    ],
+    "page": 204
   },
   "たふ": {
-    "core": "現代語の｢堪える｣。｢絶える｣とは別語。"
+    "core": "現代語の｢堪える｣。｢絶える｣とは別語。",
+    "meanings": [
+      "①<span class='emp1'>我慢する</span> もちこたえる  【堪ふ・耐ふ】",
+      "②<span class='emp2'>能力がある</span> 応じることができる  【堪ふ・耐ふ】"
+    ],
+    "page": 205
   },
   "むすぶ": {
-    "core": "②｢作る｣、③｢約束する｣、④｢できる｣は｢結｣。①｢すくいあげる｣は漢字で書くと｢掬｣という字を使う。"
+    "core": "②｢作る｣、③｢約束する｣、④｢できる｣は｢結｣。①｢すくいあげる｣は漢字で書くと｢掬｣という字を使う。",
+    "meanings": [
+      "①<span class='emp1'>すくいあげる</span>  【掬ぶ】",
+      "②<span class='emp1'>作る</span> 形づくる 結びつける 結ぶ  【結ぶ】",
+      "③<span class='emp2'>約束する</span>  【結ぶ】"
+    ],
+    "page": 206
   },
   "たゆむ": {
-    "core": "｢油断する｣のも｢怠ける｣のも気の弛(ゆる)み。"
+    "core": "｢油断する｣のも｢怠ける｣のも気の弛(ゆる)み。",
+    "meanings": [
+      "①<span class='emp1'>油断する</span> <span class='emp2'>気がゆるむ</span> <span class='emp2'>弱まる</span>  【弛む・緩む】",
+      "②<span class='emp2'>怠る</span> なまける  【弛む・緩む】",
+      "③<span class='emp2'>油断させる</span> 気をゆるませる  【弛む・緩む】"
+    ],
+    "page": 207
   },
   "ならふ": {
-    "core": "｢習う｣より｢慣れる｣ことが大切。"
+    "core": "｢習う｣より｢慣れる｣ことが大切。",
+    "meanings": [
+      "①<span class='emp1'>なじむ</span> <span class='emp1'>慣れる</span> <span class='emp2'>なつく</span> 親しくなる  【馴らふ・慣らふ】",
+      "②<span class='emp2'>習う</span> 経験する  【習ふ】"
+    ],
+    "page": 208
   },
   "まねぶ": {
-    "core": "古典では｢学ぶ｣の意より｢まねる｣の意味が中心。"
+    "core": "古典では｢学ぶ｣の意より｢まねる｣の意味が中心。",
+    "meanings": [
+      "①<span class='emp1'>まねる</span> <span class='emp2'>まねをする</span>  【学ぶ・真似ぶ】",
+      "②(ありのまま)<span class='emp2'>伝える</span>  【学ぶ・真似ぶ】",
+      "③習得する 学ぶ 学問をする  【学ぶ・真似ぶ】"
+    ],
+    "page": 208
   },
   "いらふ": {
-    "core": "｢答ふ・応ふ｣は、｢いらふ｣とも｢こたふ｣とも読む。"
+    "core": "｢答ふ・応ふ｣は、｢いらふ｣とも｢こたふ｣とも読む。",
+    "meanings": [
+      "①<span class='emp1'>返事をする</span> 応える  【答ふ・応ふ】",
+      "②挨拶する  【答ふ・応ふ】"
+    ],
+    "page": 209
   },
   "やむ": {
-    "core": "四段なら自動詞、下二段なら他動詞。"
+    "core": "四段なら自動詞、下二段なら他動詞。",
+    "meanings": [
+      "①<span class='emp1'>終わる</span> 止まる 中止になる  【止む・已む・罷む】",
+      "②(病気などが)<span class='emp2'>治る</span> 癒える  【止む・已む・罷む】"
+    ],
+    "page": 210
   },
   "もてなす": {
-    "core": "広く物事を執り行う、取り計らう意。"
+    "core": "広く物事を執り行う、取り計らう意。",
+    "meanings": [
+      "①<span class='emp1'>取り計らう</span> 取り扱う  【もて成す】",
+      "②<span class='emp2'>もてはやす</span>  【もて成す】"
+    ],
+    "page": 210
   },
   "おきつ": {
-    "core": "｢掟(おきて)｣(｢計画・法則｣の意)が動詞化した語。"
+    "core": "｢掟(おきて)｣(｢計画・法則｣の意)が動詞化した語。",
+    "meanings": [
+      "①<span class='emp1'>取り計らう</span> <span class='emp2'>計画を立てる</span> (前もって)処置する  【掟つ】",
+      "②<span class='emp2'>指図する</span> 命じる  【掟つ】"
+    ],
+    "page": 211
   },
   "かこつ": {
-    "core": "名詞｢託言(かごと・かこと)｣(｢口実・恨み事｣の意)の変化した語。"
+    "core": "名詞｢託言(かごと・かこと)｣(｢口実・恨み事｣の意)の変化した語。",
+    "meanings": [
+      "①<span class='emp1'>かこつける</span> <span class='emp2'>口実にする</span>  【託つ】",
+      "②<span class='emp2'>恨み嘆く</span> 恨み言を言う  【託つ】"
+    ],
+    "page": 212
   },
   "てうず": {
-    "core": "｢調(てう)｣がサ変動詞化した語。①｢こしらえ整える｣、②｢調伏する｣、③｢懲らしめる｣が重要。"
+    "core": "｢調(てう)｣がサ変動詞化した語。①｢こしらえ整える｣、②｢調伏する｣、③｢懲らしめる｣が重要。",
+    "meanings": [
+      "①<span class='emp2'>(こしらえ)</span><span class='emp1'>整える</span> 調達する  【調ず】",
+      "②(物の怪＝もののけを)<span class='emp2'>調伏する</span>  【調ず】",
+      "③<span class='emp2'>懲らしめる</span>  【調ず】"
+    ],
+    "page": 212
   },
   "さはる": {
-    "core": "現代語の｢さわる｣(触れる)とは別語。"
+    "core": "現代語の｢さわる｣(触れる)とは別語。",
+    "meanings": [
+      "①<span class='emp1'>さしつかえる</span> <span class='emp2'>妨げになる</span>  【障る】"
+    ],
+    "page": 213
   },
   "まどふ・まとふ": {
-    "core": "｢惑｣を当てる。｢パニック(惑乱)｣状態。"
+    "core": "｢惑｣を当てる。｢パニック(惑乱)｣状態。",
+    "meanings": [
+      "①<span class='emp1'>迷う</span> 途方に暮れる 道に迷う  【惑ふ】",
+      "②<span class='emp2'>ひどく～(する)</span>  【惑ふ】"
+    ],
+    "page": 214
   },
   "こうず": {
-    "core": "｢困(こん)｣から変化した語で、困った状態を表す。"
+    "core": "｢困(こん)｣から変化した語で、困った状態を表す。",
+    "meanings": [
+      "①<span class='emp1'>疲れる</span>  【困ず】",
+      "②<span class='emp2'>困る</span> 悩む 苦しむ  【困ず】"
+    ],
+    "page": 214
   },
   "すさぶ": {
-    "core": "勢いのまま、気の向くままに事を行う意。"
+    "core": "勢いのまま、気の向くままに事を行う意。",
+    "meanings": [
+      "①(何かに)<span class='emp1'>興じる</span> <span class='emp2'>慰めにする</span> 気の向くまま(何かを)する  【荒ぶ・進ぶ・遊ぶ】"
+    ],
+    "page": 215
   },
   "いはけなし": {
-    "core": "｢稚(いは)く｣(｢子どもっぽい｣の意)＋｢なし｣。｢いわけなし｣とも書く。"
+    "core": "｢稚(いは)く｣(｢子どもっぽい｣の意)＋｢なし｣。｢いわけなし｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>幼い</span> <span class='emp2'>子どもっぽい</span> <span class='emp2'>あどけない</span> 幼稚だ  【稚けなし】"
+    ],
+    "page": 216
   },
   "しるし": {
-    "core": "現代語の｢いち《じるし》い｣のもとになった語。｢しろし｣とも書く。"
+    "core": "現代語の｢いち《じるし》い｣のもとになった語。｢しろし｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>はっきりしている</span> 際立っている  【著し】",
+      "②<span class='emp1'>その通りだ</span>〔｢～もしるし｣の形で〕 予想通りだ〔｢～もしるし｣の形で〕  【著し】",
+      "①際立っている <span class='emp1'>はっきりしている</span>  【著し】"
+    ],
+    "page": 216
   },
   "らうらうじ": {
-    "core": "キーワードは｢洗練された上品さ｣。"
+    "core": "キーワードは｢洗練された上品さ｣。",
+    "meanings": [
+      "①<span class='emp1'>洗練されている</span> 巧みだ  【労労じ】",
+      "②<span class='emp2'>上品で美しい</span>  【労労じ】"
+    ],
+    "page": 217
   },
   "かたはらいたし": {
-    "core": "傍らにいて見苦しい・聞き苦しいと感じる様。"
+    "core": "傍らにいて見苦しい・聞き苦しいと感じる様。",
+    "meanings": [
+      "①<span class='emp1'>聞き(見)苦しい</span> <span class='emp2'>聞く(見る)に耐えない</span> みっともない  【傍ら痛し】",
+      "①<span class='emp2'>聞く(見る)に耐えない</span> <span class='emp1'>聞き(見)苦しい</span> みっともない  【傍ら痛し】",
+      "③<span class='emp2'>きまりが悪い</span> 恥ずかしい  【傍ら痛し】"
+    ],
+    "page": 218
   },
   "とし": {
-    "core": "①｢すぐに｣は｢疾｣、②｢するどい｣は｢利・敏｣の漢字を当てる。"
+    "core": "①｢すぐに｣は｢疾｣、②｢するどい｣は｢利・敏｣の漢字を当てる。",
+    "meanings": [
+      "①<span class='emp1'>すぐに</span> <span class='emp1'>速い</span> 早い 急いで 激しい  【疾し】",
+      "②<span class='emp2'>するどい</span> すばやい  【利し・敏し】"
+    ],
+    "page": 218
   },
   "らうがはし": {
-    "core": "｢乱｣の字から想像されるイメージ。"
+    "core": "｢乱｣の字から想像されるイメージ。",
+    "meanings": [
+      "①<span class='emp1'>混雑している</span> <span class='emp2'>乱れている</span>  【乱がはし】",
+      "②<span class='emp2'>無作法だ</span> <span class='emp2'>乱暴だ</span> 無礼だ  【乱がはし】",
+      "③<span class='emp2'>騒々しい</span> 騒がしい  【乱がはし】"
+    ],
+    "page": 219
   },
   "めやすし": {
-    "core": "｢目に安し｣で、見た目に感じがよい様を表す。"
+    "core": "｢目に安し｣で、見た目に感じがよい様を表す。",
+    "meanings": [
+      "①<span class='emp1'>見苦しくない</span> <span class='emp2'>感じがよい</span>  【目安し】",
+      "①<span class='emp2'>感じがよい</span> <span class='emp1'>見苦しくない</span>  【目安し】"
+    ],
+    "page": 220
   },
   "いぶせし": {
-    "core": "心にひっかかる｢もやもや感｣を表す。"
+    "core": "心にひっかかる｢もやもや感｣を表す。",
+    "meanings": [
+      "①<span class='emp1'>うっとうしい</span> <span class='emp2'>心が晴れない</span>",
+      "②<span class='emp2'>気がかりだ</span> 不審だ"
+    ],
+    "page": 220
   },
   "なめし": {
-    "core": "現代語の｢なめる｣から連想されるのは｢無礼｣。"
+    "core": "現代語の｢なめる｣から連想されるのは｢無礼｣。",
+    "meanings": [
+      "①<span class='emp1'>無礼だ</span> <span class='emp2'>失礼だ</span> 無作法だ ぶしつけだ"
+    ],
+    "page": 221
   },
   "またし・まつたし": {
-    "core": "｢完・全｣の字を当てると意味は明白。"
+    "core": "｢完・全｣の字を当てると意味は明白。",
+    "meanings": [
+      "①<span class='emp1'>完全だ</span> <span class='emp2'>無事だ</span> 欠点がない  【完し・全し】",
+      "②<span class='emp2'>決して</span> まったく  【完し・全し】"
+    ],
+    "page": 222
   },
   "むくつけし": {
-    "core": "人知を超えたものを気味悪く思う気持ち。"
+    "core": "人知を超えたものを気味悪く思う気持ち。",
+    "meanings": [
+      "①<span class='emp1'>気味が悪い</span> <span class='emp2'>不気味だ</span> <span class='emp2'>恐ろしい</span>",
+      "②<span class='emp2'>無骨だ</span> 無風流だ"
+    ],
+    "page": 222
   },
   "ともし": {
-    "core": "｢乏しい｣と他人が｢うらやましく｣なります。"
+    "core": "｢乏しい｣と他人が｢うらやましく｣なります。",
+    "meanings": [
+      "①<span class='emp1'>貧しい</span> <span class='emp1'>乏しい</span> 少ない  【乏し】",
+      "②<span class='emp2'>うらやましい</span> 心ひかれる 慕わしい  【羨し】"
+    ],
+    "page": 223
   },
   "おどろおどろし": {
-    "core": "｢おどろく｣が重なった語。"
+    "core": "｢おどろく｣が重なった語。",
+    "meanings": [
+      "①<span class='emp1'>大げさだ</span> <span class='emp2'>仰々しい</span>",
+      "②<span class='emp1'>気味が悪い</span> 恐ろしい 不気味だ",
+      "②不気味だ <span class='emp1'>気味が悪い</span> 恐ろしい"
+    ],
+    "page": 224
   },
   "ことごとし": {
-    "core": "｢事｣が重なると仰々しいもの。｢ことことし｣とも書く。"
+    "core": "｢事｣が重なると仰々しいもの。｢ことことし｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>大げさだ</span> <span class='emp2'>仰々しい</span>  【事事し】"
+    ],
+    "page": 225
   },
   "こちたし": {
-    "core": "｢多すぎて仰々しい｣の意。"
+    "core": "｢多すぎて仰々しい｣の意。",
+    "meanings": [
+      "①<span class='emp1'>仰々しい</span> 大げさだ  【言痛し・事痛し】",
+      "②<span class='emp1'>多すぎる</span> 激しい  【言痛し・事痛し】",
+      "③<span class='emp2'>うるさい</span> わずらわしい  【言痛し・事痛し】"
+    ],
+    "page": 226
   },
   "けし": {
-    "core": "｢けしからず｣(｢けし｣＋｢ず｣)と同じ。"
+    "core": "｢けしからず｣(｢けし｣＋｢ず｣)と同じ。",
+    "meanings": [
+      "①<span class='emp1'>悪い</span> <span class='emp1'>異様だ</span> <span class='emp2'>変だ</span> <span class='emp2'>普通と違う</span> 怪しげだ  【怪し・異し】"
+    ],
+    "page": 227
   },
   "たいだいし": {
-    "core": "人の言動を非難したり、嘆いたりする気持ち。"
+    "core": "人の言動を非難したり、嘆いたりする気持ち。",
+    "meanings": [
+      "①<span class='emp1'>とんでもない</span> <span class='emp2'>もってのほかだ</span> 不都合だ  【怠怠し】",
+      "②前途多難だ 面倒だ  【怠怠し】"
+    ],
+    "page": 228
   },
   "まさなし": {
-    "core": "｢正＋無し｣で、｢正しくない・よくない｣の意。"
+    "core": "｢正＋無し｣で、｢正しくない・よくない｣の意。",
+    "meanings": [
+      "①<span class='emp1'>みっともない</span> <span class='emp2'>不都合だ</span> よくない 卑怯(ひきょう)だ 見苦しい  【正無し】",
+      "①卑怯(ひきょう)だ <span class='emp1'>みっともない</span> <span class='emp2'>不都合だ</span> よくない 見苦しい  【正無し】"
+    ],
+    "page": 228
   },
   "ゆくりなし": {
-    "core": "｢ゆっくりする暇が無い｣→｢突然だ｣と覚える。"
+    "core": "｢ゆっくりする暇が無い｣→｢突然だ｣と覚える。",
+    "meanings": [
+      "①<span class='emp1'>突然だ</span> <span class='emp1'>思いがけない</span>",
+      "②<span class='emp2'>軽はずみだ</span> 不注意だ"
+    ],
+    "page": 229
   },
   "けざやかなり": {
-    "core": "｢界(け)・さやか｣で、境界がはっきりとしている様。"
+    "core": "｢界(け)・さやか｣で、境界がはっきりとしている様。",
+    "meanings": [
+      "①<span class='emp1'>はっきりと(している)</span> <span class='emp2'>際立っている</span> <span class='emp2'>鮮やかだ</span> 鮮明だ",
+      "①<span class='emp2'>際立っている</span> <span class='emp2'>鮮やかだ</span> 鮮明だ"
+    ],
+    "page": 230
   },
   "なのめなり": {
-    "core": "平凡でありふれた感じ。"
+    "core": "平凡でありふれた感じ。",
+    "meanings": [
+      "①<span class='emp1'>平凡だ</span> <span class='emp2'>ありふれている</span> 無難だ  【斜めなり】",
+      "①<span class='emp2'>ありふれている</span> <span class='emp1'>平凡だ</span> 無難だ  【斜めなり】",
+      "③<span class='emp2'>格別だ</span> 並一通りでない  【斜めなり】",
+      "②<span class='emp2'>いい加減だ</span> なおざりだ  【斜めなり】",
+      "③並一通りでない <span class='emp2'>格別だ</span>  【斜めなり】"
+    ],
+    "page": 231
   },
   "とみなり": {
-    "core": "｢頓(とん)｣(急なこと)から変化した語。"
+    "core": "｢頓(とん)｣(急なこと)から変化した語。",
+    "meanings": [
+      "①<span class='emp1'>急だ</span> にわかだ  【頓なり】",
+      "②<span class='emp2'>急には</span> 早速に 突然  【頓なり】"
+    ],
+    "page": 232
   },
   "けうなり": {
-    "core": "｢希有(けう)｣は｢希(まれ)に有(あ)り｣のことで、｢めずらしい｣の意。"
+    "core": "｢希有(けう)｣は｢希(まれ)に有(あ)り｣のことで、｢めずらしい｣の意。",
+    "meanings": [
+      "①<span class='emp1'>珍しい</span> <span class='emp2'>めったにない</span> 不思議だ  【希有なり・稀有なり】",
+      "②<span class='emp2'>とんでもない</span>  【希有なり・稀有なり】"
+    ],
+    "page": 232
   },
   "あやにくなり": {
-    "core": "｢あやにく｣は｢あいにく｣と覚える。"
+    "core": "｢あやにく｣は｢あいにく｣と覚える。",
+    "meanings": [
+      "①<span class='emp1'>あいにくだ</span> <span class='emp2'>都合が悪い</span> 間が悪い  【生憎なり】",
+      "②<span class='emp2'>厳しい</span> 意地が悪い  【生憎なり】"
+    ],
+    "page": 233
   },
   "せちなり": {
-    "core": "現代語の｢切に｣(ひたすら)に相当する語。｢せつなり｣とも書く。"
+    "core": "現代語の｢切に｣(ひたすら)に相当する語。｢せつなり｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>ひどい</span> <span class='emp2'>痛切だ</span> 感銘深い  【切なり】",
+      "②<span class='emp2'>しきりに</span> <span class='emp2'>ひたむきに</span>  【切なり】",
+      "③<span class='emp2'>重要だ</span> 大切だ  【切なり】",
+      "③大切だ <span class='emp2'>重要だ</span>  【切なり】"
+    ],
+    "page": 234
   },
   "そのかみ": {
-    "core": "｢其(そ)の上(かみ)｣の字を当てる。｢その当時｣が原義。"
+    "core": "｢其(そ)の上(かみ)｣の字を当てる。｢その当時｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>その当時</span> <span class='emp2'>当時</span> 過去  【其の上】"
+    ],
+    "page": 234
   },
   "よろこび": {
-    "core": "喜びごとを授かってお礼するのは当たり前。"
+    "core": "喜びごとを授かってお礼するのは当たり前。",
+    "meanings": [
+      "①<span class='emp1'>叙位や昇進などの慶事</span> <span class='emp2'>喜び</span> <span class='emp2'>お祝い</span> 祝辞  【喜び・悦び・慶び】",
+      "②(叙位・任官などの)<span class='emp2'>お礼</span> 謝辞  【喜び・悦び・慶び】"
+    ],
+    "page": 235
   },
   "きは": {
-    "core": "②｢そば｣がほぼ原義→①の｢身分・程度｣の意に。"
+    "core": "②｢そば｣がほぼ原義→①の｢身分・程度｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>身分</span> <span class='emp2'>程度</span> <span class='emp2'>家柄</span> 分際  【際・涯・限】",
+      "②<span class='emp2'>そば</span> <span class='emp2'>限り</span> 端 境目  【際・涯・限】"
+    ],
+    "page": 236
   },
   "しな": {
-    "core": "｢階段｣が原義→｢身分｣や｢品位｣の意に。"
+    "core": "｢階段｣が原義→｢身分｣や｢品位｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>身分</span> 家柄 地位 分際  【階・品・級・科】",
+      "②<span class='emp2'>段</span> <span class='emp2'>きざはし</span> 階段  【階・品・級・科】",
+      "③<span class='emp2'>品位</span> 品格 気品  【階・品・級・科】"
+    ],
+    "page": 236
   },
   "かたへ": {
-    "core": "文字通り｢片(かた)＋方(へ)｣で、｢片方｣の意味。"
+    "core": "文字通り｢片(かた)＋方(へ)｣で、｢片方｣の意味。",
+    "meanings": [
+      "①<span class='emp1'>仲間</span> <span class='emp1'>片方</span> <span class='emp2'>かたわら</span> 片側  【片方】",
+      "②<span class='emp2'>一部分</span> なかば  【片方】"
+    ],
+    "page": 237
   },
   "あや": {
-    "core": "原義は③｢綾織物｣だが、｢理由・分別｣の意味が重要。"
+    "core": "原義は③｢綾織物｣だが、｢理由・分別｣の意味が重要。",
+    "meanings": [
+      "①<span class='emp1'>波紋</span> <span class='emp2'>模様</span> 木目  【文・彩・綾】",
+      "②<span class='emp1'>理由</span> <span class='emp1'>分別</span> <span class='emp2'>条理</span> <span class='emp2'>道理</span>  【文・彩・綾】"
+    ],
+    "page": 238
   },
   "はらから": {
-    "core": "｢腹族(はらから)｣が語源。現代語の｢同胞(はらから・どうほう)｣より意味が狭い。"
+    "core": "｢腹族(はらから)｣が語源。現代語の｢同胞(はらから・どうほう)｣より意味が狭い。",
+    "meanings": [
+      "①<span class='emp1'>兄弟姉妹</span> 兄弟  【同胞】"
+    ],
+    "page": 239
   },
   "ほだし": {
-    "core": "｢ほだす｣(｢束縛する｣の意)の名詞形。"
+    "core": "｢ほだす｣(｢束縛する｣の意)の名詞形。",
+    "meanings": [
+      "①<span class='emp1'>足手まとい</span> <span class='emp2'>束縛</span> <span class='emp2'>係累</span>  【絆】"
+    ],
+    "page": 239
   },
   "すべ": {
-    "core": "｢術｣の字を当てる。｢ずち｣の読みもある。"
+    "core": "｢術｣の字を当てる。｢ずち｣の読みもある。",
+    "meanings": [
+      "①<span class='emp1'>方法</span> <span class='emp1'>手段</span> やり方  【術】"
+    ],
+    "page": 240
   },
   "たづき": {
-    "core": "｢手付(たづ)き｣→｢手段・手がかり｣の意に。"
+    "core": "｢手付(たづ)き｣→｢手段・手がかり｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>手段</span> <span class='emp2'>手がかり</span> 資金  【方便】",
+      "②<span class='emp2'>頼る所</span> よりどころ  【方便】"
+    ],
+    "page": 240
   },
   "よすが": {
-    "core": "｢寄(よ)す処(が)｣が語源で、｢身を寄せる所｣が原義。"
+    "core": "｢寄(よ)す処(が)｣が語源で、｢身を寄せる所｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>身を寄せる所</span> <span class='emp2'>よりどころ</span>  【縁・因・便】",
+      "②<span class='emp2'>縁者</span> 夫 妻 後見人 手がかり 方法  【縁・因・便】"
+    ],
+    "page": 241
   },
   "せうそこ": {
-    "core": "｢消｣は｢死｣、｢息｣は｢生｣の意味。｢安否・動静｣が原義→それを問う手紙。｢せうそく｣とも書く。"
+    "core": "｢消｣は｢死｣、｢息｣は｢生｣の意味。｢安否・動静｣が原義→それを問う手紙。｢せうそく｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>手紙</span> 便り 伝言  【消息】",
+      "②<span class='emp2'>来意</span>(を告げること) <span class='emp2'>取次ぎ</span>(を頼むこと)  【消息】"
+    ],
+    "page": 242
   },
   "とが": {
-    "core": "｢とがめる｣(古語では｢とがむ｣)の｢とが｣。"
+    "core": "｢とがめる｣(古語では｢とがむ｣)の｢とが｣。",
+    "meanings": [
+      "①<span class='emp1'>罪</span> 過失 罰  【咎・科】",
+      "②<span class='emp1'>欠点</span> 傷  【咎・科】"
+    ],
+    "page": 242
   },
   "れい": {
-    "core": "｢いつも～｣の意の連語が大切。"
+    "core": "｢いつも～｣の意の連語が大切。",
+    "meanings": [
+      "①<span class='emp1'>いつも</span> <span class='emp2'>通例</span> <span class='emp2'>普通</span> 先例  【例】"
+    ],
+    "page": 243
   },
   "い": {
-    "core": "｢寝(い)ぬ｣(｢寝る｣の意)の｢寝(い)｣と同根。漢字で覚える。"
+    "core": "｢寝(い)ぬ｣(｢寝る｣の意)の｢寝(い)｣と同根。漢字で覚える。",
+    "meanings": [
+      "①<span class='emp1'>眠り</span> <span class='emp2'>睡眠</span>  【寝】"
+    ],
+    "page": 244
   },
   "うつつ": {
-    "core": "｢夢｣の対義語。｢夢か、うつつか｣と覚える。"
+    "core": "｢夢｣の対義語。｢夢か、うつつか｣と覚える。",
+    "meanings": [
+      "①<span class='emp1'>現実</span> 目覚めた状態  【現】",
+      "②<span class='emp2'>正気</span> 意識が確かな状態  【現】"
+    ],
+    "page": 245
   },
   "あるじ": {
-    "core": "①｢ご馳走(する)｣は｢あるじまうけ(す)｣の略。"
+    "core": "①｢ご馳走(する)｣は｢あるじまうけ(す)｣の略。",
+    "meanings": [
+      "①<span class='emp1'>ご馳走(ちそう)する(こと)</span> <span class='emp1'>客をもてなす(こと)</span> <span class='emp2'>饗応(きょうおう)する(こと)</span>  【饗・主・主人】",
+      "①<span class='emp2'>饗応(きょうおう)する(こと)</span> <span class='emp1'>客をもてなす(こと)</span> <span class='emp1'>ご馳走(ちそう)する(こと)</span>  【饗・主・主人】",
+      "②<span class='emp2'>主人</span> 指図(さしず)役 国家や家の長  【饗・主・主人】"
+    ],
+    "page": 246
   },
   "ふるさと": {
-    "core": "｢古い里｣＝｢旧都・昔馴染(なじ)みの土地｣の意味。"
+    "core": "｢古い里｣＝｢旧都・昔馴染(なじ)みの土地｣の意味。",
+    "meanings": [
+      "①<span class='emp1'>旧都</span> <span class='emp1'>昔馴染(なじ)みの地</span>  【古里】",
+      "①<span class='emp1'>昔馴染(なじ)みの地</span> <span class='emp1'>旧都</span>  【古里】"
+    ],
+    "page": 246
   },
   "をこ・をこなり": {
-    "core": "｢をこ｣＝｢愚か｣のニュアンス。"
+    "core": "｢をこ｣＝｢愚か｣のニュアンス。",
+    "meanings": [
+      "①<span class='emp1'>愚か(だ)</span> <span class='emp2'>ばかな人</span> ばかなこと  【烏滸(なり)・痴(なり)・尾籠(なり)】"
+    ],
+    "page": 247
   },
   "むべ・うべ": {
-    "core": "｢得可(うべ)｣が語源。納得してうなずく様子。"
+    "core": "｢得可(うべ)｣が語源。納得してうなずく様子。",
+    "meanings": [
+      "①<span class='emp1'>なるほど</span> <span class='emp2'>もっともなことに</span> いかにも  【宜】",
+      "①<span class='emp1'>なるほど</span> <span class='emp2'>もっともなことに</span> いかにも  【宜】"
+    ],
+    "page": 248
   },
   "やをら・やはら": {
-    "core": "｢柔(やは)ら｣が語源。ゆっくりと行う動作を表す。"
+    "core": "｢柔(やは)ら｣が語源。ゆっくりと行う動作を表す。",
+    "meanings": [
+      "①<span class='emp1'>そっと静かに</span> <span class='emp2'>おもむろに</span>",
+      "①<span class='emp2'>おもむろに</span> <span class='emp1'>そっと静かに</span>"
+    ],
+    "page": 248
   },
   "いとど": {
-    "core": "｢いと｣(たいそう)と混同しない。意味が違う。"
+    "core": "｢いと｣(たいそう)と混同しない。意味が違う。",
+    "meanings": [
+      "①<span class='emp1'>ますます</span> <span class='emp2'>いっそう</span> その上"
+    ],
+    "page": 249
   },
   "まだき": {
-    "core": "まだその時期でない状態(時期尚早)。"
+    "core": "まだその時期でない状態(時期尚早)。",
+    "meanings": [
+      "①<span class='emp1'>まだその時期でないうちに</span> <span class='emp2'>早くも</span> <span class='emp2'>早々に</span>  【未だき・夙】"
+    ],
+    "page": 250
   },
   "あまた": {
-    "core": "｢数多｣という漢字表記を覚えれば、意味は明らか。"
+    "core": "｢数多｣という漢字表記を覚えれば、意味は明らか。",
+    "meanings": [
+      "①<span class='emp1'>たくさん</span> <span class='emp2'>数多く</span> 大勢  【数多】",
+      "②たいそう 非常に  【数多】"
+    ],
+    "page": 250
   },
   "かたみに": {
-    "core": "｢互に｣という字を当てる。｢形見｣ではない。"
+    "core": "｢互に｣という字を当てる。｢形見｣ではない。",
+    "meanings": [
+      "①<span class='emp1'>互いに</span> 交互に  【互に】"
+    ],
+    "page": 251
   },
   "さがなし": {
-    "core": "｢さが(性)｣(｢性質・性分｣の意)が形容詞化した語。②｢(口)やかましい｣は｢物言ひさがなし｣の形の意味。"
+    "core": "｢さが(性)｣(｢性質・性分｣の意)が形容詞化した語。②｢(口)やかましい｣は｢物言ひさがなし｣の形の意味。",
+    "meanings": [
+      "①<span class='emp1'>意地が悪い</span> 性格が悪い",
+      "②<span class='emp2'>(口)やかましい</span>〔｢物言ひさがなし｣の形で〕 (口が)悪い〔｢物言ひさがなし｣の形で〕",
+      "③<span class='emp2'>いたずらだ</span>"
+    ],
+    "page": 252
   },
   "びんなし": {
-    "core": "｢便｣(｢具合｣の意)＋｢無し｣→｢具合が悪い｣の意に。"
+    "core": "｢便｣(｢具合｣の意)＋｢無し｣→｢具合が悪い｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>不都合だ</span> <span class='emp2'>具合が悪い</span> 不便(ふべん)だ  【便無し】",
+      "②<span class='emp2'>つまらない</span> 無益だ  【便無し】"
+    ],
+    "page": 253
   },
   "かひなし": {
-    "core": "｢甲斐(効果)がない｣→｢むだだ｣の意に。"
+    "core": "｢甲斐(効果)がない｣→｢むだだ｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>むだだ</span> <span class='emp2'>効果がない</span> 無益だ 価値がない  【効無し・甲斐無し】",
+      "②<span class='emp2'>つまらない</span> 取るに足りない  【効無し・甲斐無し】"
+    ],
+    "page": 254
   },
   "いふかひなし": {
-    "core": "｢かひ(甲斐)｣は｢価値｣｢効果｣。｢言う価値がない｣→｢どうしようもない｣。"
+    "core": "｢かひ(甲斐)｣は｢価値｣｢効果｣。｢言う価値がない｣→｢どうしようもない｣。",
+    "meanings": [
+      "①<span class='emp1'>どうしようもない</span> <span class='emp2'>言いようがない</span>  【言ふ甲斐無し】",
+      "①<span class='emp2'>言いようがない</span> <span class='emp1'>どうしようもない</span>  【言ふ甲斐無し】",
+      "②<span class='emp2'>つまらない</span> <span class='emp2'>情けない</span> ふがいない  【言ふ甲斐無し】"
+    ],
+    "page": 255
   },
   "あり": {
-    "core": "現代語では｢ある｣。関連語が大切。"
+    "core": "現代語では｢ある｣。関連語が大切。",
+    "meanings": [
+      "①<span class='emp1'>いる</span> <span class='emp1'>存在する</span> ある  【有り・在り】",
+      "②<span class='emp2'>住む</span> <span class='emp2'>生きる</span> 過ごす  【有り・在り】"
+    ],
+    "page": 258
   },
   "さり": {
-    "core": "指示の副詞｢さ｣＋ラ変動詞｢あり｣→さあり→さり。"
+    "core": "指示の副詞｢さ｣＋ラ変動詞｢あり｣→さあり→さり。",
+    "meanings": [
+      "①<span class='emp1'>そうだ</span> そのようだ  【然り】"
+    ],
+    "page": 259
   },
   "たのむ": {
-    "core": "｢あてにする｣(四段活用)と｢あてにさせる｣(下二段活用)、活用の種類で意味が変わる。"
+    "core": "｢あてにする｣(四段活用)と｢あてにさせる｣(下二段活用)、活用の種類で意味が変わる。",
+    "meanings": [
+      "①<span class='emp1'>あてにする</span> 期待する 頼りにする  【頼む】",
+      "②<span class='emp2'>あてにさせる</span> 期待させる  【頼む】"
+    ],
+    "page": 260
   },
   "かづく": {
-    "core": "｢褒美を頂戴する｣(四段活用)と｢褒美を与える｣(下二段活用)、活用の種類で意味が変わる。"
+    "core": "｢褒美を頂戴する｣(四段活用)と｢褒美を与える｣(下二段活用)、活用の種類で意味が変わる。",
+    "meanings": [
+      "①<span class='emp1'>褒美として頂戴する</span> <span class='emp1'>褒美として与える</span>  【被く】",
+      "①<span class='emp1'>褒美として与える</span> <span class='emp1'>褒美として頂戴する</span>  【被く】",
+      "②<span class='emp2'>かぶる</span> <span class='emp2'>かぶせる</span>  【被く】",
+      "③<span class='emp2'>水中にもぐる</span> 水中にもぐらせる  【潜く】"
+    ],
+    "page": 261
   },
   "わく": {
-    "core": "四段活用は①｢区別する｣、下二段活用は②｢分配する｣。"
+    "core": "四段活用は①｢区別する｣、下二段活用は②｢分配する｣。",
+    "meanings": [
+      "①<span class='emp1'>区別する</span> 判断する  【分く・別く】",
+      "②<span class='emp2'>分配する</span> 押し分ける  【分く・別く】"
+    ],
+    "page": 262
   },
   "ふる": {
-    "core": "｢古｣の字を当てる。活用に注意。"
+    "core": "｢古｣の字を当てる。活用に注意。",
+    "meanings": [
+      "①<span class='emp1'>古びる</span> <span class='emp2'>年月を経る</span> <span class='emp2'>古くさくなる</span>  【古る・旧る】",
+      "②<span class='emp1'>老いる</span> 年をとる  【古る・旧る】"
+    ],
+    "page": 262
   },
   "あらまほし": {
-    "core": "組成は｢あり｣＋願望の助動詞｢まほし｣。"
+    "core": "組成は｢あり｣＋願望の助動詞｢まほし｣。",
+    "meanings": [
+      "①<span class='emp1'>好ましい</span> <span class='emp2'>望ましい</span>  【有らまほし】"
+    ],
+    "page": 263
   },
   "かたし": {
-    "core": "｢難し｣の字から｢難しい｣の意に。"
+    "core": "｢難し｣の字から｢難しい｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>むずかしい</span> 困難だ 容易でない  【難し】",
+      "②<span class='emp2'>まれだ</span> めったにない  【難し】",
+      "③<span class='emp2'>～(し)にくい</span> ～(する)のがむずかしい  【難し】",
+      "④厳重だ 堅固だ 厳格だ しっかりしている  【堅し・固し】"
+    ],
+    "page": 264
   },
   "さらなり": {
-    "core": "さらに繰り返して｢言うまでもない｣の意。"
+    "core": "さらに繰り返して｢言うまでもない｣の意。",
+    "meanings": [
+      "①<span class='emp1'>言うまでもない</span> <span class='emp2'>もちろんだ</span>  【更なり】"
+    ],
+    "page": 265
   },
   "いかなり": {
-    "core": "｢いか｣が語頭につくと、多く疑問(または反語)の意。"
+    "core": "｢いか｣が語頭につくと、多く疑問(または反語)の意。",
+    "meanings": [
+      "①<span class='emp1'>どうだ</span> <span class='emp2'>どのようだ</span> <span class='emp2'>どんなだ</span> どんなわけだ  【如何なり】",
+      "①<span class='emp2'>どんなだ</span> <span class='emp1'>どうだ</span> <span class='emp2'>どのようだ</span> どんなわけだ  【如何なり】"
+    ],
+    "page": 266
   },
   "つゆ": {
-    "core": "｢露｣は、わずかではかないもの。"
+    "core": "｢露｣は、わずかではかないもの。",
+    "meanings": [
+      "①<span class='emp1'>わずか(なもの)</span> <span class='emp2'>はかないもの</span>  【露】",
+      "②<span class='emp2'>全く</span> <span class='emp2'>少しも</span>  【露】"
+    ],
+    "page": 268
   },
   "よろづ": {
-    "core": "｢万｣の字から｢すべて・様ざまなこと｣を連想。副詞の用法も。"
+    "core": "｢万｣の字から｢すべて・様ざまなこと｣を連想。副詞の用法も。",
+    "meanings": [
+      "①<span class='emp1'>すべて</span> 様ざま  【万】",
+      "②<span class='emp2'>何事につけて</span> すべて  【万】"
+    ],
+    "page": 268
   },
   "おほかた": {
-    "core": "①｢だいたい｣は名詞、②｢全然｣と③｢だいたい｣は副詞、④｢そもそも｣は接続詞。特に②・④に注意。"
+    "core": "①｢だいたい｣は名詞、②｢全然｣と③｢だいたい｣は副詞、④｢そもそも｣は接続詞。特に②・④に注意。",
+    "meanings": [
+      "①<span class='emp1'>だいたい</span> 普通 多く(は)  【大方】",
+      "②<span class='emp1'>全然</span> 少しも  【大方】",
+      "④<span class='emp2'>そもそも</span> だいたい  【大方】"
+    ],
+    "page": 269
   },
   "あらまし": {
-    "core": "ラ変動詞｢あり｣＋ためらいの意志・反事実の希望を表す｢まし｣→｢あればなあ｣が原義。"
+    "core": "ラ変動詞｢あり｣＋ためらいの意志・反事実の希望を表す｢まし｣→｢あればなあ｣が原義。",
+    "meanings": [
+      "①<span class='emp1'>予想</span> <span class='emp1'>予定</span> <span class='emp2'>期待</span> 計画"
+    ],
+    "page": 270
   },
   "ただ・ただなり": {
-    "core": "①｢直接｣、②｢すぐに｣は｢直｣、③｢ちょうど｣、④｢普通だ｣は｢只・徒・唯｣を当てる。"
+    "core": "①｢直接｣、②｢すぐに｣は｢直｣、③｢ちょうど｣、④｢普通だ｣は｢只・徒・唯｣を当てる。",
+    "meanings": [
+      "①<span class='emp1'>直接</span> まっすぐ  【直】",
+      "④<span class='emp1'>普通だ</span> むだだ  【只なり・徒なり・唯なり】",
+      "②<span class='emp2'>すぐに</span> すぐ近くに  【直】",
+      "③<span class='emp2'>ちょうど</span> <span class='emp2'>まるで</span> <span class='emp2'>ただ</span> 単に ひたすら  【只・徒・唯】"
+    ],
+    "page": 271
   },
   "さ": {
-    "core": "指示の副詞。関連語・連語が大切。"
+    "core": "指示の副詞。関連語・連語が大切。",
+    "meanings": [
+      "①<span class='emp1'>そう</span> <span class='emp2'>そのように</span> その通り  【然】"
+    ],
+    "page": 272
   },
   "かく・かう": {
-    "core": "指示する内容の把握が大事。"
+    "core": "指示する内容の把握が大事。",
+    "meanings": [
+      "①<span class='emp1'>このように</span> <span class='emp2'>こう</span>  【斯く・斯う】"
+    ],
+    "page": 274
   },
   "さて": {
-    "core": "｢そのまま・それ以外｣という副詞の用法(①・②)が大切。"
+    "core": "｢そのまま・それ以外｣という副詞の用法(①・②)が大切。",
+    "meanings": [
+      "①<span class='emp1'>そのまま</span> そのような状態で  【然て】",
+      "②<span class='emp2'>ほか</span> <span class='emp2'>それ以外</span>  【然て】",
+      "③ところで さて  【然て】"
+    ],
+    "page": 274
   },
   "さも": {
-    "core": "指示の副詞｢さ｣＋係助詞｢も｣。"
+    "core": "指示の副詞｢さ｣＋係助詞｢も｣。",
+    "meanings": [
+      "①<span class='emp1'>いかにも</span> 全く  【然も】",
+      "②<span class='emp2'>そのように</span> その通りに  【然も】",
+      "④<span class='emp2'>そうも</span> そのようにも  【然も】",
+      "③<span class='emp2'>それほど</span> たいして  【然も】"
+    ],
+    "page": 276
   },
   "はた": {
-    "core": "ある事柄に加えてもう一つの事柄を述べる。"
+    "core": "ある事柄に加えてもう一つの事柄を述べる。",
+    "meanings": [
+      "①<span class='emp1'>～もまた</span> また  【将】",
+      "②<span class='emp1'>それでもやはり</span> そうはいうものの  【将】",
+      "③それとも  【将】"
+    ],
+    "page": 278
   },
   "よに": {
-    "core": "｢世｣＋格助詞｢に｣で、副詞に。②｢決して｣は呼応する語に注意。"
+    "core": "｢世｣＋格助詞｢に｣で、副詞に。②｢決して｣は呼応する語に注意。",
+    "meanings": [
+      "①<span class='emp1'>たいそう</span> <span class='emp2'>実に</span>  【世に】",
+      "②<span class='emp1'>決して</span> 全然  【世に】"
+    ],
+    "page": 279
   },
   "さだめて": {
-    "core": "｢きっと…だろう｣の呼応に注意。"
+    "core": "｢きっと…だろう｣の呼応に注意。",
+    "meanings": [
+      "①<span class='emp1'>きっと</span> 必ず  【定めて】"
+    ],
+    "page": 280
   },
   "かつ": {
-    "core": "二つのことが同時に、または連続して起こる意。"
+    "core": "二つのことが同時に、または連続して起こる意。",
+    "meanings": [
+      "①<span class='emp1'>一方では</span> <span class='emp2'>片方では</span>  【且つ】",
+      "②<span class='emp2'>すでに</span> もう  【且つ】",
+      "③<span class='emp2'>すぐに</span> ちょっと  【且つ】"
+    ],
+    "page": 280
   },
   "いつしか": {
-    "core": "｢早く｣の意が中心。現代語感覚の訳は危険。"
+    "core": "｢早く｣の意が中心。現代語感覚の訳は危険。",
+    "meanings": [
+      "①<span class='emp1'>早く</span> 早速  【何時しか】",
+      "③いつ～か  【何時しか】"
+    ],
+    "page": 281
   },
   "え": {
-    "core": "｢え｣＋打消の語(｢ず・じ・まじ・で｣ etc. )は不可能。"
+    "core": "｢え｣＋打消の語(｢ず・じ・まじ・で｣ etc. )は不可能。",
+    "meanings": [
+      "①<span class='emp1'>～でき</span><span class='emp2'>(ない)</span> よう～(ない)  【得】",
+      "①<span class='emp1'>～でき</span><span class='emp2'>(ない)</span> よう～(ない)  【得】",
+      "①<span class='emp1'>～でき</span><span class='emp2'>(ない)</span> よう～(ない)  【得】"
+    ],
+    "page": 282
   },
   "さらに": {
-    "core": "①｢決して｣は打消・否定・禁止の語(｢ず・じ・なし｣ etc. )と呼応。"
+    "core": "①｢決して｣は打消・否定・禁止の語(｢ず・じ・なし｣ etc. )と呼応。",
+    "meanings": [
+      "①<span class='emp1'>決して</span> <span class='emp2'>全然</span> 全く  【更に】",
+      "①<span class='emp1'>決して</span> <span class='emp2'>全然</span> 全く  【更に】",
+      "①<span class='emp1'>決して</span> <span class='emp2'>全然</span> 全く  【更に】",
+      "①<span class='emp2'>全然</span> <span class='emp1'>決して</span> 全く  【更に】",
+      "②<span class='emp2'>いっそう</span> <span class='emp2'>重ねて</span> 新たに  【更に】",
+      "①全く <span class='emp1'>決して</span> <span class='emp2'>全然</span>  【更に】"
+    ],
+    "page": 283
   },
   "ひねもす": {
-    "core": "｢ひひとひ｣｢ひぐらし・ひくらし｣と同義。｢ひねもすに｣とも書く。"
+    "core": "｢ひひとひ｣｢ひぐらし・ひくらし｣と同義。｢ひねもすに｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>一日中</span> <span class='emp2'>終日</span>  【終日・終日に】"
+    ],
+    "page": 284
   },
   "せめて": {
-    "core": "｢迫(せ)む｣(現代語の｢迫る｣)＋接続助詞｢て｣。"
+    "core": "｢迫(せ)む｣(現代語の｢迫る｣)＋接続助詞｢て｣。",
+    "meanings": [
+      "①<span class='emp1'>無理に</span> <span class='emp2'>一心に</span>",
+      "②ひどく 痛切に"
+    ],
+    "page": 284
   },
   "かまへて": {
-    "core": "｢構ふ｣(現代語の｢構える｣)＋接続助詞｢て｣。"
+    "core": "｢構ふ｣(現代語の｢構える｣)＋接続助詞｢て｣。",
+    "meanings": [
+      "①<span class='emp1'>何とかして</span> <span class='emp2'>心して</span> <span class='emp2'>きっと</span> 必ず  【構へて】",
+      "②<span class='emp2'>決して</span> 絶対に  【構へて】"
+    ],
+    "page": 285
   },
   "かけて": {
-    "core": "②の意味｢心にかけて｣は関連語｢かけても｣とほぼ同義。"
+    "core": "②の意味｢心にかけて｣は関連語｢かけても｣とほぼ同義。",
+    "meanings": [
+      "①<span class='emp1'>心にかけて</span>",
+      "②<span class='emp2'>決して</span> 全然"
+    ],
+    "page": 286
   },
   "ゆめ": {
-    "core": "｢夢にも｣→｢決して・全く｣と連想してもＯＫ。"
+    "core": "｢夢にも｣→｢決して・全く｣と連想してもＯＫ。",
+    "meanings": [
+      "①<span class='emp1'>決して</span> <span class='emp2'>全く</span> 絶対に  【努・勤】",
+      "①<span class='emp2'>全く</span> <span class='emp1'>決して</span> 絶対に  【努・勤】"
+    ],
+    "page": 286
   },
   "たえて": {
-    "core": "｢絶ゆ｣＋接続助詞｢て｣。①｢全く｣は下に打消の語。"
+    "core": "｢絶ゆ｣＋接続助詞｢て｣。①｢全く｣は下に打消の語。",
+    "meanings": [
+      "①<span class='emp1'>全く</span> <span class='emp2'>少しも</span> 全然  【絶えて】",
+      "②<span class='emp2'>完全に</span> <span class='emp2'>特に</span> まことに  【絶えて】"
+    ],
+    "page": 287
   },
   "をさをさ": {
-    "core": "下の打消や否定の語と呼応。"
+    "core": "下の打消や否定の語と呼応。",
+    "meanings": [
+      "①<span class='emp1'>ほとんど</span> <span class='emp2'>めったに</span>"
+    ],
+    "page": 288
   },
   "な～(そ)": {
-    "core": "陳述の副詞｢な｣と終助詞｢そ｣が呼応。"
+    "core": "陳述の副詞｢な｣と終助詞｢そ｣が呼応。",
+    "meanings": [
+      "①<span class='emp1'>～てくれるな</span> <span class='emp2'>～ないでくれ</span>",
+      "①<span class='emp1'>～てくれるな</span> <span class='emp2'>～ないでくれ</span>"
+    ],
+    "page": 288
   },
   "よも": {
-    "core": "｢よ(世)｣＋｢も｣→陳述の副詞(打消推量と呼応)。"
+    "core": "｢よ(世)｣＋｢も｣→陳述の副詞(打消推量と呼応)。",
+    "meanings": [
+      "①<span class='emp1'>まさか</span> 決して よもや",
+      "②よもや <span class='emp1'>まさか</span> 決して"
+    ],
+    "page": 289
   },
   "されば": {
-    "core": "三種の意味の使い分けに注意。"
+    "core": "三種の意味の使い分けに注意。",
+    "meanings": [
+      "①<span class='emp1'>だから</span> <span class='emp2'>それゆえ</span>  【然れば】",
+      "②<span class='emp2'>いったい</span> そもそも  【然れば】",
+      "③ところで さて  【然れば】"
+    ],
+    "page": 290
   },
   "さるは": {
-    "core": "①｢そうはいっても｣は逆接、②｢というのは｣は順接。文脈の見極めが重要。"
+    "core": "①｢そうはいっても｣は逆接、②｢というのは｣は順接。文脈の見極めが重要。",
+    "meanings": [
+      "①<span class='emp1'>そうはいっても</span> <span class='emp2'>そのくせ実は</span>  【然るは】",
+      "②<span class='emp2'>というのは</span> そういうわけで その上  【然るは】"
+    ],
+    "page": 291
   },
   "ひとやりならず": {
-    "core": "｢人遣り｣は｢他人が強制する｣の意。"
+    "core": "｢人遣り｣は｢他人が強制する｣の意。",
+    "meanings": [
+      "①<span class='emp1'>自分のせいで</span> <span class='emp2'>自ら求めて</span>  【人遣りならず】",
+      "①<span class='emp2'>自ら求めて</span> <span class='emp1'>自分のせいで</span>  【人遣りならず】"
+    ],
+    "page": 292
   },
   "かずならず": {
-    "core": "｢数｣＋断定の｢なり｣＋打消の｢ず｣→｢物の数ではない｣の意に。"
+    "core": "｢数｣＋断定の｢なり｣＋打消の｢ず｣→｢物の数ではない｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>取るに足りない</span> 物の数ではない  【数ならず】"
+    ],
+    "page": 292
   },
   "えならず": {
-    "core": "陳述の副詞｢え｣＋｢成る｣＋助動詞｢ず｣。"
+    "core": "陳述の副詞｢え｣＋｢成る｣＋助動詞｢ず｣。",
+    "meanings": [
+      "①<span class='emp1'>並たいていでない</span> <span class='emp2'>並一通りでない</span>  【え成らず】",
+      "①<span class='emp2'>並一通りでない</span> <span class='emp1'>並たいていでない</span>  【え成らず】",
+      "②<span class='emp2'>何とも言えないほどすばらしい</span>  【え成らず】"
+    ],
+    "page": 293
   },
   "とあり": {
-    "core": "指示の副詞｢と｣＋ラ変動詞｢あり｣。｢かく｣とセット。"
+    "core": "指示の副詞｢と｣＋ラ変動詞｢あり｣。｢かく｣とセット。",
+    "meanings": [
+      "①<span class='emp1'>ああだ</span>"
+    ],
+    "page": 294
   },
   "ねをなく": {
-    "core": "｢ね(音)＝声｣を(あげて)泣(鳴)くと覚える。"
+    "core": "｢ね(音)＝声｣を(あげて)泣(鳴)くと覚える。",
+    "meanings": [
+      "①<span class='emp1'>声をあげて泣(鳴)く</span>  【音を泣く・音を鳴く】"
+    ],
+    "page": 294
   },
   "われか": {
-    "core": "｢我か人か｣(自分か他人かわからない状態)の略。"
+    "core": "｢我か人か｣(自分か他人かわからない状態)の略。",
+    "meanings": [
+      "①<span class='emp1'>正気を失った</span> 正体もない  【我か】",
+      "②<span class='emp2'>自分のことか</span>  【我か】"
+    ],
+    "page": 295
   },
   "さりぬべし": {
-    "core": "ラ変動詞｢さり｣＋強意の｢ぬ｣＋推量の｢べし｣。"
+    "core": "ラ変動詞｢さり｣＋強意の｢ぬ｣＋推量の｢べし｣。",
+    "meanings": [
+      "①(そうであるのが)<span class='emp1'>適当だ</span> ふさわしい",
+      "②<span class='emp2'>それ相当だ</span> 立派だ"
+    ],
+    "page": 296
   },
   "やるかたなし": {
-    "core": "｢心をやる所がない｣→｢どうしようもない｣の意に。"
+    "core": "｢心をやる所がない｣→｢どうしようもない｣の意に。",
+    "meanings": [
+      "①<span class='emp1'>(心の)晴らしようがない</span> <span class='emp2'>どうしようもない</span>  【遣る方無し】"
+    ],
+    "page": 296
   },
   "せむかたなし": {
-    "core": "｢どうしようもない｣と訳せばほぼＯＫ。｢せんかたなし｣とも書く。"
+    "core": "｢どうしようもない｣と訳せばほぼＯＫ。｢せんかたなし｣とも書く。",
+    "meanings": [
+      "①<span class='emp1'>どうしようもない</span> <span class='emp2'>我慢できない</span> 仕方がない  【為む方無し】",
+      "①<span class='emp2'>我慢できない</span> <span class='emp1'>どうしようもない</span> 仕方がない  【為む方無し】"
+    ],
+    "page": 297
   },
   "うち～": {
-    "core": "(七五調で)｢強意・ちらっと・何気なく・さっと・すっかり・一面に｣と覚える。"
+    "core": "(七五調で)｢強意・ちらっと・何気なく・さっと・すっかり・一面に｣と覚える。",
+    "meanings": [
+      "①・②(｢うち～」は<span class='emp2'>強意・整調</span>) <span class='emp1'>口に出す</span> <span class='emp2'>出る</span> 出発する  【打ち出づ】",
+      "③(｢うち～｣は<span class='emp1'>何気なく</span>・<span class='emp2'>ちょっと</span>の意味) <span class='emp1'>何気なく置く</span> <span class='emp2'>ちょっと置く</span> <span class='emp1'>ほうっておく</span>  【打ち置く】",
+      "④(｢うち～｣は<span class='emp2'>はっと</span>の意味) <span class='emp1'>はっと目が覚める</span> <span class='emp1'>はっと気づく</span> はっと驚く  【打ち驚く】",
+      "③(｢うち～｣は<span class='emp1'>ちらっと</span>・<span class='emp2'>ちょっと</span>の意味) <span class='emp1'>ちらっと見る</span> <span class='emp2'>ちょっと見る</span>  【打ち見る】",
+      "⑤(｢うち～｣は<span class='emp1'>すっかり</span>・<span class='emp2'>広く</span>の意味) <span class='emp1'>すっかり包み隠す</span> 広く行き渡らせる  【打ち覆ふ】",
+      "④(｢うち～｣は<span class='emp1'>さっと</span>の意味) <span class='emp1'>さっと吹く</span>  【打ち吹く】"
+    ],
+    "page": 300
   },
   "うら～": {
-    "core": "｢うら｣は｢心｣、｢裏｣に通じる。"
+    "core": "｢うら｣は｢心｣、｢裏｣に通じる。",
+    "meanings": [
+      "<span class='emp1'>隠しだてしない</span> 裏表がない <span class='emp1'>無心だ</span> 安心してうっかりしている  【うら無し】",
+      "<span class='emp1'>何となく悲しい</span> もの悲しい  【うら悲し】"
+    ],
+    "page": 302
   },
   "かき～": {
-    "core": "｢かき～｣は｢ちょっと・軽く｣などの意味を添えたり、下の動詞の語勢を強めたり、語調を整えたりする働きをする。｢かきくどく｣｢かきくらす｣｢かきくもる(かいくもる)｣は絶対覚えよう。"
+    "core": "｢かき～｣は｢ちょっと・軽く｣などの意味を添えたり、下の動詞の語勢を強めたり、語調を整えたりする働きをする。｢かきくどく｣｢かきくらす｣｢かきくもる(かいくもる)｣は絶対覚えよう。",
+    "meanings": [
+      "(くどくどと)<span class='emp1'>繰り返し言う</span>  【搔き口説く】",
+      "(空が)<span class='emp1'>急に暗くなる</span> <span class='emp1'>涙で目がうるむ</span>  【搔い曇る・掻き曇る】",
+      "<span class='emp1'>悲しみで(心を)真っ暗にする</span> あたり一面暗くする <span class='emp1'>悲しみにくれる</span>  【搔き暗す】"
+    ],
+    "page": 303
   },
   "こと～": {
-    "core": "この｢こと(異)～｣は｢別の・ほかの・違った｣などの意味を添える。｢言｣・｢事｣との区別が肝要。"
+    "core": "この｢こと(異)～｣は｢別の・ほかの・違った｣などの意味を添える。｢言｣・｢事｣との区別が肝要。",
+    "meanings": [
+      "<span class='emp1'>別のほう</span> 違った所  【異方】",
+      "<span class='emp1'>別の場所</span> <span class='emp2'>他国</span>  【異所】",
+      "<span class='emp1'>浮気心</span> ほかの事(人)にひかれる心 余計な考え  【異心】",
+      "<span class='emp1'>別の人</span> <span class='emp2'>ほかの人</span>  【異人】"
+    ],
+    "page": 304
   },
   "たち～": {
-    "core": "｢たち｣は無視して訳してもＯＫ。"
+    "core": "｢たち｣は無視して訳してもＯＫ。",
+    "meanings": [
+      "<span class='emp1'>遅くなる</span> 遅れる <span class='emp1'>先立たれる</span> 劣る  【立ち後る】",
+      "<span class='emp1'>別れる</span> 別れて旅立つ  【立ち別る】",
+      "<span class='emp1'>混雑する</span>〔四段〕 <span class='emp2'>入り込む</span>〔四段〕 (霧などが)一面に広がる〔下二段〕  【立ち込む・立ち籠む】"
+    ],
+    "page": 305
   },
   "そら～": {
-    "core": "｢そら｣は空っぽのうそ・偽り。"
+    "core": "｢そら｣は空っぽのうそ・偽り。",
+    "meanings": [
+      "<span class='emp1'>うそ</span> <span class='emp1'>偽り</span>  【虚言・空言】",
+      "<span class='emp1'>から約束</span> <span class='emp2'>あてにならない期待をさせること</span>  【空頼め】",
+      "<span class='emp1'>狸寝入り</span> 寝た振りをすること  【空寝】",
+      "<span class='emp1'>どこからともなく匂ってくるようにたいた香</span>  【空薫き物】",
+      "<span class='emp1'>何となく恐ろしい</span>  【空恐ろし】",
+      "<span class='emp1'>鳴きまね</span> <span class='emp2'>聞き間違い</span> <span class='emp1'>そら耳</span>  【空音】"
+    ],
+    "page": 306
   },
   "ほの～": {
-    "core": "｢ほの｣は｢ほのか｣の｢ほの｣、｢かすか｣の意。"
+    "core": "｢ほの｣は｢ほのか｣の｢ほの｣、｢かすか｣の意。",
+    "meanings": [
+      "<span class='emp1'>かすかに聞く</span> それとなく聞く  【仄聞く】",
+      "<span class='emp1'>かすかに見える</span> ちらっと見える  【仄見ゆ】",
+      "<span class='emp1'>かすかに聞こえる</span> ほのかに聞こえる  【仄聞こゆ】",
+      "<span class='emp1'>薄暗い</span> ほのかに暗い  【仄暗し】"
+    ],
+    "page": 308
   },
   "つい～": {
-    "core": "｢つい・ちょっと・さっと・そのまま｣は五七調。"
+    "core": "｢つい・ちょっと・さっと・そのまま｣は五七調。",
+    "meanings": [
+      "<span class='emp1'>さっとくぐる</span>  【突い潜る】",
+      "<span class='emp1'>さっと立つ</span> すばやく立つ  【突い立つ】",
+      "<span class='emp1'>ちょっと座る</span> <span class='emp2'>かしこまって座る</span> ひざまずく  【突い居る】"
+    ],
+    "page": 309
   },
   "なま～": {
-    "core": "《若い》人は《何となく》 《未熟で》 《不完全な》もの。"
+    "core": "《若い》人は《何となく》 《未熟で》 《不完全な》もの。",
+    "meanings": [
+      "<span class='emp1'>未熟な侍</span> <span class='emp1'>若侍</span>  【生侍】",
+      "<span class='emp1'>何となくきまりが悪い</span> 少々間(ま)が悪い  【生端なし】",
+      "<span class='emp1'>何となく秘密にしている</span>  【生隠す】"
+    ],
+    "page": 310
   },
   "もの～": {
-    "core": "｢もの｣の意味、｢何かにつけて・何となく｣。"
+    "core": "｢もの｣の意味、｢何かにつけて・何となく｣。",
+    "meanings": [
+      "<span class='emp1'>何となくしみじみとした感じだ</span> 何となく哀しい  【物哀れなり】",
+      "<span class='emp1'>正気を失ったようだ</span> みっともない  【物狂ほし】",
+      "<span class='emp1'>何となくつらい</span> <span class='emp2'>何となく心が重い</span> 面倒だ つらい  【物憂し】"
+    ],
+    "page": 311
   },
   "もて～": {
-    "core": "下の動詞の意味を強める。"
+    "core": "下の動詞の意味を強める。",
+    "meanings": [
+      "<span class='emp1'>もてあます</span> <span class='emp1'>世話をする</span> 取り扱う  【もて扱ふ】",
+      "<span class='emp1'>上手に隠す</span> <span class='emp1'>そっと隠す</span>  【もて隠す】",
+      "<span class='emp1'>大切に世話をする</span>  【もて傅く】"
+    ],
+    "page": 312
   },
   "～がり": {
-    "core": "漢字は｢許(もと)｣、｢許｣は｢所｣の意。"
+    "core": "漢字は｢許(もと)｣、｢許｣は｢所｣の意。",
+    "meanings": [
+      "<span class='emp1'>妻(彼女・恋人)のもとへ</span>  【妹許】",
+      "<span class='emp1'>医者のもとへ</span>  【医師の許・薬師の許】",
+      "<span class='emp1'>人のもとへ</span>  【人の許】"
+    ],
+    "page": 313
   },
   "～がまし": {
-    "core": "｢～がまし｣は｢[強調2]～の様子だ[/強調2]・[強調2]～らしい[/強調2]・～の傾向がある｣の意。｢ねぢけがまし｣｢わざとがまし｣｢はぢがまし｣｢あざれがまし｣の四語は必ず覚える。"
+    "core": "｢～がまし｣は｢[強調2]～の様子だ[/強調2]・[強調2]～らしい[/強調2]・～の傾向がある｣の意。｢ねぢけがまし｣｢わざとがまし｣｢はぢがまし｣｢あざれがまし｣の四語は必ず覚える。",
+    "meanings": [
+      "<span class='emp1'>ひねくれている(ようだ)</span> <span class='emp2'>不自然だ</span> 変わっている  【拗けがまし】",
+      "<span class='emp1'>恥ずかしい(ようだ)</span> みっともない様子だ 体裁が悪い  【恥ぢがまし】",
+      "<span class='emp1'>特別に心遣いしたようだ</span> <span class='emp1'>わざとらしい</span>  【態とがまし】"
+    ],
+    "page": 314
   },
   "～げ": {
-    "core": "｢いかにも～の様子だ｣と訳せばほぼＯＫ。｢～げなり｣と形容動詞の形にもなる。"
+    "core": "｢いかにも～の様子だ｣と訳せばほぼＯＫ。｢～げなり｣と形容動詞の形にもなる。",
+    "meanings": [
+      "<span class='emp1'>ありそうな様子</span>〔名詞〕 <span class='emp1'>いかにもありそうな様子だ</span>〔形容動詞〕  【有り気・有り気なり】",
+      "<span class='emp1'>いかにも醜悪だ</span> <span class='emp1'>いかにも憎らしい</span>  【憎さげなり】",
+      "<span class='emp1'>いかにも見苦しい様子だ</span> <span class='emp1'>ぶざまだ</span>  【悪(あ)しげなり】"
+    ],
+    "page": 315
   },
   "～めく": {
-    "core": "｢めく｣は｢[強調2]～のようになる[/強調2]・[強調2]～らしくなる[/強調2]・[強調2]～風だ[/強調2]・[強調2]～づく[/強調2]｣の意。現代語の｢春めく・秋めく｣から類推。"
+    "core": "｢めく｣は｢[強調2]～のようになる[/強調2]・[強調2]～らしくなる[/強調2]・[強調2]～風だ[/強調2]・[強調2]～づく[/強調2]｣の意。現代語の｢春めく・秋めく｣から類推。",
+    "meanings": [
+      "<span class='emp1'>好色めく</span> 色づく <span class='emp1'>色好みになる</span> 色気づく  【色めく】",
+      "<span class='emp1'>池のようになる</span>  【池めく】"
+    ],
+    "page": 316
   },
   "～めかし": {
-    "core": "｢～めく｣と訳し方はほぼ同じ。｢[強調2]～のようだ[/強調2]・[強調2]～らしい[/強調2]・～風だ・～ように見える」の意味を表す。"
+    "core": "｢～めく｣と訳し方はほぼ同じ。｢[強調2]～のようだ[/強調2]・[強調2]～らしい[/強調2]・～風だ・～ように見える」の意味を表す。",
+    "meanings": [
+      "<span class='emp1'>上流人らしく振る舞う</span> <span class='emp1'>上流人らしい</span> 上流人のようだ  【上衆めかし】",
+      "<span class='emp1'>色好みらしい</span> <span class='emp2'>色っぽい</span>  【色めかし】",
+      "<span class='emp1'>人並みらしい</span> <span class='emp1'>一人前だ</span> 人並みだ  【人めかし】"
+    ],
+    "page": 317
   },
   "～だつ": {
-    "core": "｢～めく｣と近い意味。｢[強調2]それらしく見える[/強調2]｣意味を表す。"
+    "core": "｢～めく｣と近い意味。｢[強調2]それらしく見える[/強調2]｣意味を表す。",
+    "meanings": [
+      "<span class='emp1'>恋心が表に現れる</span> <span class='emp2'>色恋じみる</span>  【懸想だつ】",
+      "<span class='emp1'>憎らしい振る舞いをする</span> 我を張る  【生憎だつ】",
+      "<span class='emp1'>野分(台風)のような風が吹く</span>  【野分だつ】",
+      "<span class='emp1'>紫がかる</span>  【紫だつ】",
+      "<span class='emp1'>後見(こうけん)の立場(で振る舞う)</span>  【後見だつ】"
+    ],
+    "page": 318
   },
   "～がてに": {
-    "core": "｢～がてに・～かてに｣は｢[強調2]～できないで[/強調2]｣という不可能の意味を表す。｢すぎがてに｣｢いでがてに(いでかてに)｣｢まちがてに(まちかてに)｣の三語は絶対覚えよう。"
+    "core": "｢～がてに・～かてに｣は｢[強調2]～できないで[/強調2]｣という不可能の意味を表す。｢すぎがてに｣｢いでがてに(いでかてに)｣｢まちがてに(まちかてに)｣の三語は絶対覚えよう。",
+    "meanings": [
+      "<span class='emp1'>通り過ぎることができなくて</span> <span class='emp2'>行き過ぎかねて</span>  【過ぎがてに】",
+      "<span class='emp1'>立ち去りかねて</span> <span class='emp2'>出ることができずに</span>  【出でがてに・出でかてに】"
+    ],
+    "page": 319
   },
   "～かぬ": {
-    "core": "現代語の｢～(し)かねる｣に相当。｢[強調2]～できない・～に堪えられない[/強調2]｣などの意味を表す。"
+    "core": "現代語の｢～(し)かねる｣に相当。｢[強調2]～できない・～に堪えられない[/強調2]｣などの意味を表す。",
+    "meanings": [
+      "<span class='emp1'>日を過ごしづらく思う</span> 暮らすに堪えがたく思う <span class='emp1'>暮らしかねる</span>  【暮らしかぬ】",
+      "<span class='emp1'>決めかねる</span> 決定できない  【定めかぬ】",
+      "<span class='emp1'>恋しさに堪えられない</span> 恋しい思いに堪えかねる  【恋ひかぬ】"
+    ],
+    "page": 320
   },
   "～しろふ": {
-    "core": "｢～しろふ｣は｢[強調2](互いに)～(し)あう[/強調2]｣という意味を表す。｢言ひしろふ｣｢突きしろふ｣は絶対覚えよう。"
+    "core": "｢～しろふ｣は｢[強調2](互いに)～(し)あう[/強調2]｣という意味を表す。｢言ひしろふ｣｢突きしろふ｣は絶対覚えよう。",
+    "meanings": [
+      "<span class='emp1'>言いあう</span> 語りあう <span class='emp2'>言い争う</span>  【言ひしろふ】",
+      "(肩・膝などを)<span class='emp1'>つつきあう</span>  【突きしろふ】"
+    ],
+    "page": 321
   },
   "～そむ": {
-    "core": "｢～初む｣の字を当てることから連想。｢[強調2]～(し)始める[/強調2]・[強調2]初めて～(する)[/強調2]｣という意味を付け加える。"
+    "core": "｢～初む｣の字を当てることから連想。｢[強調2]～(し)始める[/強調2]・[強調2]初めて～(する)[/強調2]｣という意味を付け加える。",
+    "meanings": [
+      "<span class='emp1'>恋しく思い始める</span>  【恋ひ初む】",
+      "<span class='emp1'>初めて愛情を交わす</span> <span class='emp1'>初めて見る</span> <span class='emp2'>初めて逢う</span> 初めて見て恋心を抱く  【見初む】",
+      "<span class='emp1'>知り始める</span>  【知り初む】"
+    ],
+    "page": 322
   },
   "～どち": {
-    "core": "｢～どち｣は｢[強調2]～の仲間[/強調2]・[強調2]～同士[/強調2]・～たち｣の意味。｢～《の》どち｣と｢の｣が入った｢どち｣は名詞。"
+    "core": "｢～どち｣は｢[強調2]～の仲間[/強調2]・[強調2]～同士[/強調2]・～たち｣の意味。｢～《の》どち｣と｢の｣が入った｢どち｣は名詞。",
+    "meanings": [
+      "<span class='emp1'>女性同士</span> 女性たち  【女どち】",
+      "<span class='emp1'>気の合った者同士</span>  【思ふどち】",
+      "<span class='emp1'>男性同士</span> 男性たち  【男どち】",
+      "男性たち <span class='emp1'>男性同士</span>  【男どち】"
+    ],
+    "page": 323
   },
   "～づから": {
-    "core": "｢自分から・自分で｣のニュアンス。"
+    "core": "｢自分から・自分で｣のニュアンス。",
+    "meanings": [
+      "<span class='emp1'>自分の手で</span> <span class='emp1'>自分自身で</span>  【手づから】",
+      "<span class='emp1'>自身の口から</span> <span class='emp1'>自分の言葉で</span>  【口づから】",
+      "<span class='emp1'>自分の心から</span> 心のままに  【心づから】"
+    ],
+    "page": 324
   },
   "～なす": {
-    "core": "｢ことさら～｣と訳せればほぼＯＫ。"
+    "core": "｢ことさら～｣と訳せればほぼＯＫ。",
+    "meanings": [
+      "<span class='emp1'>ことさら言いたてる</span> <span class='emp2'>事実のように言う</span> 言いつくろう  【言ひなす】",
+      "<span class='emp1'>ことさらそれらしく話をする</span> <span class='emp2'>事実をゆがめて話す</span>  【語りなす】"
+    ],
+    "page": 325
   }
 }

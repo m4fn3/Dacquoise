@@ -36,9 +36,16 @@
     </p>
 {% endif %}
 {# ------------- 古文単語 ------------- #}
-{% if core %}
-<h1>核心</h1>
-<p>{{ core }}</p>
+{% if kakusin %}
+<h1>意味</h1>
+    <p>
+    {% for meaning in kakusin['meanings'] %}
+        {{ meaning|safe }}<br>
+    {% endfor %}
+    </p>
+<h1>ポイント</h1>
+    <p>{{ kakusin['core'] }}</p>
+    <p>ページ: {{ kakusin['page'] }}</p>
 {% endif %}
 {% if gorogo %}
 <h1>解説</h1>

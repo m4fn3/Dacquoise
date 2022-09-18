@@ -7,8 +7,10 @@ from flask_lt import run_with_lt
 
 app = Flask(__name__)
 run_with_lt(app, subdomain="dacquoise")
-with open("database/gorogo.json", encoding="utf-8") as f:
-    gorogo = json.load(f)
+with open("database/gorogo_t2n.json", encoding="utf-8") as f:
+    gorogo_t2n = json.load(f)
+with open("database/gorogo_n2t.json", encoding="utf-8") as f:
+    gorogo_n2t = json.load(f)
 with open("database/kakusin.json", encoding="utf-8") as f:
     kakusin = json.load(f)
 
@@ -45,15 +47,14 @@ async def index():
                 param["gogen_edj"] = [derivation, related_meta]
         else:  # 古文単語
             param["gorogo"] = {}
-            resp = await session.get(
-                f"https://gorogo.net/mingoro/{query}/"
-            )
-            html = await resp.text()
-            for t in ["tit", "imi", "fig", "goro"]:
-                param["gorogo"][t] = fromstring(html).xpath(f"//img[@id = '{t}']")[0].get("src")
-            word = fromstring(html).xpath(f"//title")[0].text.split("|")[-1].strip()
+            param["gorogo"]["tit"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/title/{query}a-ktng-ttl.png"
+            param["gorogo"]["fig"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/fig/{query}a-ktng-fig.png"
+            param["gorogo"]["imi"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/imi/a/{query}a-ktng-imi.png"
+            param["gorogo"]["goro"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/goro/a/{query}a-ktng-gro.png"
+            word = gorogo_n2t[query]
             if word in kakusin:
-                param["core"] = kakusin[word]["core"]
+                param["kakusin"] = {}
+                param["kakusin"] = kakusin[word]
 
         await session.close()
         return render_template("index.html", **param)
@@ -77,7 +78,7 @@ async def complete():  # 自動補完用
         await session.close()
         return jsonify([{"label": word["lennma"], "category": word["explanationDescription"], "raw": word["lennma"]} for word in words])
     else:  # 古文単語
-        words = [{"label": key, "raw": gorogo[key]} for key in gorogo.keys() if key.startswith(query)]
+        words = [{"label": key, "raw": gorogo_t2n[key]} for key in gorogo_t2n.keys() if key.startswith(query)]
         await session.close()
         return jsonify(words)
 

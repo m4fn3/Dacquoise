@@ -1,6 +1,6 @@
-.gorogo {
-    display:flex;
+.emp1 {
+    color: orangered;
 }
-.gorogo div {
-    display: inline-block;
+.emp2 {
+    font-weight: bold;
 }
