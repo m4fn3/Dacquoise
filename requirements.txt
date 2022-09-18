@@ -1,0 +1,6 @@
+aiohttp
+flask
+flask_localtunnel
+lxml
+python-dotenv
+discord.py
