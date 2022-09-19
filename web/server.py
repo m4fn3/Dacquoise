@@ -17,48 +17,50 @@ with open("database/kakusin.json", encoding="utf-8") as f:
 
 @app.route("/")
 async def index():
-    if (mode := request.args.get('mode')) is not None and (query := request.args.get("query")) is not None:
-        session = aiohttp.ClientSession()
-        param = {"def": mode}
-        if mode == "english":  # 英単語
-            # weblioから意味を取得
-            headers = {"User-Agent": "iPhone"}
-            resp = await session.get(
-                f"https://ejje.weblio.jp/content/{query}?smtp=smp_apl_ios",
-                headers=headers
-            )
-            html = await resp.text()
-            results = fromstring(html).xpath("//script[@id = 'main-explanation']")
-            if results:
-                data = json.loads(results[0].text)
-                if "explanation" in data:
-                    param["weblio"] = data["explanation"]["content"]
+    param = {"word": "", "mode": "english"}
+    if (mode := request.args.get('mode')) is not None:
+        param["mode"] = mode
+        if (query := request.args.get("query")) is not None:
+            session = aiohttp.ClientSession()
+            param["word"] = query
+            if mode == "english":  # 英単語
+                # weblioから意味を取得
+                headers = {"User-Agent": "iPhone"}
+                resp = await session.get(
+                    f"https://ejje.weblio.jp/content/{query}?smtp=smp_apl_ios",
+                    headers=headers
+                )
+                html = await resp.text()
+                results = fromstring(html).xpath("//script[@id = 'main-explanation']")
+                if results:
+                    data = json.loads(results[0].text)
+                    if "explanation" in data:
+                        param["weblio"] = data["explanation"]["content"]
 
-            # gogen-edjから語源を取得
-            resp = await session.get(
-                f"https://gogen-ejd.info/{query}/"
-            )
-            html = await resp.text()
-            results = fromstring(html).xpath("//div[@class='su-box-content su-u-clearfix su-u-trim']")
-            if results:  # 登録された単語の場合
-                derivation = results[0].text_content().strip().replace("⇒", "⇒。").split("。")
-                related = results[1].text_content().strip().split("\n")
-                related_meta = [{"label": word, "raw": word.split('（')[0].strip()} for word in related]
-                param["gogen_edj"] = [derivation, related_meta]
-        else:  # 古文単語
-            param["gorogo"] = {}
-            param["gorogo"]["tit"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/title/{query}a-ktng-ttl.png"
-            param["gorogo"]["fig"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/fig/{query}a-ktng-fig.png"
-            param["gorogo"]["imi"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/imi/a/{query}a-ktng-imi.png"
-            param["gorogo"]["goro"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/goro/a/{query}a-ktng-gro.png"
-            word = gorogo_n2t[query]
-            if word in kakusin:
-                param["kakusin"] = {}
-                param["kakusin"] = kakusin[word]
+                # gogen-edjから語源を取得
+                resp = await session.get(
+                    f"https://gogen-ejd.info/{query}/"
+                )
+                html = await resp.text()
+                results = fromstring(html).xpath("//div[@class='su-box-content su-u-clearfix su-u-trim']")
+                if results:  # 登録された単語の場合
+                    derivation = results[0].text_content().strip().replace("⇒", "⇒。").split("。")
+                    related = results[1].text_content().strip().split("\n")
+                    related_meta = [{"label": word, "raw": word.split('（')[0].strip()} for word in related]
+                    param["gogen_edj"] = [derivation, related_meta]
+            else:  # 古文単語
+                param["gorogo"] = {}
+                param["gorogo"]["tit"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/title/{query}a-ktng-ttl.png"
+                param["gorogo"]["fig"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/fig/{query}a-ktng-fig.png"
+                param["gorogo"]["imi"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/imi/a/{query}a-ktng-imi.png"
+                param["gorogo"]["goro"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/goro/a/{query}a-ktng-gro.png"
+                word = gorogo_n2t[query]
+                param["word"] = word
+                if word in kakusin:
+                    param["kakusin"] = kakusin[word]
 
-        await session.close()
-        return render_template("index.html", **param)
-    return render_template("index.html")
+            await session.close()
+    return render_template("index.html", **param)
 
 
 @app.route("/complete")

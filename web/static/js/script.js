@@ -5,13 +5,12 @@ $(function () {
             .append(
                 $("<div></div>")
                     .html(item.label)
-                    .append($("<div></div>").html(item.category))
+                    .append($("<div class='complete_category'></div>").html(item.category))
             )
             .appendTo(ul);
     };
     $("#keyword").autocomplete({
         source: function (request, response) {
-            let mode = $('input[name="mode"]:checked').val();
             $.ajax({
                 type: "GET",
                 url: `/complete?mode=${mode}&query=` + request.term,
@@ -24,10 +23,8 @@ $(function () {
             });
         },
         select: function (event, ui) {
-            let mode = $('input[name="mode"]:checked').val();
             location.href = `/?mode=${mode}&query=${ui.item.raw}`;
             return false;
         }
     });
-})
-;
+});

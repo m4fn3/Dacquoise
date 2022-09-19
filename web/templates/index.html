@@ -2,60 +2,67 @@
     <title>Dacquoise</title>
     <link rel="stylesheet" href="/static/css/jquery-ui.css" />
     <link rel="stylesheet" href="/static/css/style.css" />
+    <script src="https://kit.fontawesome.com/998858285b.js" crossorigin="anonymous"></script>
     <script src="/static/js/jquery-3.6.1.js"></script>
     <script src="/static/js/jquery-ui.js"></script>
     <script src="/static/js/script.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 </head>
 <body>
-<div class="setting">
-    <input type="text" id="keyword" placeholder="調べたい単語を入力">
-    <div>
-        <label><input type="radio" name="mode" value="english" checked>英単語</label>
-        <label><input type="radio" name="mode" value="kobun">古文単語</label>
-    </div>
+<div class="search">
+    <input type="text" id="keyword" placeholder="{{ word }}"/><i class="fa-solid fa-magnifying-glass"></i>
 </div>
-{% if def %}
-<script>$('input[name="mode"]').val(["{{ def }}"]);</script>
-{% endif %}
+<script>
+    let mode = "{{ mode }}"
+</script>
 {# ------------- 英単語 ------------- #}
 {% if weblio %}
-<h1>意味</h1>
+<h1 class="e_title">意味</h1>
 <p>{{ weblio }}</p>
 {% endif %}
 {% if gogen_edj %}
-<h1>語源</h1>
+<h1 class="e_title">語源</h1>
     <p>
     {% for text in gogen_edj[0] %}
         {{ text }}<br>
     {% endfor %}
     </p>
-<h1>関連語</h1>
-    <p>
+<h1 class="e_title">関連語</h1>
+    <ul style="font-size: 13px">
     {% for meta in gogen_edj[1] %}
-        <a href="{{ url_for('index', mode='english', query=meta['raw'])}}">{{ meta["label"] }}</a><br>
+        <li><a href="{{ url_for('index', mode='english', query=meta['raw'])}}">{{ meta["label"] }}</a></li>
     {% endfor %}
-    </p>
+    </ul>
 {% endif %}
 {# ------------- 古文単語 ------------- #}
 {% if kakusin %}
-<h1>意味</h1>
+<h1 class="k_title">意味</h1>
     <p>
     {% for meaning in kakusin['meanings'] %}
         {{ meaning|safe }}<br>
     {% endfor %}
     </p>
-<h1>ポイント</h1>
+<h1 class="k_title">ポイント</h1>
     <p>{{ kakusin['core'] }}</p>
     <p>ページ: {{ kakusin['page'] }}</p>
 {% endif %}
 {% if gorogo %}
-<h1>解説</h1>
-<div><img style="max-width:75%" src="{{ gorogo['tit'] }}"></div>
-<div style="width: 70%">
-    <img style="width:70%;float:left" src="{{ gorogo['fig'] }}">
-    <img style="width:70%;float:left" src="{{ gorogo['imi'] }}">
+<h1 class="k_title">解説</h1>
+<div class="gorogo">
+    <div><img style="width:100%" src="{{ gorogo['tit'] }}"></div>
+    <div>
+        <img style="width:65%;float:left" src="{{ gorogo['fig'] }}">
+        <img style="width:65%;float:left" src="{{ gorogo['imi'] }}">
+    </div>
+    <img style="height:35%;" src="{{ gorogo['goro'] }}">
 </div>
-<img style="height:50%;" src="{{ gorogo['goro'] }}">
 {% endif %}
+{# ------------ 選択バー ------------ #}
+<div class="bar">
+    <ul>
+        <li><a class="bar_english" href="{{ url_for('index', mode='english') }}"><i class="fa-solid fa-spell-check"></i><span>英単語</span></a></li>
+        <li><a class="bar_kobun" href="{{ url_for('index', mode='kobun') }}"><i class="fa-solid fa-book"></i><span>古文単語</span></a></li>
+    </ul>
+    <style>.bar_{{mode}} { color: #7b68ee; }</style>
+</div>
 </body>
