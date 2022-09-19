@@ -42,6 +42,13 @@ h1 {
     left: 10px;
 }
 
+.search #loading {
+    position: absolute;
+    left: 210px;
+    height: 30px;
+    display: none;
+}
+
 .search #keyword {
     color: white;
     height: 30px;

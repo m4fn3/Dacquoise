@@ -23,8 +23,12 @@ $(function () {
             });
         },
         select: function (event, ui) {
+            $("#loading").css("display", "inline");
             location.href = `/?mode=${mode}&query=${ui.item.raw}`;
             return false;
         }
+    });
+    $('.click').on("click", function () {
+        $("#loading").css("display", "inline");
     });
 });

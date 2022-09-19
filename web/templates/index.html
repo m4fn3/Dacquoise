@@ -11,6 +11,7 @@
 <body>
 <div class="search">
     <input type="text" id="keyword" placeholder="{{ word }}"/><i class="fa-solid fa-magnifying-glass"></i>
+    <img id="loading" src="/static/images/loading.svg">
 </div>
 <script>
     let mode = "{{ mode }}"
@@ -30,7 +31,7 @@
 <h1 class="e_title">関連語</h1>
     <ul style="font-size: 13px">
     {% for meta in gogen_edj[1] %}
-        <li><a href="{{ url_for('index', mode='english', query=meta['raw'])}}">{{ meta["label"] }}</a></li>
+        <li><a class="click" href="{{ url_for('index', mode='english', query=meta['raw'])}}">{{ meta["label"] }}</a></li>
     {% endfor %}
     </ul>
 {% endif %}
@@ -60,8 +61,8 @@
 {# ------------ 選択バー ------------ #}
 <div class="bar">
     <ul>
-        <li><a class="bar_english" href="{{ url_for('index', mode='english') }}"><i class="fa-solid fa-spell-check"></i><span>英単語</span></a></li>
-        <li><a class="bar_kobun" href="{{ url_for('index', mode='kobun') }}"><i class="fa-solid fa-book"></i><span>古文単語</span></a></li>
+        <li><a class="bar_english click" href="{{ url_for('index', mode='english') }}"><i class="fa-solid fa-spell-check"></i><span>英単語</span></a></li>
+        <li><a class="bar_kobun click"  href="{{ url_for('index', mode='kobun') }}"><i class="fa-solid fa-book"></i><span>古文単語</span></a></li>
     </ul>
     <style>.bar_{{mode}} { color: #7b68ee; }</style>
 </div>
