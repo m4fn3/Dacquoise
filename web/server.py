@@ -4,6 +4,7 @@ from flask import Flask, render_template, request, jsonify
 import aiohttp
 from lxml.html import fromstring
 from flask_lt import run_with_lt
+import random
 
 app = Flask(__name__)
 run_with_lt(app, subdomain="dacquoise")
@@ -13,6 +14,8 @@ with open("database/gorogo_n2t.json", encoding="utf-8") as f:
     gorogo_n2t = json.load(f)
 with open("database/kakusin.json", encoding="utf-8") as f:
     kakusin = json.load(f)
+with open("database/kakusin_list.json", encoding="utf-8") as f:
+    kakusin_list = json.load(f)
 
 
 @app.route("/")
@@ -20,7 +23,24 @@ async def index():
     param = {"word": "", "mode": "english"}
     if (mode := request.args.get('mode')) is not None:
         param["mode"] = mode
-        if (query := request.args.get("query")) is not None:
+        if mode == "kobun_list":  # 古文単語一覧
+            new = kakusin_list
+            if request.args.get("random") is not None:
+                keys = random.sample(kakusin_list.keys(), len(kakusin_list))
+                new = {k: kakusin_list[k] for k in keys}
+            range_ = request.args.get("range")
+            if range_ is not None:
+                l = range_.split("-")
+                if len(l) == 2 and l[0].isdigit() and l[1].isdigit():
+                    min_ = int(l[0])
+                    max_ = int(l[1])
+                    if 1 <= min_ <= max_ <= 351:
+                        param["range"] = [min_, max_]
+            if "range" not in param:
+                param["range"] = [1, 351]
+            param["kakusin_db"] = new
+            param["raw_range"] = range_ if range_ else ""
+        elif (query := request.args.get("query")) is not None:
             session = aiohttp.ClientSession()
             param["word"] = query
             if mode == "english":  # 英単語
@@ -48,7 +68,7 @@ async def index():
                     related = results[1].text_content().strip().split("\n")
                     related_meta = [{"label": word, "raw": word.split('（')[0].strip()} for word in related]
                     param["gogen_edj"] = [derivation, related_meta]
-            else:  # 古文単語
+            elif mode == "kobun":  # 古文単語
                 param["gorogo"] = {}
                 param["gorogo"]["tit"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/title/{query}a-ktng-ttl.png"
                 param["gorogo"]["fig"] = f"https://gorogo.net/grgnetwp/wp-content/mingorodata2/fig/{query}a-ktng-fig.png"

@@ -16,6 +16,19 @@
 <script>
     let mode = "{{ mode }}"
 </script>
+{# ----------- 追加ボタン ----------- #}
+{% if mode == "kobun" %}
+<div class="menu">
+    <a class="click" style="background-color: rebeccapurple;margin: 0 0 30px 20px;" href="{{ url_for('index', mode='kobun_list') }}">古文単語一覧</a>
+</div>
+{% endif %}
+{% if mode == "kobun_list" %}
+<div class="menu">
+    <a class="click" id="change_s" style="background-color: deepskyblue;margin: 0 5px 20px 20px;">昇順</a>
+    <a class="click" id="change_r" style="background-color: deepskyblue;margin: 0 5px 20px 5px;">ランダム</a>
+    <input type="text" id="range" placeholder="例) 1-351" value="{{ raw_range }}"/>
+</div>
+{% endif %}
 {# ------------- 英単語 ------------- #}
 {% if weblio %}
 <h1 class="e_title">意味</h1>
@@ -57,6 +70,25 @@
     </div>
     <img style="height:35%;" src="{{ gorogo['goro'] }}">
 </div>
+{% endif %}
+{# ----------- 古文単語一覧 ------------ #}
+{% if mode == "kobun_list" %}
+<table class="kobun_list">
+    {% for key, data in kakusin_db.items() %}
+        {% if range[0] <= key|int <= range[1] %}
+            <tr>
+                <td class="h{{key}}" rowspan="{{ data['meanings']|length }}">{{ key }}</td>
+                <td class="h{{key}} kobun_list_w" rowspan="{{ data['meanings']|length }}">{{ data['word'] }}</td>
+                <td class="m{{key}} kobun_list_m">{{ data['meanings'][0]|safe }}</td>
+            </tr>
+            {% for plus in data['meanings'][1:] %}
+                <tr>
+                    <td class="m{{key}} kobun_list_m">{{ plus|safe }}</td>
+                </tr>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+</table>
 {% endif %}
 {# ------------ 選択バー ------------ #}
 <div class="bar">

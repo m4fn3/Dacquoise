@@ -1,0 +1,2484 @@
+{
+  "1": {
+    "word": "あく",
+    "meanings": [
+      "①<span class='emp1'>十分満足する</span>【飽く・厭く】",
+      "②飽きる【飽く・厭く】"
+    ]
+  },
+  "2": {
+    "word": "おどろく",
+    "meanings": [
+      "①<span class='emp1'>目を覚ます</span>【驚く】",
+      "②<span class='emp2'>はっと気付く</span>【驚く】",
+      "③びっくりする【驚く】"
+    ]
+  },
+  "3": {
+    "word": "ながむ",
+    "meanings": [
+      "①<span class='emp1'>物思いに沈む</span> <span class='emp2'>見渡す</span> ぼんやり見る【眺む】",
+      "②<span class='emp2'>吟じる</span> (詩歌を)詠む【詠む】"
+    ]
+  },
+  "4": {
+    "word": "ねんず",
+    "meanings": [
+      "①(神仏に)<span class='emp1'>祈る</span>【念ず】",
+      "②<span class='emp1'>我慢する</span>【念ず】"
+    ]
+  },
+  "5": {
+    "word": "わぶ",
+    "meanings": [
+      "①<span class='emp1'>思い嘆く</span> <span class='emp2'>心細く思う</span> 気落ちする【侘ぶ・詫ぶ】",
+      "②<span class='emp2'>落ちぶれる</span>【侘ぶ・詫ぶ】",
+      "③<span class='emp2'>～(し)かねる</span> ～(し)づらい【侘ぶ・詫ぶ】"
+    ]
+  },
+  "6": {
+    "word": "あくがる",
+    "meanings": [
+      "①<span class='emp1'>離れさまよう</span> <span class='emp2'>浮かれ歩く</span>【憧る】",
+      "②<span class='emp2'>落ち着かない</span> うわの空になる【憧る】"
+    ]
+  },
+  "7": {
+    "word": "とぶらふ",
+    "meanings": [
+      "①<span class='emp1'>見舞う</span> <span class='emp2'>たずねる</span>【訪ふ】",
+      "②<span class='emp2'>とむらう</span> 冥福を祈る【弔ふ】"
+    ]
+  },
+  "8": {
+    "word": "ののしる",
+    "meanings": [
+      "①<span class='emp1'>大声で騒ぐ</span> <span class='emp2'>大騒ぎする</span> 大騒ぎで～(する)【罵る】",
+      "②<span class='emp2'>評判が高い</span> <span class='emp2'>威勢がよい</span> うわさされる【罵る】"
+    ]
+  },
+  "9": {
+    "word": "ありく",
+    "meanings": [
+      "①<span class='emp1'>歩きまわる</span> <span class='emp1'>動きまわる</span>【歩く】",
+      "②<span class='emp2'>いつも～(する)</span> <span class='emp2'>～(し)まわる</span>【歩く】"
+    ]
+  },
+  "10": {
+    "word": "まもる",
+    "meanings": [
+      "①<span class='emp1'>じっと見つめる</span> 見守る【守る】",
+      "②<span class='emp2'>世話をする</span> 守る 守護する【守る】"
+    ]
+  },
+  "11": {
+    "word": "わづらふ",
+    "meanings": [
+      "①<span class='emp1'>苦しむ</span> <span class='emp2'>悩む</span> <span class='emp2'>面倒に思う</span>【煩ふ】",
+      "②<span class='emp2'>～(し)かねる</span>【煩ふ】"
+    ]
+  },
+  "12": {
+    "word": "なやむ",
+    "meanings": [
+      "①<span class='emp1'>苦しむ</span> <span class='emp2'>病気になる</span>【悩む】",
+      "②非難する【悩む】"
+    ]
+  },
+  "13": {
+    "word": "おこたる",
+    "meanings": [
+      "①<span class='emp1'>(病気が)なおる</span>【怠る】",
+      "②<span class='emp2'>中断する</span> 休止する【怠る】"
+    ]
+  },
+  "14": {
+    "word": "あきらむ",
+    "meanings": [
+      "①<span class='emp1'>明らかにする</span>【明らむ】",
+      "②(憂さなどを)<span class='emp2'>晴らす</span> (心中を)<span class='emp2'>明かす</span>【明らむ】"
+    ]
+  },
+  "15": {
+    "word": "かなし",
+    "meanings": [
+      "①<span class='emp1'>かわいい</span> いとしい【愛し】",
+      "②<span class='emp2'>心ひかれる</span>【愛し】",
+      "③<span class='emp2'>不憫(ふびん)だ</span> 悲しい <span class='emp2'>気の毒だ</span>【悲し・哀し】"
+    ]
+  },
+  "16": {
+    "word": "こころにくし",
+    "meanings": [
+      "①<span class='emp1'>奥ゆかしい</span> <span class='emp2'>上品だ</span> 心がひかれる【心憎し】"
+    ]
+  },
+  "17": {
+    "word": "うつくし",
+    "meanings": [
+      "①<span class='emp1'>かわいらしい</span>【美し】",
+      "②<span class='emp2'>立派だ</span> 見事だ【美し】"
+    ]
+  },
+  "18": {
+    "word": "めでたし",
+    "meanings": [
+      "①<span class='emp1'>すばらしい</span> <span class='emp2'>見事だ</span> <span class='emp2'>幸運だ</span>【愛でたし】",
+      "②喜ばしい 祝うべきだ【愛でたし】"
+    ]
+  },
+  "19": {
+    "word": "なまめかし",
+    "meanings": [
+      "①<span class='emp1'>優雅だ</span> <span class='emp2'>優美だ</span> 上品だ【艶めかし・生めかし】",
+      "②<span class='emp2'>みずみずしい</span> <span class='emp2'>若々しい</span>【艶めかし・生めかし】"
+    ]
+  },
+  "20": {
+    "word": "ありがたし",
+    "meanings": [
+      "①<span class='emp1'>めったにない</span> <span class='emp2'>めったにないほど立派だ</span>【有り難し】",
+      "②<span class='emp2'>生きるのがむずかしい</span>【有り難し】",
+      "③(実現が)<span class='emp2'>むずかしい</span> 困難だ【有り難し】"
+    ]
+  },
+  "21": {
+    "word": "はづかし",
+    "meanings": [
+      "①<span class='emp2'>(こちらが気がひけるほど相手が)</span> <span class='emp1'>立派だ</span>【恥づかし】",
+      "②<span class='emp2'>気後れする</span> 気がひける きまりが悪い【恥づかし】"
+    ]
+  },
+  "22": {
+    "word": "やさし",
+    "meanings": [
+      "①<span class='emp1'>恥ずかしい</span> <span class='emp2'>堪え難い</span> <span class='emp2'>つらい</span>【羞し・優し】",
+      "②<span class='emp2'>優美だ</span> 上品だ【羞し・優し】"
+    ]
+  },
+  "23": {
+    "word": "めづらし",
+    "meanings": [
+      "①<span class='emp1'>すばらしい</span> 好ましい【珍し】",
+      "②<span class='emp2'>めったにない</span> 例がない【珍し】",
+      "③<span class='emp2'>目新しい</span> 新鮮だ【珍し】"
+    ]
+  },
+  "24": {
+    "word": "なつかし",
+    "meanings": [
+      "①<span class='emp1'>親しみが持てる</span> かわいい いとしい【懐かし】",
+      "②<span class='emp2'>慕わしい</span> <span class='emp2'>心ひかれる</span>【懐かし】"
+    ]
+  },
+  "25": {
+    "word": "おとなし",
+    "meanings": [
+      "①<span class='emp1'>おとなびている</span> <span class='emp1'>主(おも)だっている</span> 大人(おとな)らしい【大人し】",
+      "②<span class='emp2'>思慮分別がある</span> <span class='emp2'>落ち着いている</span>【大人し】",
+      "③<span class='emp2'>年配である</span>【大人し】"
+    ]
+  },
+  "26": {
+    "word": "さうざうし",
+    "meanings": [
+      "①<span class='emp1'>物足りない</span> <span class='emp2'>寂しい</span> つまらない"
+    ]
+  },
+  "27": {
+    "word": "あぢきなし",
+    "meanings": [
+      "①<span class='emp1'>おもしろくない</span> 苦々しい",
+      "②<span class='emp2'>どうにもならない</span>",
+      "③<span class='emp2'>つまらない</span> 無益だ"
+    ]
+  },
+  "28": {
+    "word": "すさまじ",
+    "meanings": [
+      "①<span class='emp1'>殺風景だ</span> 寂しい【凄まじ】",
+      "②<span class='emp2'>興ざめだ</span> ひどい おもしろくない【凄まじ】"
+    ]
+  },
+  "29": {
+    "word": "あやし",
+    "meanings": [
+      "①<span class='emp1'>不思議だ</span> 異常だ 不都合だ【怪し】",
+      "②<span class='emp2'>(身分が)卑しい</span> みすぼらしい 粗末だ【賤し】"
+    ]
+  },
+  "30": {
+    "word": "あさまし",
+    "meanings": [
+      "①<span class='emp1'>驚きあきれるほどだ</span> 意外だ【浅まし】",
+      "②<span class='emp2'>嘆かわしい</span> 興ざめだ【浅まし】"
+    ]
+  },
+  "31": {
+    "word": "つらし",
+    "meanings": [
+      "①<span class='emp1'>薄情だ</span> 冷淡だ【辛し】",
+      "②<span class='emp2'>恨めしい</span> 苦痛だ【辛し】"
+    ]
+  },
+  "32": {
+    "word": "こころぐるし",
+    "meanings": [
+      "①<span class='emp1'>つらい</span> 切ない【心苦し】",
+      "②<span class='emp2'>気の毒だ</span> 気がかりだ【心苦し】"
+    ]
+  },
+  "33": {
+    "word": "わびし",
+    "meanings": [
+      "①<span class='emp1'>つらい</span> <span class='emp2'>苦しい</span> 悲しい【侘びし】",
+      "②<span class='emp2'>つまらない</span> 興ざめだ【侘びし】",
+      "③みすぼらしい 貧しい【侘びし】"
+    ]
+  },
+  "34": {
+    "word": "あたらし",
+    "meanings": [
+      "①<span class='emp1'>惜しい</span> <span class='emp2'>もったいない</span>【可惜し】",
+      "②<span class='emp2'>すばらしい</span> 立派だ【可惜し】"
+    ]
+  },
+  "35": {
+    "word": "うしろめたし",
+    "meanings": [
+      "①<span class='emp1'>気がかりだ</span> <span class='emp2'>心配だ</span>【後ろめたし】"
+    ]
+  },
+  "36": {
+    "word": "むつかし",
+    "meanings": [
+      "①<span class='emp1'>不快だ</span> <span class='emp2'>わずらわしい</span> (気分が)<span class='emp2'>すぐれない</span>【難し】",
+      "②<span class='emp2'>恐ろしい</span> 気味が悪い【難し】"
+    ]
+  },
+  "37": {
+    "word": "あからさまなり",
+    "meanings": [
+      "①<span class='emp1'>ほんのしばらく</span> <span class='emp1'>ちょっと</span>",
+      "②<span class='emp2'>全く</span> ほんの少しも"
+    ]
+  },
+  "38": {
+    "word": "おろかなり",
+    "meanings": [
+      "①<span class='emp1'>いい加減だ</span> <span class='emp2'>疎(おろそ)かだ</span> <span class='emp2'>並一通りだ</span> 粗略だ【疎かなり】",
+      "②<span class='emp2'>不十分だ</span> 未熟だ へただ【疎かなり】"
+    ]
+  },
+  "39": {
+    "word": "いたづらなり",
+    "meanings": [
+      "①<span class='emp1'>むだだ</span> 無益だ【徒らなり】",
+      "②<span class='emp2'>むなしい</span> <span class='emp2'>つまらない</span> 退屈だ【徒らなり】"
+    ]
+  },
+  "40": {
+    "word": "て",
+    "meanings": [
+      "①<span class='emp1'>筆跡</span> 技量 文字 書風【手】",
+      "②<span class='emp2'>手段</span> 方法【手】",
+      "③<span class='emp2'>手傷</span> 負傷【手】"
+    ]
+  },
+  "41": {
+    "word": "うへ",
+    "meanings": [
+      "①<span class='emp1'>天皇</span> 主人 殿【上】",
+      "②<span class='emp2'>御殿</span> <span class='emp2'>天皇の部屋</span> 宮中 清涼殿【上】",
+      "③<span class='emp2'>奥方</span> <span class='emp2'>貴婦人の敬称</span>【上】",
+      "④<span class='emp2'>加えて</span> <span class='emp2'>その上</span> 段階 状態 身の上【上】"
+    ]
+  },
+  "42": {
+    "word": "ついで",
+    "meanings": [
+      "①<span class='emp1'>順序</span> <span class='emp2'>次第</span> 順番【序】",
+      "②<span class='emp2'>機会</span> 折 場合【序】"
+    ]
+  },
+  "43": {
+    "word": "やう",
+    "meanings": [
+      "①<span class='emp1'>様子</span> <span class='emp2'>状態</span> 姿 形【様】",
+      "②<span class='emp2'>理由</span> 事情 <span class='emp2'>手段</span> 方法【様】",
+      "③<span class='emp2'>～こと</span> ～もの【様】"
+    ]
+  },
+  "44": {
+    "word": "けしき",
+    "meanings": [
+      "①<span class='emp1'>有様(ありさま)</span> <span class='emp1'>様子</span> <span class='emp2'>情景</span> 表情 顔色【気色】",
+      "②<span class='emp2'>趣</span> 情趣【気色】",
+      "③<span class='emp2'>機嫌</span> 寵愛(ちょうあい)【気色】",
+      "④<span class='emp2'>兆候</span> きざし【気色】"
+    ]
+  },
+  "45": {
+    "word": "としごろ",
+    "meanings": [
+      "①<span class='emp1'>数年来</span> <span class='emp1'>長年</span>【年比・年頃・年来】"
+    ]
+  },
+  "46": {
+    "word": "おと",
+    "meanings": [
+      "①<span class='emp1'>便り</span> <span class='emp1'>うわさ</span> 音沙汰 音信【音】"
+    ]
+  },
+  "47": {
+    "word": "かげ",
+    "meanings": [
+      "①<span class='emp2'>(太陽などの)</span><span class='emp1'>光</span>【影】",
+      "②<span class='emp2'>姿</span> 形 面影【影】",
+      "③<span class='emp2'>恩恵</span> <span class='emp2'>おかげ</span> 庇護(ひご)【陰・蔭】"
+    ]
+  },
+  "48": {
+    "word": "つとめて(名詞)",
+    "meanings": [
+      "①<span class='emp1'>早朝</span> 朝早く【夙めて】",
+      "②<span class='emp2'>翌早朝</span>【夙めて】"
+    ]
+  },
+  "49": {
+    "word": "さすがなり",
+    "meanings": [
+      "①<span class='emp1'>そうは言うもののやはり</span> <span class='emp2'>いくら何でも</span>",
+      "②<span class='emp1'>そうもいかない</span> 感心しない"
+    ]
+  },
+  "50": {
+    "word": "なほ",
+    "meanings": [
+      "①<span class='emp1'>やはり</span> そのまま【尚・猶】",
+      "②<span class='emp2'>いっそう</span> ますます さらに【尚・猶】"
+    ]
+  },
+  "51": {
+    "word": "やうやう",
+    "meanings": [
+      "①<span class='emp1'>次第に</span> だんだん【漸う】",
+      "②<span class='emp2'>やっと</span> かろうじて おもむろに【漸う】"
+    ]
+  },
+  "52": {
+    "word": "そこら",
+    "meanings": [
+      "①<span class='emp1'>たくさん</span> <span class='emp2'>多く</span> 大勢",
+      "②<span class='emp2'>たいそう</span> はなはだしく"
+    ]
+  },
+  "53": {
+    "word": "わざと",
+    "meanings": [
+      "①<span class='emp1'>正式(に)</span> <span class='emp2'>本格的(に)</span>【態と】",
+      "③<span class='emp2'>わざわざ</span> 意識的に【態と】"
+    ]
+  },
+  "54": {
+    "word": "やがて",
+    "meanings": [
+      "①<span class='emp1'>そのまま</span> 同時に【軈て】",
+      "②<span class='emp2'>すぐに</span> ちょうど【軈て】",
+      "③つまり すなわち【軈て】"
+    ]
+  },
+  "55": {
+    "word": "すなはち",
+    "meanings": [
+      "①<span class='emp1'>すぐに</span> 即座に【即ち・則ち】",
+      "②<span class='emp1'>瞬間</span> <span class='emp2'>即刻</span> <span class='emp2'>当座</span> 即座【即ち・則ち】",
+      "③<span class='emp2'>つまりは</span> <span class='emp2'>とりもなおさず</span> そのまま【即ち・則ち】",
+      "④<span class='emp2'>そこで</span> そんなわけで【即ち・則ち】"
+    ]
+  },
+  "56": {
+    "word": "みる",
+    "meanings": [
+      "①<span class='emp1'>結婚する</span> 交際する【見る】",
+      "②<span class='emp2'>理解する</span> 見る <span class='emp2'>判断する</span>【見る】",
+      "③<span class='emp2'>世話をする</span> 面倒をみる【見る】"
+    ]
+  },
+  "57": {
+    "word": "あふ",
+    "meanings": [
+      "①<span class='emp1'>結婚する</span> 出会う めぐり会う【逢ふ・合ふ】",
+      "②<span class='emp2'>つり合う</span>【逢ふ・合ふ】",
+      "③<span class='emp1'>我慢する</span> 堪える こらえる【敢ふ】",
+      "④<span class='emp2'>完全に～しきる</span> 無理に～する【敢ふ】"
+    ]
+  },
+  "58": {
+    "word": "よばふ",
+    "meanings": [
+      "①<span class='emp1'>求婚する</span> 言い寄る (男が女の所に)通う【呼ばふ・婚ふ・夜這ふ】",
+      "②<span class='emp2'>呼び続ける</span>【呼ばふ】"
+    ]
+  },
+  "59": {
+    "word": "ときめく",
+    "meanings": [
+      "①<span class='emp1'>寵愛(ちょうあい)を受ける</span>【時めく】",
+      "②<span class='emp2'>時勢にあって栄える</span> 羽振りがよい【時めく】"
+    ]
+  },
+  "60": {
+    "word": "にほふ",
+    "meanings": [
+      "①<span class='emp1'>美しく咲く</span> <span class='emp1'>美しく輝く</span> <span class='emp2'>美しく染まる</span>【匂ふ】",
+      "②<span class='emp2'>恩恵が及ぶ</span> 栄える【匂ふ】"
+    ]
+  },
+  "61": {
+    "word": "うつろふ",
+    "meanings": [
+      "①<span class='emp1'>色あせる</span> しぼむ【移ろふ】",
+      "②移転する 移る【移ろふ】",
+      "③<span class='emp2'>移り変わる</span> (心が)移り変わる【移ろふ】"
+    ]
+  },
+  "62": {
+    "word": "やつる",
+    "meanings": [
+      "①<span class='emp1'>地味(粗末)な服装になる</span> <span class='emp2'>目立たぬようにする</span> みすぼらしくなる【窶る】"
+    ]
+  },
+  "63": {
+    "word": "おこなふ",
+    "meanings": [
+      "①<span class='emp1'>勤行する</span> (仏道)<span class='emp2'>修行する</span> お勤めをする【行ふ】",
+      "②<span class='emp2'>治める</span> 政治を行う <span class='emp2'>とり行う</span> 処理する【行ふ】"
+    ]
+  },
+  "64": {
+    "word": "かしづく",
+    "meanings": [
+      "①<span class='emp1'>大切に育てる</span> いつくしむ【傅く】",
+      "②<span class='emp2'>大切に世話をする</span> 後見(こうけん)する【傅く】"
+    ]
+  },
+  "65": {
+    "word": "あそぶ",
+    "meanings": [
+      "①<span class='emp1'>管絃(かんげん)(音楽)などの遊びをする</span> 演奏する【遊ぶ】",
+      "②遊び興じる【遊ぶ】",
+      "③歩き回る【遊ぶ】"
+    ]
+  },
+  "66": {
+    "word": "おくる",
+    "meanings": [
+      "①<span class='emp1'>先立たれる</span> 遅れる 後に残る【後る・遅る】",
+      "②<span class='emp2'>劣る</span> 気後れする【後る・遅る】"
+    ]
+  },
+  "67": {
+    "word": "いむ",
+    "meanings": [
+      "①<span class='emp1'>忌み嫌う</span> <span class='emp1'>不吉だ</span> 憎む 慎む【忌む】",
+      "②<span class='emp2'>受戒する</span>【斎む】"
+    ]
+  },
+  "68": {
+    "word": "しほたる",
+    "meanings": [
+      "①<span class='emp1'>海水に濡(ぬ)れてしずくが垂れる</span>【潮垂る】",
+      "②(涙・露霜などで袖が)<span class='emp1'>濡(ぬ)れる</span> 涙を流す 悲しむ【潮垂る】"
+    ]
+  },
+  "69": {
+    "word": "はつ",
+    "meanings": [
+      "①<span class='emp1'>終わる</span> なくなる 死ぬ【果つ】",
+      "②<span class='emp2'>～(し)きる</span> <span class='emp2'>～(し)終わる</span> すっかり～(する)【果つ】"
+    ]
+  },
+  "70": {
+    "word": "やむごとなし",
+    "meanings": [
+      "①<span class='emp1'>たいそう尊い</span> <span class='emp2'>高貴だ</span> 貴重だ",
+      "②<span class='emp2'>やむをえない</span> 捨てておけない",
+      "③<span class='emp2'>並々でない</span> 格別だ"
+    ]
+  },
+  "71": {
+    "word": "すきずきし",
+    "meanings": [
+      "①<span class='emp1'>好色めいている</span>【好き好きし】",
+      "②<span class='emp1'>風流だ</span> 熱心だ 物好きだ【好き好きし】"
+    ]
+  },
+  "72": {
+    "word": "おほけなし",
+    "meanings": [
+      "①<span class='emp1'>身分不相応だ</span> 身の程知らずだ",
+      "②<span class='emp2'>恐れ多い</span>"
+    ]
+  },
+  "73": {
+    "word": "おぼつかなし",
+    "meanings": [
+      "①<span class='emp1'>はっきりしない</span> <span class='emp2'>ぼんやりしている</span>",
+      "②<span class='emp2'>心細い</span> <span class='emp2'>気がかりだ</span> 不安だ 待ち遠しい"
+    ]
+  },
+  "74": {
+    "word": "かごとがまし",
+    "meanings": [
+      "①<span class='emp1'>恨みがましい様子だ</span> <span class='emp2'>嘆いている様子だ</span>【託言がまし】"
+    ]
+  },
+  "75": {
+    "word": "いまめかし",
+    "meanings": [
+      "①<span class='emp1'>当世風だ</span> <span class='emp1'>現代風だ</span> 華やかだ 目新しい【今めかし】",
+      "②<span class='emp2'>今さらめいている</span> 軽薄だ【今めかし】"
+    ]
+  },
+  "76": {
+    "word": "そこはかとなし",
+    "meanings": [
+      "①<span class='emp1'>とりとめもない</span> <span class='emp2'>どこということもない</span>"
+    ]
+  },
+  "77": {
+    "word": "くちをし",
+    "meanings": [
+      "①<span class='emp1'>残念だ</span> <span class='emp2'>がっかりだ</span> くやしい【口惜し】",
+      "②<span class='emp2'>情けない</span> <span class='emp2'>つまらない</span> もの足りない【口惜し】",
+      "③<span class='emp2'>卑しい</span> (身分が)言うに足りない【口惜し】"
+    ]
+  },
+  "78": {
+    "word": "きよらなり",
+    "meanings": [
+      "①<span class='emp1'>上品で美しい</span> <span class='emp2'>華美だ</span> 清く美しい 華麗だ【清らなり】"
+    ]
+  },
+  "79": {
+    "word": "つれづれなり",
+    "meanings": [
+      "①<span class='emp1'>所在ない</span> <span class='emp2'>退屈だ</span>【徒然なり】",
+      "②退屈でもの寂しい 物思いに沈む【徒然なり】"
+    ]
+  },
+  "80": {
+    "word": "むげなり",
+    "meanings": [
+      "①<span class='emp1'>全くひどい</span> <span class='emp2'>あんまりだ</span>【無下なり・無碍なり】",
+      "②<span class='emp2'>身分が低い</span> 卑賤(ひせん)だ【無下なり・無碍なり】",
+      "③紛れもない 疑問の余地がない【無下なり・無碍なり】"
+    ]
+  },
+  "81": {
+    "word": "ふみ",
+    "meanings": [
+      "①<span class='emp1'>書物</span> <span class='emp2'>文献</span> 文書【文】",
+      "②<span class='emp2'>手紙</span>【文】",
+      "③<span class='emp2'>漢詩文</span> <span class='emp2'>学問</span>【文】"
+    ]
+  },
+  "82": {
+    "word": "おほやけ",
+    "meanings": [
+      "①<span class='emp1'>天皇</span> <span class='emp1'>朝廷</span> 皇居 宮中 皇后【公・朝廷】",
+      "②<span class='emp2'>公的なこと</span>【公・朝廷】"
+    ]
+  },
+  "83": {
+    "word": "くもゐ",
+    "meanings": [
+      "①<span class='emp1'>宮中</span> 内裏(だいり) 都【雲居・雲井】",
+      "②<span class='emp2'>天</span> <span class='emp2'>空</span> 雲のある所【雲居・雲井】"
+    ]
+  },
+  "84": {
+    "word": "みやび",
+    "meanings": [
+      "①<span class='emp1'>風雅</span> <span class='emp2'>宮廷風</span> 優雅【雅】"
+    ]
+  },
+  "85": {
+    "word": "あいぎやう",
+    "meanings": [
+      "①<span class='emp1'>かわいらしさ</span> 愛らしさ【愛敬】",
+      "②<span class='emp2'>思いやり</span>【愛敬】"
+    ]
+  },
+  "86": {
+    "word": "ざえ",
+    "meanings": [
+      "①<span class='emp1'>学才</span> (漢詩文などの)<span class='emp1'>学問</span> <span class='emp2'>教養</span>【才】",
+      "②<span class='emp2'>技芸</span> (芸術の)才能【才】"
+    ]
+  },
+  "87": {
+    "word": "みち",
+    "meanings": [
+      "①<span class='emp1'>政道</span> <span class='emp1'>道理</span> 筋道 秩序【道】",
+      "②<span class='emp2'>方法</span> <span class='emp2'>手段</span>【道】",
+      "③<span class='emp2'>仏道</span> 神仏の教え【道】",
+      "④(学問・芸道などの)<span class='emp2'>方面</span>【道】"
+    ]
+  },
+  "88": {
+    "word": "うしろみ",
+    "meanings": [
+      "①<span class='emp1'>後見(人)</span> 世話(役)【後見】"
+    ]
+  },
+  "89": {
+    "word": "いろ",
+    "meanings": [
+      "①<span class='emp1'>顔色</span> 表情【色】",
+      "②<span class='emp1'>風流</span> <span class='emp2'>情緒</span> <span class='emp2'>美しさ</span>【色】",
+      "③<span class='emp2'>恋愛</span> 情事【色】"
+    ]
+  },
+  "90": {
+    "word": "なさけ",
+    "meanings": [
+      "①<span class='emp1'>風流心</span> 風情【情け】",
+      "②<span class='emp1'>思いやり</span> <span class='emp2'>恋愛</span> 情愛【情け】"
+    ]
+  },
+  "91": {
+    "word": "こころ",
+    "meanings": [
+      "①<span class='emp1'>気持ち</span> <span class='emp1'>感情</span> 精神【心】",
+      "②<span class='emp2'>思慮</span> <span class='emp2'>風流心</span> 情趣 情愛【心】",
+      "③<span class='emp2'>意味</span> わけ 趣向【心】",
+      "④<span class='emp2'>中心</span> <span class='emp2'>本質</span> 真ん中【心】"
+    ]
+  },
+  "92": {
+    "word": "ちぎり",
+    "meanings": [
+      "①<span class='emp1'>約束</span> <span class='emp2'>男女の交わり</span>【契り】",
+      "②<span class='emp2'>前世からの因縁</span> 宿縁【契り】"
+    ]
+  },
+  "93": {
+    "word": "ほい・ほんい",
+    "meanings": [
+      "①<span class='emp1'>本来の志</span> <span class='emp1'>真意</span> <span class='emp2'>本望</span>【本意】"
+    ]
+  },
+  "94": {
+    "word": "よ",
+    "meanings": [
+      "①<span class='emp1'>現世</span> <span class='emp2'>俗世</span> 世間 <span class='emp2'>世の中</span> この世【世・代】",
+      "②<span class='emp1'>夫婦の仲</span> 男女の仲【世・代】",
+      "③ 年齢 生涯 <span class='emp2'>時代</span> <span class='emp2'>時</span>【世・代】"
+    ]
+  },
+  "95": {
+    "word": "ゐる",
+    "meanings": [
+      "①<span class='emp1'>すわる</span> <span class='emp2'>いる</span> 住む【居る】",
+      "②<span class='emp1'>連れる</span> <span class='emp2'>伴う</span>【率る】"
+    ]
+  },
+  "96": {
+    "word": "ぐす",
+    "meanings": [
+      "①<span class='emp1'>備える</span> <span class='emp2'>従える</span> 伴う【具す】",
+      "②<span class='emp2'>従う</span> <span class='emp1'>備わる</span> そろう【具す】",
+      "③<span class='emp2'>持つ</span> <span class='emp2'>携える</span> 持参する【具す】",
+      "④<span class='emp2'>連れ添う</span> 夫婦になる【具す】"
+    ]
+  },
+  "97": {
+    "word": "いそぐ",
+    "meanings": [
+      "①<span class='emp1'>準備する</span> 用意する【急ぐ】"
+    ]
+  },
+  "98": {
+    "word": "まうく",
+    "meanings": [
+      "①<span class='emp1'>用意する</span> <span class='emp2'>準備する</span>【設く】",
+      "②<span class='emp2'>身に受ける</span> <span class='emp2'>授かる</span> <span class='emp2'>拾う</span> 得をする【儲く】"
+    ]
+  },
+  "99": {
+    "word": "ねぶ",
+    "meanings": [
+      "①<span class='emp1'>おとなびる</span> 成長する",
+      "②<span class='emp2'>年をとる</span> ふける"
+    ]
+  },
+  "100": {
+    "word": "およすく",
+    "meanings": [
+      "①<span class='emp1'>成長する</span> 大人になる",
+      "②<span class='emp2'>おとなびる</span> ませる 老成する",
+      "③<span class='emp2'>地味にする</span> <span class='emp2'>地味だ</span> 目立たないようにする"
+    ]
+  },
+  "101": {
+    "word": "やる",
+    "meanings": [
+      "①<span class='emp1'>送る</span> <span class='emp1'>行かせる</span>【遣る】",
+      "②<span class='emp2'>導き入れる</span>【遣る】",
+      "③(心を)<span class='emp2'>晴らす</span>【遣る】",
+      "④<span class='emp2'>～(し)きる</span> 完全に～(する) 遠く～(する)【遣る】"
+    ]
+  },
+  "102": {
+    "word": "おこす",
+    "meanings": [
+      "①<span class='emp1'>よこす</span> (こちらへ)<span class='emp1'>送ってくる</span>【遣す】",
+      "②こちらへ(を)～(する)【遣す】"
+    ]
+  },
+  "103": {
+    "word": "はかなし",
+    "meanings": [
+      "①<span class='emp1'>頼りない</span> 心細い <span class='emp2'>あてにならない</span> <span class='emp2'>無常だ</span> <span class='emp2'>無益だ</span>【果敢無し】",
+      "②<span class='emp2'>ちょっとした</span> つまらない【果敢無し】"
+    ]
+  },
+  "104": {
+    "word": "はかばかし",
+    "meanings": [
+      "①<span class='emp1'>はっきりしている</span> 際立っている【果果し・捗捗し】",
+      "②<span class='emp2'>しっかりしている</span> 確かだ 本格的だ【果果し・捗捗し】"
+    ]
+  },
+  "105": {
+    "word": "いとほし",
+    "meanings": [
+      "①<span class='emp1'>かわいそうだ</span> <span class='emp2'>気の毒だ</span>",
+      "②<span class='emp2'>かわいい</span> いとしい"
+    ]
+  },
+  "106": {
+    "word": "らうたし",
+    "meanings": [
+      "①<span class='emp1'>かわいらしい</span> 可憐(かれん)だ かわいい"
+    ]
+  },
+  "107": {
+    "word": "かしこし",
+    "meanings": [
+      "①<span class='emp1'>恐れ多い</span> 恐ろしい【畏し・恐し・賢し】",
+      "②<span class='emp2'>高貴だ</span> 尊い【畏し・恐し・賢し】"
+    ]
+  },
+  "108": {
+    "word": "かたじけなし",
+    "meanings": [
+      "①<span class='emp1'>恐れ多い</span> <span class='emp2'>もったいない</span>【辱し・忝し】",
+      "②<span class='emp2'>恥ずかしい</span> 面目ない【辱し・忝し】"
+    ]
+  },
+  "109": {
+    "word": "こころづきなし",
+    "meanings": [
+      "①<span class='emp1'>気にくわない</span> <span class='emp2'>嫌だ</span> おもしろくない【心付き無し】"
+    ]
+  },
+  "110": {
+    "word": "つきづきし",
+    "meanings": [
+      "①<span class='emp1'>似つかわしい</span> <span class='emp2'>ふさわしい</span>【付き付きし】"
+    ]
+  },
+  "111": {
+    "word": "になし",
+    "meanings": [
+      "①<span class='emp1'>たぐいない</span> <span class='emp2'>すばらしい</span> 二つと無い【二無し・似無し】"
+    ]
+  },
+  "112": {
+    "word": "またなし",
+    "meanings": [
+      "①<span class='emp1'>またとない</span> <span class='emp2'>たぐいない</span> この上ない【又無し】"
+    ]
+  },
+  "113": {
+    "word": "あはれ",
+    "meanings": [
+      "①<span class='emp1'>ああ</span>【哀れ】",
+      "②<span class='emp1'>しみじみとした情趣</span> <span class='emp2'>感動</span> 悲哀 愛情 <span class='emp2'>情味</span>【哀れ】",
+      "③<span class='emp1'>しみじみと情趣深い</span> しみじみと悲しい【哀れなり】",
+      "④<span class='emp2'>心にしみて気の毒だ</span>【哀れなり】"
+    ]
+  },
+  "114": {
+    "word": "をかし",
+    "meanings": [
+      "①<span class='emp1'>興趣がある</span> 興味深い",
+      "②<span class='emp2'>美しい</span> 愛らしい すばらしい",
+      "③<span class='emp2'>風情がある</span> 趣がある"
+    ]
+  },
+  "115": {
+    "word": "おもしろし",
+    "meanings": [
+      "①<span class='emp1'>趣がある</span> <span class='emp2'>風流だ</span> 趣深い【面白し】",
+      "②<span class='emp2'>興味深い</span> おもしろい【面白し】"
+    ]
+  },
+  "116": {
+    "word": "あへなし",
+    "meanings": [
+      "①<span class='emp1'>どうしようもない</span> 張り合いがない【敢へ無し】",
+      "②<span class='emp2'>あっけない</span>【敢へ無し】"
+    ]
+  },
+  "117": {
+    "word": "あいなし",
+    "meanings": [
+      "①<span class='emp1'>おもしろくない</span> <span class='emp2'>気にくわない</span> 筋が通らない",
+      "②<span class='emp2'>ただもう</span> むやみに"
+    ]
+  },
+  "118": {
+    "word": "よろし",
+    "meanings": [
+      "①<span class='emp1'>適当だ</span> ふさわしい【宜し】",
+      "②<span class='emp2'>まあまあだ</span> 悪くない【宜し】"
+    ]
+  },
+  "119": {
+    "word": "わろし",
+    "meanings": [
+      "①<span class='emp1'>よくない</span> <span class='emp1'>みっともない</span> 不適当だ【悪し】",
+      "②<span class='emp2'>へただ</span> 下品だ【悪し】",
+      "③<span class='emp2'>貧しい</span> 経済的に恵まれない【悪し】"
+    ]
+  },
+  "120": {
+    "word": "あし",
+    "meanings": [
+      "①<span class='emp1'>悪い</span> <span class='emp1'>へただ</span> 不都合だ 激しい【悪し】"
+    ]
+  },
+  "121": {
+    "word": "はしたなし",
+    "meanings": [
+      "①<span class='emp1'>間が悪い</span> <span class='emp2'>中途半端だ</span> <span class='emp2'>きまりが悪い</span>【端なし】",
+      "②<span class='emp2'>無遠慮だ</span> 無愛想だ【端なし】"
+    ]
+  },
+  "122": {
+    "word": "なかなかなり",
+    "meanings": [
+      "①<span class='emp1'>中途半端だ</span> どっちつかずだ【中中なり】",
+      "②<span class='emp1'>かえって</span> なまじっか かえって(し)ないほうがよい【中中なり】"
+    ]
+  },
+  "123": {
+    "word": "おぼろけなり",
+    "meanings": [
+      "①<span class='emp1'>並一通りだ</span> 普通だ",
+      "②<span class='emp2'>並たいていでない</span> 格別だ"
+    ]
+  },
+  "124": {
+    "word": "なべて",
+    "meanings": [
+      "①<span class='emp1'>一般に</span> すべて【並べて】",
+      "②<span class='emp2'>一面に</span> おしなべて【並べて】",
+      "③<span class='emp2'>普通に</span> <span class='emp2'>並一通りに</span>【並べて】"
+    ]
+  },
+  "125": {
+    "word": "あてなり",
+    "meanings": [
+      "①<span class='emp1'>身分が高い</span> <span class='emp2'>高貴だ</span>【貴なり】",
+      "②<span class='emp2'>上品だ</span> 優雅だ【貴なり】"
+    ]
+  },
+  "126": {
+    "word": "いうなり",
+    "meanings": [
+      "①<span class='emp1'>優美だ</span> <span class='emp2'>上品だ</span> <span class='emp1'>優雅だ</span> 風流だ【優なり】",
+      "②<span class='emp2'>上手だ</span> すばらしい【優なり】"
+    ]
+  },
+  "127": {
+    "word": "えんなり",
+    "meanings": [
+      "①<span class='emp1'>優美だ</span> <span class='emp1'>あでやかで美しい</span> 趣深く美しい【艶なり】",
+      "②色っぽい 妖艶だ なまめかしい【艶なり】"
+    ]
+  },
+  "128": {
+    "word": "あらはなり",
+    "meanings": [
+      "①<span class='emp1'>丸見えだ</span> <span class='emp2'>無遠慮だ</span> 露骨だ【顕はなり・露はなり】",
+      "②<span class='emp2'>はっきりしている</span> <span class='emp2'>顕著だ</span>【顕はなり・露はなり】"
+    ]
+  },
+  "129": {
+    "word": "みそかなり",
+    "meanings": [
+      "①<span class='emp1'>こっそり</span> <span class='emp2'>ひそかだ</span> 人目を忍んで【密かなり】"
+    ]
+  },
+  "130": {
+    "word": "まめなり",
+    "meanings": [
+      "①<span class='emp1'>忠実だ</span> <span class='emp2'>誠実だ</span> <span class='emp2'>まじめだ</span> 勤勉だ【忠実なり】",
+      "②<span class='emp2'>実用的だ</span>【忠実なり】"
+    ]
+  },
+  "131": {
+    "word": "あだなり",
+    "meanings": [
+      "①<span class='emp1'>浮気だ</span> <span class='emp2'>浮ついた</span> いい加減だ【徒なり】",
+      "②<span class='emp2'>はかない</span> <span class='emp2'>むだだ</span> <span class='emp2'>つまらない</span> 頼りない 甲斐(かい)がない【徒なり】"
+    ]
+  },
+  "132": {
+    "word": "ことわりなり",
+    "meanings": [
+      "①<span class='emp1'>道理</span> 理由 わけ 判断 弁解 理屈【理】",
+      "②<span class='emp1'>もっともだ</span> <span class='emp2'>当然だ</span>【理なり】"
+    ]
+  },
+  "133": {
+    "word": "わりなし",
+    "meanings": [
+      "①<span class='emp1'>わけがわからない</span> <span class='emp2'>仕方がない</span>",
+      "②<span class='emp2'>堪え難い</span> つらい 苦しい",
+      "③<span class='emp2'>むやみに</span> 無理に 強引だ"
+    ]
+  },
+  "134": {
+    "word": "よし",
+    "meanings": [
+      "①<span class='emp1'>理由</span> <span class='emp1'>由緒</span> 方法 縁故 手段 <span class='emp2'>趣</span> 趣味 <span class='emp2'>様子</span>【由】",
+      "②<span class='emp2'>～こと</span> <span class='emp2'>旨</span>【由】"
+    ]
+  },
+  "135": {
+    "word": "よしなし",
+    "meanings": [
+      "①<span class='emp1'>つまらない</span> <span class='emp2'>具合が悪い</span> <span class='emp2'>意味がない</span>【由無し】",
+      "②<span class='emp2'>理由や方法がない</span> 根拠がない【由無し】",
+      "③無関係だ 縁がない【由無し】"
+    ]
+  },
+  "136": {
+    "word": "ゆゑ",
+    "meanings": [
+      "①<span class='emp1'>理由</span> <span class='emp2'>由緒</span>【故】",
+      "②<span class='emp2'>～ため(に)</span> ～よって【故】",
+      "③<span class='emp2'>風情</span> <span class='emp2'>情趣</span> <span class='emp2'>教養</span>【故】"
+    ]
+  },
+  "137": {
+    "word": "こと",
+    "meanings": [
+      "①<span class='emp1'>言葉</span> <span class='emp2'>評判</span> 和歌【言】",
+      "②<span class='emp2'>わけ</span> <span class='emp2'>事柄</span> <span class='emp2'>事態</span> こと 仕事 <span class='emp2'>事情</span>【事】"
+    ]
+  },
+  "138": {
+    "word": "ことなり",
+    "meanings": [
+      "①<span class='emp1'>他と違っている</span>【異なり・殊なり】",
+      "②<span class='emp2'>特にすぐれている</span> 格別だ【異なり・殊なり】"
+    ]
+  },
+  "139": {
+    "word": "ひがこと",
+    "meanings": [
+      "①<span class='emp1'>間違い</span> <span class='emp2'>悪事</span>【僻事】"
+    ]
+  },
+  "140": {
+    "word": "ひがひがし",
+    "meanings": [
+      "①<span class='emp1'>ひねくれている</span>【僻僻し】",
+      "②<span class='emp2'>無風流だ</span> 普通でない【僻僻し】"
+    ]
+  },
+  "141": {
+    "word": "おもて",
+    "meanings": [
+      "①<span class='emp1'>面目</span> 顔向け【面・表】",
+      "②顔 顔つき 顔面 表面【面・表】"
+    ]
+  },
+  "142": {
+    "word": "かたち",
+    "meanings": [
+      "①<span class='emp1'>容貌</span> <span class='emp2'>容姿</span>【形・容貌】",
+      "②形 <span class='emp2'>姿</span> 形態【形・容貌】",
+      "③美人 美貌【形・容貌】"
+    ]
+  },
+  "143": {
+    "word": "げに",
+    "meanings": [
+      "①<span class='emp1'>本当に</span> <span class='emp1'>なるほど</span> まことに いかにも【現に・実に】"
+    ]
+  },
+  "144": {
+    "word": "けに",
+    "meanings": [
+      "①<span class='emp1'>いっそうはなはだしく</span> <span class='emp2'>いよいよ</span>【異に】",
+      "②普通と違って 妙に【異に】"
+    ]
+  },
+  "145": {
+    "word": "いさ",
+    "meanings": [
+      "①<span class='emp1'>さあ</span> ええと",
+      "②<span class='emp2'>さあ(どうだか)</span>"
+    ]
+  },
+  "146": {
+    "word": "いざ",
+    "meanings": [
+      "①<span class='emp1'>さあ</span>"
+    ]
+  },
+  "147": {
+    "word": "いで",
+    "meanings": [
+      "①<span class='emp1'>さあ</span>",
+      "②<span class='emp2'>いやもう</span> なんとまあ"
+    ]
+  },
+  "148": {
+    "word": "したたむ",
+    "meanings": [
+      "①<span class='emp1'>処理する</span> <span class='emp2'>整理する</span> <span class='emp2'>とり行う</span>【認む】",
+      "②<span class='emp2'>取り締まる</span> 治める【認む】"
+    ]
+  },
+  "149": {
+    "word": "たばかる",
+    "meanings": [
+      "①<span class='emp1'>策をめぐらす</span> <span class='emp1'>計画する</span> <span class='emp2'>工夫する</span>【謀る】",
+      "②だます【謀る】"
+    ]
+  },
+  "150": {
+    "word": "ものす",
+    "meanings": [
+      "①<span class='emp1'>いる</span> <span class='emp1'>ある</span>【物す】",
+      "②<span class='emp2'>行く</span> 来る【物す】",
+      "③<span class='emp2'>言う</span> <span class='emp2'>書く</span>【物す】",
+      "④<span class='emp1'>～(で)ある</span>〔補助動詞〕【物す】"
+    ]
+  },
+  "151": {
+    "word": "おぼゆ",
+    "meanings": [
+      "①<span class='emp1'>(自然と)思われる</span> 思い出される【覚ゆ】",
+      "②<span class='emp2'>似る</span> 面影がある【覚ゆ】"
+    ]
+  },
+  "152": {
+    "word": "すまふ",
+    "meanings": [
+      "①<span class='emp1'>抵抗する</span> <span class='emp1'>争う</span>【争ふ】",
+      "②<span class='emp2'>辞退する</span> 断る【辞ふ】",
+      "③住む 住み続ける【住まふ】"
+    ]
+  },
+  "153": {
+    "word": "しのぶ",
+    "meanings": [
+      "①<span class='emp1'>我慢する</span> <span class='emp2'>こらえる</span> 耐える【忍ぶ】",
+      "②<span class='emp1'>懐かしく思う</span>【偲ぶ】",
+      "③<span class='emp2'>秘密にする</span> <span class='emp2'>隠れる</span> 隠す【忍ぶ】"
+    ]
+  },
+  "154": {
+    "word": "さる",
+    "meanings": [
+      "①<span class='emp1'>避ける</span> よける【避る】",
+      "②<span class='emp2'>(その時に)なる</span> (その時が)来る 去る 遠ざかる 遠ざける【去る】",
+      "③<span class='emp2'>もっともな</span> <span class='emp2'>そういう</span> <span class='emp2'>しかるべき</span> 立派な【然る】"
+    ]
+  },
+  "155": {
+    "word": "かる",
+    "meanings": [
+      "①<span class='emp1'>離れる</span> 別れる <span class='emp2'>疎遠になる</span> <span class='emp2'>絶える</span>【離る】",
+      "③<span class='emp2'>かすれる</span> しわがれる【嗄る】"
+    ]
+  },
+  "156": {
+    "word": "わたる",
+    "meanings": [
+      "①<span class='emp1'>通る</span> <span class='emp1'>行く</span> <span class='emp2'>来る</span>【渡る】",
+      "②<span class='emp1'>ある</span> <span class='emp1'>～(で)ある</span>【渡る】",
+      "③<span class='emp2'>通じる</span> 過ごす【渡る】",
+      "④<span class='emp2'>一面に～(する)</span> <span class='emp2'>ずっと～(する)</span>【渡る】"
+    ]
+  },
+  "157": {
+    "word": "さかし",
+    "meanings": [
+      "①<span class='emp1'>賢い</span> <span class='emp2'>上手(じょうず)だ</span> <span class='emp2'>気が利いている</span>【賢し】",
+      "②<span class='emp2'>気丈だ</span> しっかりしている【賢し】",
+      "③<span class='emp2'>こざかしい</span> 生意気だ【賢し】"
+    ]
+  },
+  "158": {
+    "word": "いみじ",
+    "meanings": [
+      "①<span class='emp1'>ひどい</span> <span class='emp1'>はなはだしい</span>",
+      "②<span class='emp2'>すばらしい</span> 立派だ",
+      "③<span class='emp2'>たいそう</span> 非常に"
+    ]
+  },
+  "159": {
+    "word": "いたし",
+    "meanings": [
+      "①<span class='emp1'>はなはだしい</span> <span class='emp2'>ひどい</span> たいそう【甚し・痛し】",
+      "②<span class='emp2'>すばらしい</span>【甚し・痛し】",
+      "③<span class='emp2'>たいして</span> それほど【甚し・痛し】"
+    ]
+  },
+  "160": {
+    "word": "しどけなし",
+    "meanings": [
+      "①<span class='emp1'>だらしない</span> <span class='emp2'>乱れている</span> 不調法だ",
+      "②<span class='emp2'>無造作だ</span> 気楽だ くつろいでいる"
+    ]
+  },
+  "161": {
+    "word": "ゆゆし",
+    "meanings": [
+      "①<span class='emp1'>不吉だ</span> <span class='emp2'>ひどい</span> はなはだしい",
+      "②<span class='emp2'>すばらしい</span> <span class='emp2'>恐れ多い</span>"
+    ]
+  },
+  "162": {
+    "word": "ゆかし",
+    "meanings": [
+      "①<span class='emp1'>見たい</span> <span class='emp1'>聞きたい</span> <span class='emp1'>知りたい</span> 読みたい【床し】",
+      "②<span class='emp2'>心がひかれる</span>【床し】",
+      "③<span class='emp2'>懐かしい</span> 恋しい【床し】"
+    ]
+  },
+  "163": {
+    "word": "すごし",
+    "meanings": [
+      "①<span class='emp1'>もの寂しい</span> <span class='emp2'>気味が悪い</span> 恐ろしい【凄し】",
+      "②<span class='emp2'>ぞっとするほどすばらしい</span>【凄し】"
+    ]
+  },
+  "164": {
+    "word": "めざまし",
+    "meanings": [
+      "①<span class='emp1'>心外だ</span> <span class='emp2'>気にくわない</span>【目覚まし】",
+      "②<span class='emp2'>すばらしい</span> 立派だ【目覚まし】"
+    ]
+  },
+  "165": {
+    "word": "ところせし",
+    "meanings": [
+      "①<span class='emp1'>窮屈だ</span> <span class='emp2'>気づまりだ</span> いっぱいだ 面倒だ【所狭し】",
+      "②<span class='emp2'>いばっている</span> 堂々としている【所狭し】",
+      "③<span class='emp2'>大げさだ</span> <span class='emp2'>仰々しい</span>【所狭し】"
+    ]
+  },
+  "166": {
+    "word": "かどかどし",
+    "meanings": [
+      "①<span class='emp1'>才気がある</span> <span class='emp2'>賢い</span>【才々し】",
+      "②<span class='emp2'>とげとげしい</span> 角ばっている【角々し】"
+    ]
+  },
+  "167": {
+    "word": "さうなし",
+    "meanings": [
+      "①<span class='emp1'>たぐいない</span>【双無し】",
+      "②<span class='emp1'>たやすい</span> 造作無い あれこれ考えない【左右無し】"
+    ]
+  },
+  "168": {
+    "word": "あなづらはし",
+    "meanings": [
+      "①<span class='emp1'>軽んじやすい</span> <span class='emp2'>軽んじてよい</span>【侮らはし】",
+      "②<span class='emp2'>気がおけない</span> 気が許せる【侮らはし】"
+    ]
+  },
+  "169": {
+    "word": "ねたし",
+    "meanings": [
+      "①<span class='emp1'>癪(しゃく)だ</span> <span class='emp2'>憎らしい</span> 残念だ くやしい【嫉し・妬し】",
+      "②<span class='emp1'>ねたましくなるほどすばらしい</span>【嫉し・妬し】"
+    ]
+  },
+  "170": {
+    "word": "うし",
+    "meanings": [
+      "①<span class='emp1'>つらい</span> 嫌だ【憂し】",
+      "②<span class='emp2'>つれない</span> 無情だ【憂し】"
+    ]
+  },
+  "171": {
+    "word": "こころもとなし",
+    "meanings": [
+      "①<span class='emp1'>気がかりだ</span> <span class='emp2'>落ち着かない</span> 不安だ【心許なし】",
+      "②<span class='emp1'>待ち遠しい</span> じれったい【心許なし】",
+      "③<span class='emp2'>ぼんやりしている</span>【心許なし】"
+    ]
+  },
+  "172": {
+    "word": "こまやかなり",
+    "meanings": [
+      "①(色が)<span class='emp1'>濃い</span> <span class='emp2'>きめ細かい</span> 詳細だ【細やかなり・濃やかなり】",
+      "②<span class='emp2'>ねんごろだ</span> <span class='emp1'>親密だ</span> 心がこもっている【細やかなり・濃やかなり】",
+      "③<span class='emp2'>上品だ</span> 繊細だ にっこりしている【細やかなり・濃やかなり】"
+    ]
+  },
+  "173": {
+    "word": "あながちなり",
+    "meanings": [
+      "①<span class='emp1'>一途(いちず)だ</span> ひたむきだ【強ちなり】",
+      "②<span class='emp2'>むやみだ</span> あんまりだ 際立っている【強ちなり】",
+      "③<span class='emp2'>無理だ</span> 強引だ【強ちなり】",
+      "④(下に打消の語や反語表現を伴って)<span class='emp2'>必ずしも</span> 決して【強ちなり】"
+    ]
+  },
+  "174": {
+    "word": "ねんごろなり",
+    "meanings": [
+      "①<span class='emp1'>一途だ</span> 心を込めた 一生懸命だ【懇ろなり・念比なり】",
+      "②<span class='emp2'>丁寧だ</span> <span class='emp2'>念入りだ</span> 熱心だ【懇ろなり・念比なり】",
+      "③<span class='emp2'>親密だ</span> むつまじい 懇意だ【懇ろなり・念比なり】"
+    ]
+  },
+  "175": {
+    "word": "なほざりなり",
+    "meanings": [
+      "①<span class='emp1'>いい加減だ</span> おろそかだ【等閑なり】",
+      "②<span class='emp2'>何気ない</span> 気にとめない【等閑なり】",
+      "③<span class='emp2'>あっさりしている</span> ほどほどだ【等閑なり】"
+    ]
+  },
+  "176": {
+    "word": "うちつけなり",
+    "meanings": [
+      "①<span class='emp1'>とたんに</span> <span class='emp1'>突然だ</span>【打ち付けなり】",
+      "②<span class='emp2'>露骨だ</span> <span class='emp2'>軽率だ</span>【打ち付けなり】",
+      "③<span class='emp2'>ぶしつけだ</span> 無遠慮だ【打ち付けなり】"
+    ]
+  },
+  "177": {
+    "word": "すくよかなり",
+    "meanings": [
+      "①(心身が)<span class='emp1'>しっかりしている</span> 剛直だ 堅実だ【健よかなり】",
+      "②<span class='emp2'>無愛想だ</span> <span class='emp2'>堅苦しい</span> 無骨だ 険しい【健よかなり】"
+    ]
+  },
+  "178": {
+    "word": "おいらかなり",
+    "meanings": [
+      "①<span class='emp1'>おっとりしている</span> <span class='emp2'>穏やかだ</span>",
+      "②<span class='emp2'>あっさりしている</span> <span class='emp2'>率直だ</span> 普通だ そっけない"
+    ]
+  },
+  "179": {
+    "word": "かたくななり",
+    "meanings": [
+      "①<span class='emp1'>頑固だ</span> 偏屈だ【頑ななり】",
+      "②<span class='emp2'>情趣を解さない</span> 教養がない【頑ななり】",
+      "③<span class='emp2'>無骨だ</span> 見苦しい【頑ななり】"
+    ]
+  },
+  "180": {
+    "word": "すずろなり",
+    "meanings": [
+      "①<span class='emp1'>むやみに</span> <span class='emp2'>何となく</span> わけもなく【漫ろなり】",
+      "②<span class='emp2'>思いがけない</span>【漫ろなり】",
+      "③<span class='emp2'>いい加減だ</span> 無関係だ【漫ろなり】"
+    ]
+  },
+  "181": {
+    "word": "かた",
+    "meanings": [
+      "①<span class='emp1'>方法</span> <span class='emp1'>方向</span> <span class='emp2'>場所</span> 方面 時節【方】",
+      "②<span class='emp2'>しるし</span> 形 絵 模様【形】",
+      "③<span class='emp2'>潮干潟</span> 入江【潟】"
+    ]
+  },
+  "182": {
+    "word": "ほど",
+    "meanings": [
+      "①<span class='emp1'>間</span> <span class='emp1'>時間</span> <span class='emp1'>ころ</span> <span class='emp2'>時節</span> うち 時【程】",
+      "②<span class='emp1'>あたり</span> <span class='emp1'>距離</span> 広さ 長さ 付近【程】",
+      "③<span class='emp1'>身分</span> <span class='emp1'>年齢</span> 分際【程】",
+      "④<span class='emp1'>程度</span> <span class='emp2'>様子</span>【程】",
+      "⑤～くらい〔副助詞的〕 ～の限り〔副助詞的〕【程】"
+    ]
+  },
+  "183": {
+    "word": "たより",
+    "meanings": [
+      "①<span class='emp1'>よりどころ</span> <span class='emp1'>つて</span> <span class='emp2'>縁故</span>【頼り・便り】",
+      "②<span class='emp1'>機会</span> <span class='emp2'>便宜</span> ついで【頼り・便り】",
+      "③<span class='emp2'>具合</span> <span class='emp2'>配置</span>【頼り・便り】"
+    ]
+  },
+  "184": {
+    "word": "うたて・うたた",
+    "meanings": [
+      "①<span class='emp1'>ひどく</span> <span class='emp2'>ますます</span>【転】",
+      "②<span class='emp1'>嫌なことに</span> 情けなく 嘆かわしく つらく【転】",
+      "③<span class='emp2'>見苦しく</span> <span class='emp2'>異様に</span> 気味悪く【転】"
+    ]
+  },
+  "185": {
+    "word": "おのづから",
+    "meanings": [
+      "①<span class='emp1'>自然と</span> <span class='emp2'>たまたま</span> もしかすると【自ら】"
+    ]
+  },
+  "186": {
+    "word": "いかで",
+    "meanings": [
+      "①<span class='emp1'>どのように～か</span> <span class='emp2'>どうして～か</span>【如何で】",
+      "②<span class='emp1'>どうして～か、いや～</span>【如何で】",
+      "③<span class='emp2'>何とかして</span>【如何で】"
+    ]
+  },
+  "187": {
+    "word": "いかが",
+    "meanings": [
+      "①<span class='emp1'>どのように～か</span> どう～か【如何】",
+      "②<span class='emp1'>どうして～か、いや～</span> <span class='emp1'>どう～か、いや～</span>【如何】",
+      "③どうだろうか【如何】"
+    ]
+  },
+  "188": {
+    "word": "など",
+    "meanings": [
+      "①<span class='emp1'>どうして～か</span>",
+      "②<span class='emp1'>どうして～か、いや～</span>"
+    ]
+  },
+  "189": {
+    "word": "なでふ",
+    "meanings": [
+      "①<span class='emp1'>どうして～か、いや～</span>",
+      "②<span class='emp2'>どれほどの～か、いや～</span> どういう～か、いや～",
+      "④<span class='emp2'>何という</span> どんな"
+    ]
+  },
+  "190": {
+    "word": "おはす",
+    "meanings": [
+      "①<span class='emp1'>いらっしゃる</span> <span class='emp2'>おいでになる</span> お出かけになる【御座す】",
+      "②<span class='emp2'>～(て)いらっしゃる</span>〔補助動詞〕 <span class='emp2'>お～になる</span>〔補助動詞〕【御座す】"
+    ]
+  },
+  "191": {
+    "word": "おほす",
+    "meanings": [
+      "①<span class='emp1'>おっしゃる</span>【仰す】",
+      "②<span class='emp2'>命じる</span> 言いつける【仰す】"
+    ]
+  },
+  "192": {
+    "word": "きこしめす",
+    "meanings": [
+      "②<span class='emp1'>めし上がる</span> お飲みになる【聞こし召す】",
+      "③<span class='emp2'>お治めになる</span>【聞こし召す】"
+    ]
+  },
+  "193": {
+    "word": "めす",
+    "meanings": [
+      "①<span class='emp1'>お呼びになる</span> <span class='emp2'>お取り寄せになる</span>【召す】",
+      "②<span class='emp2'>お召しになる</span> <span class='emp2'>めし上がる</span> <span class='emp2'>お乗りになる</span>【召す】"
+    ]
+  },
+  "194": {
+    "word": "おぼす",
+    "meanings": [
+      "①<span class='emp1'>お思いになる</span>【思す】"
+    ]
+  },
+  "195": {
+    "word": "しろしめす",
+    "meanings": [
+      "①<span class='emp1'>ご存じである</span> <span class='emp2'>お知りになる</span>【知ろし召す】",
+      "②<span class='emp2'>お治めになる</span>【領ろし召す】"
+    ]
+  },
+  "196": {
+    "word": "おほとのごもる",
+    "meanings": [
+      "①<span class='emp1'>おやすみになる</span>【大殿籠る】"
+    ]
+  },
+  "197": {
+    "word": "あそばす",
+    "meanings": [
+      "①(楽器などを)<span class='emp1'>演奏なさる</span>【遊ばす】",
+      "②(詩文・和歌などを)<span class='emp1'>お詠みになる</span> (詩文・和歌などを)<span class='emp1'>お作りになる</span>【遊ばす】",
+      "③(歌舞・狩猟などを)なさる【遊ばす】",
+      "④<span class='emp2'>～あられる</span>〔補助動詞〕 <span class='emp2'>～なさる</span>〔補助動詞〕 <span class='emp2'>お～になる</span>〔補助動詞〕【遊ばす】"
+    ]
+  },
+  "198": {
+    "word": "ごらんず",
+    "meanings": [
+      "①<span class='emp1'>ご覧になる</span>【御覧ず】"
+    ]
+  },
+  "199": {
+    "word": "きこゆ",
+    "meanings": [
+      "①<span class='emp1'>申し上げる</span> 手紙をさし上げる【聞こゆ】",
+      "②<span class='emp2'>うわさされる</span> 聞こえる【聞こゆ】",
+      "③<span class='emp2'>わかる</span> <span class='emp2'>理解できる</span>【聞こゆ】",
+      "④<span class='emp1'>(お)～申し上げる</span>〔補助動詞〕 ～申す〔補助動詞〕【聞こゆ】"
+    ]
+  },
+  "200": {
+    "word": "そうす",
+    "meanings": [
+      "①<span class='emp1'>奏上する</span> <span class='emp1'>申し上げる</span>【奏す】",
+      "②<span class='emp2'>演奏する</span> 奏でる【奏す】"
+    ]
+  },
+  "201": {
+    "word": "まかる",
+    "meanings": [
+      "①<span class='emp1'>退出申し上げる</span> <span class='emp2'>参上する</span> <span class='emp2'>参る</span>【罷る】",
+      "②<span class='emp2'>参ります</span> 行きます【罷る】",
+      "③<span class='emp2'>～ます</span> <span class='emp2'>～申す</span>【罷る】"
+    ]
+  },
+  "202": {
+    "word": "つかうまつる",
+    "meanings": [
+      "①<span class='emp1'>お仕えする</span> <span class='emp2'>いたす</span>【仕う奉る】",
+      "②<span class='emp2'>(して)さし上げる</span> (し)申し上げる【仕う奉る】",
+      "③<span class='emp1'>(お)～申し上げる</span>〔補助動詞〕【仕う奉る】"
+    ]
+  },
+  "203": {
+    "word": "たまふ",
+    "meanings": [
+      "①<span class='emp1'>くださる</span> <span class='emp2'>下賜なさる</span>【給ふ・賜ふ】",
+      "②<span class='emp1'>～なさる</span>〔補助動詞〕 <span class='emp2'>お～になる</span>〔補助動詞〕【給ふ・賜ふ】",
+      "③<span class='emp2'>～ております</span>〔補助動詞〕 <span class='emp2'>～(さ)せていただく</span>〔補助動詞〕 <span class='emp2'>～ます</span>〔補助動詞〕【給ふ・賜ふ】"
+    ]
+  },
+  "204": {
+    "word": "まゐる",
+    "meanings": [
+      "①<span class='emp1'>参上する</span> 参内する 参詣する【参る】",
+      "②<span class='emp2'>さし上げる</span>【参る】",
+      "③<span class='emp2'>めし上がる</span>【参る】",
+      "④<span class='emp2'>～(て)さし上げる</span> <span class='emp2'>お～申し上げる</span>【参る】"
+    ]
+  },
+  "205": {
+    "word": "たてまつる",
+    "meanings": [
+      "①<span class='emp1'>さし上げる</span>【奉る】",
+      "②<span class='emp1'>(お)～申し上げる</span>〔補助動詞〕【奉る】",
+      "③<span class='emp2'>お召しになる</span> <span class='emp2'>めし上がる</span> <span class='emp2'>お乗りになる</span>【奉る】",
+      "④参上させる【奉る】"
+    ]
+  },
+  "206": {
+    "word": "はべり",
+    "meanings": [
+      "①<span class='emp1'>お仕えする</span> <span class='emp2'>お側に控える</span> 伺候する【侍り】",
+      "②<span class='emp1'>ございます</span> <span class='emp2'>あります</span> います【侍り】",
+      "③<span class='emp2'>～(で)ございます</span>〔補助動詞〕 <span class='emp2'>～です</span>〔補助動詞〕 <span class='emp2'>～ます</span>〔補助動詞〕 <span class='emp2'>～(て)おります</span>〔補助動詞〕【侍り】"
+    ]
+  },
+  "207": {
+    "word": "さぶらふ",
+    "meanings": [
+      "①<span class='emp1'>お仕えする</span> <span class='emp2'>お側に控える</span> 伺候する お手もとにある【候ふ・侍ふ】",
+      "②<span class='emp1'>ございます</span> <span class='emp2'>あります</span> います【候ふ・侍ふ】",
+      "③<span class='emp2'>～(で)ございます</span>〔補助動詞〕 <span class='emp2'>～です</span>〔補助動詞〕 <span class='emp2'>～ます</span>〔補助動詞〕 <span class='emp2'>～(て)おります</span>〔補助動詞〕【候ふ・侍ふ】"
+    ]
+  },
+  "208": {
+    "word": "こころう",
+    "meanings": [
+      "①<span class='emp1'>理解できる</span> <span class='emp2'>納得がいく</span> 判断する【心得】",
+      "②<span class='emp2'>通じる</span> たしなみがある【心得】"
+    ]
+  },
+  "209": {
+    "word": "こころゆく",
+    "meanings": [
+      "①<span class='emp1'>心が晴れ晴れする</span> <span class='emp2'>満足する</span>【心行く】"
+    ]
+  },
+  "210": {
+    "word": "めづ",
+    "meanings": [
+      "①<span class='emp1'>心がひかれる</span> 感動する【愛づ】",
+      "②<span class='emp2'>愛する</span> <span class='emp2'>ほめる</span>【愛づ】"
+    ]
+  },
+  "211": {
+    "word": "つつむ",
+    "meanings": [
+      "①<span class='emp1'>はばかる</span> <span class='emp2'>遠慮する</span> 気後れする【慎む】",
+      "②<span class='emp2'>包み隠す</span> <span class='emp2'>覆い囲む</span> 隠す【包む】"
+    ]
+  },
+  "212": {
+    "word": "やすらふ",
+    "meanings": [
+      "①<span class='emp1'>ためらう</span> たたずむ【休らふ】",
+      "②<span class='emp2'>休む</span> <span class='emp2'>留まる</span>【休らふ】"
+    ]
+  },
+  "213": {
+    "word": "たふ",
+    "meanings": [
+      "①<span class='emp1'>我慢する</span> もちこたえる【堪ふ・耐ふ】",
+      "②<span class='emp2'>能力がある</span> 応じることができる【堪ふ・耐ふ】"
+    ]
+  },
+  "214": {
+    "word": "むすぶ",
+    "meanings": [
+      "①<span class='emp1'>すくいあげる</span>【掬ぶ】",
+      "②<span class='emp1'>作る</span> 形づくる 結びつける 結ぶ【結ぶ】",
+      "③<span class='emp2'>約束する</span>【結ぶ】"
+    ]
+  },
+  "215": {
+    "word": "たゆむ",
+    "meanings": [
+      "①<span class='emp1'>油断する</span> <span class='emp2'>気がゆるむ</span> <span class='emp2'>弱まる</span>【弛む・緩む】",
+      "②<span class='emp2'>怠る</span> なまける【弛む・緩む】",
+      "③<span class='emp2'>油断させる</span> 気をゆるませる【弛む・緩む】"
+    ]
+  },
+  "216": {
+    "word": "ならふ",
+    "meanings": [
+      "①<span class='emp1'>なじむ</span> <span class='emp1'>慣れる</span> <span class='emp2'>なつく</span> 親しくなる【馴らふ・慣らふ】",
+      "②<span class='emp2'>習う</span> 経験する【習ふ】"
+    ]
+  },
+  "217": {
+    "word": "まねぶ",
+    "meanings": [
+      "①<span class='emp1'>まねる</span> <span class='emp2'>まねをする</span>【学ぶ・真似ぶ】",
+      "②(ありのまま)<span class='emp2'>伝える</span>【学ぶ・真似ぶ】",
+      "③習得する 学ぶ 学問をする【学ぶ・真似ぶ】"
+    ]
+  },
+  "218": {
+    "word": "いらふ",
+    "meanings": [
+      "①<span class='emp1'>返事をする</span> 応える【答ふ・応ふ】",
+      "②挨拶する【答ふ・応ふ】"
+    ]
+  },
+  "219": {
+    "word": "やむ",
+    "meanings": [
+      "①<span class='emp1'>終わる</span> 止まる 中止になる【止む・已む・罷む】",
+      "②(病気などが)<span class='emp2'>治る</span> 癒える【止む・已む・罷む】"
+    ]
+  },
+  "220": {
+    "word": "もてなす",
+    "meanings": [
+      "①<span class='emp1'>取り計らう</span> 取り扱う【もて成す】",
+      "②<span class='emp2'>もてはやす</span>【もて成す】"
+    ]
+  },
+  "221": {
+    "word": "おきつ",
+    "meanings": [
+      "①<span class='emp1'>取り計らう</span> <span class='emp2'>計画を立てる</span> (前もって)処置する【掟つ】",
+      "②<span class='emp2'>指図する</span> 命じる【掟つ】"
+    ]
+  },
+  "222": {
+    "word": "かこつ",
+    "meanings": [
+      "①<span class='emp1'>かこつける</span> <span class='emp2'>口実にする</span>【託つ】",
+      "②<span class='emp2'>恨み嘆く</span> 恨み言を言う【託つ】"
+    ]
+  },
+  "223": {
+    "word": "てうず",
+    "meanings": [
+      "①<span class='emp2'>(こしらえ)</span><span class='emp1'>整える</span> 調達する【調ず】",
+      "②(物の怪＝もののけを)<span class='emp2'>調伏する</span>【調ず】",
+      "③<span class='emp2'>懲らしめる</span>【調ず】"
+    ]
+  },
+  "224": {
+    "word": "さはる",
+    "meanings": [
+      "①<span class='emp1'>さしつかえる</span> <span class='emp2'>妨げになる</span>【障る】"
+    ]
+  },
+  "225": {
+    "word": "まどふ・まとふ",
+    "meanings": [
+      "①<span class='emp1'>迷う</span> 途方に暮れる 道に迷う【惑ふ】",
+      "②<span class='emp2'>ひどく～(する)</span>【惑ふ】"
+    ]
+  },
+  "226": {
+    "word": "こうず",
+    "meanings": [
+      "①<span class='emp1'>疲れる</span>【困ず】",
+      "②<span class='emp2'>困る</span> 悩む 苦しむ【困ず】"
+    ]
+  },
+  "227": {
+    "word": "すさぶ",
+    "meanings": [
+      "①(何かに)<span class='emp1'>興じる</span> <span class='emp2'>慰めにする</span> 気の向くまま(何かを)する【荒ぶ・進ぶ・遊ぶ】"
+    ]
+  },
+  "228": {
+    "word": "いはけなし",
+    "meanings": [
+      "①<span class='emp1'>幼い</span> <span class='emp2'>子どもっぽい</span> <span class='emp2'>あどけない</span> 幼稚だ【稚けなし】"
+    ]
+  },
+  "229": {
+    "word": "しるし",
+    "meanings": [
+      "①<span class='emp1'>はっきりしている</span> 際立っている【著し】",
+      "②<span class='emp1'>その通りだ</span>〔｢～もしるし｣の形で〕 予想通りだ〔｢～もしるし｣の形で〕【著し】"
+    ]
+  },
+  "230": {
+    "word": "らうらうじ",
+    "meanings": [
+      "①<span class='emp1'>洗練されている</span> 巧みだ【労労じ】",
+      "②<span class='emp2'>上品で美しい</span>【労労じ】"
+    ]
+  },
+  "231": {
+    "word": "かたはらいたし",
+    "meanings": [
+      "①<span class='emp1'>聞き(見)苦しい</span> <span class='emp2'>聞く(見る)に耐えない</span> みっともない【傍ら痛し】",
+      "③<span class='emp2'>きまりが悪い</span> 恥ずかしい【傍ら痛し】"
+    ]
+  },
+  "232": {
+    "word": "とし",
+    "meanings": [
+      "①<span class='emp1'>すぐに</span> <span class='emp1'>速い</span> 早い 急いで 激しい【疾し】",
+      "②<span class='emp2'>するどい</span> すばやい【利し・敏し】"
+    ]
+  },
+  "233": {
+    "word": "らうがはし",
+    "meanings": [
+      "①<span class='emp1'>混雑している</span> <span class='emp2'>乱れている</span>【乱がはし】",
+      "②<span class='emp2'>無作法だ</span> <span class='emp2'>乱暴だ</span> 無礼だ【乱がはし】",
+      "③<span class='emp2'>騒々しい</span> 騒がしい【乱がはし】"
+    ]
+  },
+  "234": {
+    "word": "めやすし",
+    "meanings": [
+      "①<span class='emp1'>見苦しくない</span> <span class='emp2'>感じがよい</span>【目安し】"
+    ]
+  },
+  "235": {
+    "word": "いぶせし",
+    "meanings": [
+      "①<span class='emp1'>うっとうしい</span> <span class='emp2'>心が晴れない</span>",
+      "②<span class='emp2'>気がかりだ</span> 不審だ"
+    ]
+  },
+  "236": {
+    "word": "なめし",
+    "meanings": [
+      "①<span class='emp1'>無礼だ</span> <span class='emp2'>失礼だ</span> 無作法だ ぶしつけだ"
+    ]
+  },
+  "237": {
+    "word": "またし・まつたし",
+    "meanings": [
+      "①<span class='emp1'>完全だ</span> <span class='emp2'>無事だ</span> 欠点がない【完し・全し】",
+      "②<span class='emp2'>決して</span> まったく【完し・全し】"
+    ]
+  },
+  "238": {
+    "word": "むくつけし",
+    "meanings": [
+      "①<span class='emp1'>気味が悪い</span> <span class='emp2'>不気味だ</span> <span class='emp2'>恐ろしい</span>",
+      "②<span class='emp2'>無骨だ</span> 無風流だ"
+    ]
+  },
+  "239": {
+    "word": "ともし",
+    "meanings": [
+      "①<span class='emp1'>貧しい</span> <span class='emp1'>乏しい</span> 少ない【乏し】",
+      "②<span class='emp2'>うらやましい</span> 心ひかれる 慕わしい【羨し】"
+    ]
+  },
+  "240": {
+    "word": "おどろおどろし",
+    "meanings": [
+      "①<span class='emp1'>大げさだ</span> <span class='emp2'>仰々しい</span>",
+      "②<span class='emp1'>気味が悪い</span> 恐ろしい 不気味だ"
+    ]
+  },
+  "241": {
+    "word": "ことごとし",
+    "meanings": [
+      "①<span class='emp1'>大げさだ</span> <span class='emp2'>仰々しい</span>【事事し】"
+    ]
+  },
+  "242": {
+    "word": "こちたし",
+    "meanings": [
+      "①<span class='emp1'>仰々しい</span> 大げさだ【言痛し・事痛し】",
+      "②<span class='emp1'>多すぎる</span> 激しい【言痛し・事痛し】",
+      "③<span class='emp2'>うるさい</span> わずらわしい【言痛し・事痛し】"
+    ]
+  },
+  "243": {
+    "word": "けし",
+    "meanings": [
+      "①<span class='emp1'>悪い</span> <span class='emp1'>異様だ</span> <span class='emp2'>変だ</span> <span class='emp2'>普通と違う</span> 怪しげだ【怪し・異し】"
+    ]
+  },
+  "244": {
+    "word": "たいだいし",
+    "meanings": [
+      "①<span class='emp1'>とんでもない</span> <span class='emp2'>もってのほかだ</span> 不都合だ【怠怠し】",
+      "②前途多難だ 面倒だ【怠怠し】"
+    ]
+  },
+  "245": {
+    "word": "まさなし",
+    "meanings": [
+      "①<span class='emp1'>みっともない</span> <span class='emp2'>不都合だ</span> よくない 卑怯(ひきょう)だ 見苦しい【正無し】"
+    ]
+  },
+  "246": {
+    "word": "ゆくりなし",
+    "meanings": [
+      "①<span class='emp1'>突然だ</span> <span class='emp1'>思いがけない</span>",
+      "②<span class='emp2'>軽はずみだ</span> 不注意だ"
+    ]
+  },
+  "247": {
+    "word": "けざやかなり",
+    "meanings": [
+      "①<span class='emp1'>はっきりと(している)</span> <span class='emp2'>際立っている</span> <span class='emp2'>鮮やかだ</span> 鮮明だ"
+    ]
+  },
+  "248": {
+    "word": "なのめなり",
+    "meanings": [
+      "①<span class='emp1'>平凡だ</span> <span class='emp2'>ありふれている</span> 無難だ【斜めなり】",
+      "②<span class='emp2'>いい加減だ</span> なおざりだ【斜めなり】",
+      "③<span class='emp2'>格別だ</span> 並一通りでない【斜めなり】"
+    ]
+  },
+  "249": {
+    "word": "とみなり",
+    "meanings": [
+      "①<span class='emp1'>急だ</span> にわかだ【頓なり】",
+      "②<span class='emp2'>急には</span> 早速に 突然【頓なり】"
+    ]
+  },
+  "250": {
+    "word": "けうなり",
+    "meanings": [
+      "①<span class='emp1'>珍しい</span> <span class='emp2'>めったにない</span> 不思議だ【希有なり・稀有なり】",
+      "②<span class='emp2'>とんでもない</span>【希有なり・稀有なり】"
+    ]
+  },
+  "251": {
+    "word": "あやにくなり",
+    "meanings": [
+      "①<span class='emp1'>あいにくだ</span> <span class='emp2'>都合が悪い</span> 間が悪い【生憎なり】",
+      "②<span class='emp2'>厳しい</span> 意地が悪い【生憎なり】"
+    ]
+  },
+  "252": {
+    "word": "せちなり",
+    "meanings": [
+      "①<span class='emp1'>ひどい</span> <span class='emp2'>痛切だ</span> 感銘深い【切なり】",
+      "②<span class='emp2'>しきりに</span> <span class='emp2'>ひたむきに</span>【切なり】",
+      "③<span class='emp2'>重要だ</span> 大切だ【切なり】"
+    ]
+  },
+  "253": {
+    "word": "そのかみ",
+    "meanings": [
+      "①<span class='emp1'>その当時</span> <span class='emp2'>当時</span> 過去【其の上】"
+    ]
+  },
+  "254": {
+    "word": "よろこび",
+    "meanings": [
+      "①<span class='emp1'>叙位や昇進などの慶事</span> <span class='emp2'>喜び</span> <span class='emp2'>お祝い</span> 祝辞【喜び・悦び・慶び】",
+      "②(叙位・任官などの)<span class='emp2'>お礼</span> 謝辞【喜び・悦び・慶び】"
+    ]
+  },
+  "255": {
+    "word": "きは",
+    "meanings": [
+      "①<span class='emp1'>身分</span> <span class='emp2'>程度</span> <span class='emp2'>家柄</span> 分際【際・涯・限】",
+      "②<span class='emp2'>そば</span> <span class='emp2'>限り</span> 端 境目【際・涯・限】"
+    ]
+  },
+  "256": {
+    "word": "しな",
+    "meanings": [
+      "①<span class='emp1'>身分</span> 家柄 地位 分際【階・品・級・科】",
+      "②<span class='emp2'>段</span> <span class='emp2'>きざはし</span> 階段【階・品・級・科】",
+      "③<span class='emp2'>品位</span> 品格 気品【階・品・級・科】"
+    ]
+  },
+  "257": {
+    "word": "かたへ",
+    "meanings": [
+      "①<span class='emp1'>仲間</span> <span class='emp1'>片方</span> <span class='emp2'>かたわら</span> 片側【片方】",
+      "②<span class='emp2'>一部分</span> なかば【片方】"
+    ]
+  },
+  "258": {
+    "word": "あや",
+    "meanings": [
+      "①<span class='emp1'>波紋</span> <span class='emp2'>模様</span> 木目【文・彩・綾】",
+      "②<span class='emp1'>理由</span> <span class='emp1'>分別</span> <span class='emp2'>条理</span> <span class='emp2'>道理</span>【文・彩・綾】"
+    ]
+  },
+  "259": {
+    "word": "はらから",
+    "meanings": [
+      "①<span class='emp1'>兄弟姉妹</span> 兄弟【同胞】"
+    ]
+  },
+  "260": {
+    "word": "ほだし",
+    "meanings": [
+      "①<span class='emp1'>足手まとい</span> <span class='emp2'>束縛</span> <span class='emp2'>係累</span>【絆】"
+    ]
+  },
+  "261": {
+    "word": "すべ",
+    "meanings": [
+      "①<span class='emp1'>方法</span> <span class='emp1'>手段</span> やり方【術】"
+    ]
+  },
+  "262": {
+    "word": "たづき",
+    "meanings": [
+      "①<span class='emp1'>手段</span> <span class='emp2'>手がかり</span> 資金【方便】",
+      "②<span class='emp2'>頼る所</span> よりどころ【方便】"
+    ]
+  },
+  "263": {
+    "word": "よすが",
+    "meanings": [
+      "①<span class='emp1'>身を寄せる所</span> <span class='emp2'>よりどころ</span>【縁・因・便】",
+      "②<span class='emp2'>縁者</span> 夫 妻 後見人 手がかり 方法【縁・因・便】"
+    ]
+  },
+  "264": {
+    "word": "せうそこ",
+    "meanings": [
+      "①<span class='emp1'>手紙</span> 便り 伝言【消息】",
+      "②<span class='emp2'>来意</span>(を告げること) <span class='emp2'>取次ぎ</span>(を頼むこと)【消息】"
+    ]
+  },
+  "265": {
+    "word": "とが",
+    "meanings": [
+      "①<span class='emp1'>罪</span> 過失 罰【咎・科】",
+      "②<span class='emp1'>欠点</span> 傷【咎・科】"
+    ]
+  },
+  "266": {
+    "word": "れい",
+    "meanings": [
+      "①<span class='emp1'>いつも</span> <span class='emp2'>通例</span> <span class='emp2'>普通</span> 先例【例】"
+    ]
+  },
+  "267": {
+    "word": "い",
+    "meanings": [
+      "①<span class='emp1'>眠り</span> <span class='emp2'>睡眠</span>【寝】"
+    ]
+  },
+  "268": {
+    "word": "うつつ",
+    "meanings": [
+      "①<span class='emp1'>現実</span> 目覚めた状態【現】",
+      "②<span class='emp2'>正気</span> 意識が確かな状態【現】"
+    ]
+  },
+  "269": {
+    "word": "あるじ",
+    "meanings": [
+      "①<span class='emp1'>ご馳走(ちそう)する(こと)</span> <span class='emp1'>客をもてなす(こと)</span> <span class='emp2'>饗応(きょうおう)する(こと)</span>【饗・主・主人】",
+      "②<span class='emp2'>主人</span> 指図(さしず)役 国家や家の長【饗・主・主人】"
+    ]
+  },
+  "270": {
+    "word": "ふるさと",
+    "meanings": [
+      "①<span class='emp1'>旧都</span> <span class='emp1'>昔馴染(なじ)みの地</span>【古里】"
+    ]
+  },
+  "271": {
+    "word": "をこ・をこなり",
+    "meanings": [
+      "①<span class='emp1'>愚か(だ)</span> <span class='emp2'>ばかな人</span> ばかなこと【烏滸(なり)・痴(なり)・尾籠(なり)】"
+    ]
+  },
+  "272": {
+    "word": "むべ・うべ",
+    "meanings": [
+      "①<span class='emp1'>なるほど</span> <span class='emp2'>もっともなことに</span> いかにも【宜】"
+    ]
+  },
+  "273": {
+    "word": "やをら・やはら",
+    "meanings": [
+      "①<span class='emp1'>そっと静かに</span> <span class='emp2'>おもむろに</span>"
+    ]
+  },
+  "274": {
+    "word": "いとど",
+    "meanings": [
+      "①<span class='emp1'>ますます</span> <span class='emp2'>いっそう</span> その上"
+    ]
+  },
+  "275": {
+    "word": "まだき",
+    "meanings": [
+      "①<span class='emp1'>まだその時期でないうちに</span> <span class='emp2'>早くも</span> <span class='emp2'>早々に</span>【未だき・夙】"
+    ]
+  },
+  "276": {
+    "word": "あまた",
+    "meanings": [
+      "①<span class='emp1'>たくさん</span> <span class='emp2'>数多く</span> 大勢【数多】",
+      "②たいそう 非常に【数多】"
+    ]
+  },
+  "277": {
+    "word": "かたみに",
+    "meanings": [
+      "①<span class='emp1'>互いに</span> 交互に【互に】"
+    ]
+  },
+  "278": {
+    "word": "さがなし",
+    "meanings": [
+      "①<span class='emp1'>意地が悪い</span> 性格が悪い",
+      "②<span class='emp2'>(口)やかましい</span>〔｢物言ひさがなし｣の形で〕 (口が)悪い〔｢物言ひさがなし｣の形で〕",
+      "③<span class='emp2'>いたずらだ</span>"
+    ]
+  },
+  "279": {
+    "word": "びんなし",
+    "meanings": [
+      "①<span class='emp1'>不都合だ</span> <span class='emp2'>具合が悪い</span> 不便(ふべん)だ【便無し】",
+      "②<span class='emp2'>つまらない</span> 無益だ【便無し】"
+    ]
+  },
+  "280": {
+    "word": "かひなし",
+    "meanings": [
+      "①<span class='emp1'>むだだ</span> <span class='emp2'>効果がない</span> 無益だ 価値がない【効無し・甲斐無し】",
+      "②<span class='emp2'>つまらない</span> 取るに足りない【効無し・甲斐無し】"
+    ]
+  },
+  "281": {
+    "word": "いふかひなし",
+    "meanings": [
+      "①<span class='emp1'>どうしようもない</span> <span class='emp2'>言いようがない</span>【言ふ甲斐無し】",
+      "②<span class='emp2'>つまらない</span> <span class='emp2'>情けない</span> ふがいない【言ふ甲斐無し】"
+    ]
+  },
+  "282": {
+    "word": "あり",
+    "meanings": [
+      "①<span class='emp1'>いる</span> <span class='emp1'>存在する</span> ある【有り・在り】",
+      "②<span class='emp2'>住む</span> <span class='emp2'>生きる</span> 過ごす【有り・在り】"
+    ]
+  },
+  "283": {
+    "word": "さり",
+    "meanings": [
+      "①<span class='emp1'>そうだ</span> そのようだ【然り】"
+    ]
+  },
+  "284": {
+    "word": "たのむ",
+    "meanings": [
+      "①<span class='emp1'>あてにする</span> 期待する 頼りにする【頼む】",
+      "②<span class='emp2'>あてにさせる</span> 期待させる【頼む】"
+    ]
+  },
+  "285": {
+    "word": "かづく",
+    "meanings": [
+      "①<span class='emp1'>褒美として頂戴する</span> <span class='emp1'>褒美として与える</span>【被く】",
+      "②<span class='emp2'>かぶる</span> <span class='emp2'>かぶせる</span>【被く】",
+      "③<span class='emp2'>水中にもぐる</span> 水中にもぐらせる【潜く】"
+    ]
+  },
+  "286": {
+    "word": "わく",
+    "meanings": [
+      "①<span class='emp1'>区別する</span> 判断する【分く・別く】",
+      "②<span class='emp2'>分配する</span> 押し分ける【分く・別く】"
+    ]
+  },
+  "287": {
+    "word": "ふる",
+    "meanings": [
+      "①<span class='emp1'>古びる</span> <span class='emp2'>年月を経る</span> <span class='emp2'>古くさくなる</span>【古る・旧る】",
+      "②<span class='emp1'>老いる</span> 年をとる【古る・旧る】"
+    ]
+  },
+  "288": {
+    "word": "あらまほし",
+    "meanings": [
+      "①<span class='emp1'>好ましい</span> <span class='emp2'>望ましい</span>【有らまほし】"
+    ]
+  },
+  "289": {
+    "word": "かたし",
+    "meanings": [
+      "①<span class='emp1'>むずかしい</span> 困難だ 容易でない【難し】",
+      "②<span class='emp2'>まれだ</span> めったにない【難し】",
+      "③<span class='emp2'>～(し)にくい</span> ～(する)のがむずかしい【難し】",
+      "④厳重だ 堅固だ 厳格だ しっかりしている【堅し・固し】"
+    ]
+  },
+  "290": {
+    "word": "さらなり",
+    "meanings": [
+      "①<span class='emp1'>言うまでもない</span> <span class='emp2'>もちろんだ</span>【更なり】"
+    ]
+  },
+  "291": {
+    "word": "いかなり",
+    "meanings": [
+      "①<span class='emp1'>どうだ</span> <span class='emp2'>どのようだ</span> <span class='emp2'>どんなだ</span> どんなわけだ【如何なり】"
+    ]
+  },
+  "292": {
+    "word": "つゆ",
+    "meanings": [
+      "①<span class='emp1'>わずか(なもの)</span> <span class='emp2'>はかないもの</span>【露】",
+      "②<span class='emp2'>全く</span> <span class='emp2'>少しも</span>【露】"
+    ]
+  },
+  "293": {
+    "word": "よろづ",
+    "meanings": [
+      "①<span class='emp1'>すべて</span> 様ざま【万】",
+      "②<span class='emp2'>何事につけて</span> すべて【万】"
+    ]
+  },
+  "294": {
+    "word": "おほかた",
+    "meanings": [
+      "①<span class='emp1'>だいたい</span> 普通 多く(は)【大方】",
+      "②<span class='emp1'>全然</span> 少しも【大方】",
+      "④<span class='emp2'>そもそも</span> だいたい【大方】"
+    ]
+  },
+  "295": {
+    "word": "あらまし",
+    "meanings": [
+      "①<span class='emp1'>予想</span> <span class='emp1'>予定</span> <span class='emp2'>期待</span> 計画"
+    ]
+  },
+  "296": {
+    "word": "ただ・ただなり",
+    "meanings": [
+      "①<span class='emp1'>直接</span> まっすぐ【直】",
+      "②<span class='emp2'>すぐに</span> すぐ近くに【直】",
+      "③<span class='emp2'>ちょうど</span> <span class='emp2'>まるで</span> <span class='emp2'>ただ</span> 単に ひたすら【只・徒・唯】",
+      "④<span class='emp1'>普通だ</span> むだだ【只なり・徒なり・唯なり】"
+    ]
+  },
+  "297": {
+    "word": "さ",
+    "meanings": [
+      "①<span class='emp1'>そう</span> <span class='emp2'>そのように</span> その通り【然】"
+    ]
+  },
+  "298": {
+    "word": "かく・かう",
+    "meanings": [
+      "①<span class='emp1'>このように</span> <span class='emp2'>こう</span>【斯く・斯う】"
+    ]
+  },
+  "299": {
+    "word": "さて",
+    "meanings": [
+      "①<span class='emp1'>そのまま</span> そのような状態で【然て】",
+      "②<span class='emp2'>ほか</span> <span class='emp2'>それ以外</span>【然て】",
+      "③ところで さて【然て】"
+    ]
+  },
+  "300": {
+    "word": "さも",
+    "meanings": [
+      "①<span class='emp1'>いかにも</span> 全く【然も】",
+      "②<span class='emp2'>そのように</span> その通りに【然も】",
+      "③<span class='emp2'>それほど</span> たいして【然も】",
+      "④<span class='emp2'>そうも</span> そのようにも【然も】"
+    ]
+  },
+  "301": {
+    "word": "はた",
+    "meanings": [
+      "①<span class='emp1'>～もまた</span> また【将】",
+      "②<span class='emp1'>それでもやはり</span> そうはいうものの【将】",
+      "③それとも【将】"
+    ]
+  },
+  "302": {
+    "word": "よに",
+    "meanings": [
+      "①<span class='emp1'>たいそう</span> <span class='emp2'>実に</span>【世に】",
+      "②<span class='emp1'>決して</span> 全然【世に】"
+    ]
+  },
+  "303": {
+    "word": "さだめて",
+    "meanings": [
+      "①<span class='emp1'>きっと</span> 必ず【定めて】"
+    ]
+  },
+  "304": {
+    "word": "かつ",
+    "meanings": [
+      "①<span class='emp1'>一方では</span> <span class='emp2'>片方では</span>【且つ】",
+      "②<span class='emp2'>すでに</span> もう【且つ】",
+      "③<span class='emp2'>すぐに</span> ちょっと【且つ】"
+    ]
+  },
+  "305": {
+    "word": "いつしか",
+    "meanings": [
+      "①<span class='emp1'>早く</span> 早速【何時しか】",
+      "③いつ～か【何時しか】"
+    ]
+  },
+  "306": {
+    "word": "え",
+    "meanings": [
+      "①<span class='emp1'>～でき</span><span class='emp2'>(ない)</span> よう～(ない)【得】"
+    ]
+  },
+  "307": {
+    "word": "さらに",
+    "meanings": [
+      "①<span class='emp1'>決して</span> <span class='emp2'>全然</span> 全く【更に】",
+      "②<span class='emp2'>いっそう</span> <span class='emp2'>重ねて</span> 新たに【更に】"
+    ]
+  },
+  "308": {
+    "word": "ひねもす",
+    "meanings": [
+      "①<span class='emp1'>一日中</span> <span class='emp2'>終日</span>【終日・終日に】"
+    ]
+  },
+  "309": {
+    "word": "せめて",
+    "meanings": [
+      "①<span class='emp1'>無理に</span> <span class='emp2'>一心に</span>",
+      "②ひどく 痛切に"
+    ]
+  },
+  "310": {
+    "word": "かまへて",
+    "meanings": [
+      "①<span class='emp1'>何とかして</span> <span class='emp2'>心して</span> <span class='emp2'>きっと</span> 必ず【構へて】",
+      "②<span class='emp2'>決して</span> 絶対に【構へて】"
+    ]
+  },
+  "311": {
+    "word": "かけて",
+    "meanings": [
+      "①<span class='emp1'>心にかけて</span>",
+      "②<span class='emp2'>決して</span> 全然"
+    ]
+  },
+  "312": {
+    "word": "ゆめ",
+    "meanings": [
+      "①<span class='emp1'>決して</span> <span class='emp2'>全く</span> 絶対に【努・勤】"
+    ]
+  },
+  "313": {
+    "word": "たえて",
+    "meanings": [
+      "①<span class='emp1'>全く</span> <span class='emp2'>少しも</span> 全然【絶えて】",
+      "②<span class='emp2'>完全に</span> <span class='emp2'>特に</span> まことに【絶えて】"
+    ]
+  },
+  "314": {
+    "word": "をさをさ",
+    "meanings": [
+      "①<span class='emp1'>ほとんど</span> <span class='emp2'>めったに</span>"
+    ]
+  },
+  "315": {
+    "word": "な～(そ)",
+    "meanings": [
+      "①<span class='emp1'>～てくれるな</span> <span class='emp2'>～ないでくれ</span>"
+    ]
+  },
+  "316": {
+    "word": "よも",
+    "meanings": [
+      "①<span class='emp1'>まさか</span> 決して よもや",
+      "②よもや <span class='emp1'>まさか</span> 決して"
+    ]
+  },
+  "317": {
+    "word": "されば",
+    "meanings": [
+      "①<span class='emp1'>だから</span> <span class='emp2'>それゆえ</span>【然れば】",
+      "②<span class='emp2'>いったい</span> そもそも【然れば】",
+      "③ところで さて【然れば】"
+    ]
+  },
+  "318": {
+    "word": "さるは",
+    "meanings": [
+      "①<span class='emp1'>そうはいっても</span> <span class='emp2'>そのくせ実は</span>【然るは】",
+      "②<span class='emp2'>というのは</span> そういうわけで その上【然るは】"
+    ]
+  },
+  "319": {
+    "word": "ひとやりならず",
+    "meanings": [
+      "①<span class='emp1'>自分のせいで</span> <span class='emp2'>自ら求めて</span>【人遣りならず】"
+    ]
+  },
+  "320": {
+    "word": "かずならず",
+    "meanings": [
+      "①<span class='emp1'>取るに足りない</span> 物の数ではない【数ならず】"
+    ]
+  },
+  "321": {
+    "word": "えならず",
+    "meanings": [
+      "①<span class='emp1'>並たいていでない</span> <span class='emp2'>並一通りでない</span>【え成らず】",
+      "②<span class='emp2'>何とも言えないほどすばらしい</span>【え成らず】"
+    ]
+  },
+  "322": {
+    "word": "とあり",
+    "meanings": [
+      "①<span class='emp1'>ああだ</span>"
+    ]
+  },
+  "323": {
+    "word": "ねをなく",
+    "meanings": [
+      "①<span class='emp1'>声をあげて泣(鳴)く</span>【音を泣く・音を鳴く】"
+    ]
+  },
+  "324": {
+    "word": "われか",
+    "meanings": [
+      "①<span class='emp1'>正気を失った</span> 正体もない【我か】",
+      "②<span class='emp2'>自分のことか</span>【我か】"
+    ]
+  },
+  "325": {
+    "word": "さりぬべし",
+    "meanings": [
+      "①(そうであるのが)<span class='emp1'>適当だ</span> ふさわしい",
+      "②<span class='emp2'>それ相当だ</span> 立派だ"
+    ]
+  },
+  "326": {
+    "word": "やるかたなし",
+    "meanings": [
+      "①<span class='emp1'>(心の)晴らしようがない</span> <span class='emp2'>どうしようもない</span>【遣る方無し】"
+    ]
+  },
+  "327": {
+    "word": "せむかたなし",
+    "meanings": [
+      "①<span class='emp1'>どうしようもない</span> <span class='emp2'>我慢できない</span> 仕方がない【為む方無し】"
+    ]
+  },
+  "328": {
+    "word": "うち～",
+    "meanings": [
+      "①・②(｢うち～」は<span class='emp2'>強意・整調</span>) <span class='emp1'>口に出す</span> <span class='emp2'>出る</span> 出発する【打ち出づ】",
+      "③(｢うち～｣は<span class='emp1'>何気なく</span>・<span class='emp2'>ちょっと</span>の意味) <span class='emp1'>何気なく置く</span> <span class='emp2'>ちょっと置く</span> <span class='emp1'>ほうっておく</span>【打ち置く】",
+      "④(｢うち～｣は<span class='emp2'>はっと</span>の意味) <span class='emp1'>はっと目が覚める</span> <span class='emp1'>はっと気づく</span> はっと驚く【打ち驚く】",
+      "⑤(｢うち～｣は<span class='emp1'>すっかり</span>・<span class='emp2'>広く</span>の意味) <span class='emp1'>すっかり包み隠す</span> 広く行き渡らせる【打ち覆ふ】"
+    ]
+  },
+  "329": {
+    "word": "うら～",
+    "meanings": [
+      "<span class='emp1'>隠しだてしない</span> 裏表がない <span class='emp1'>無心だ</span> 安心してうっかりしている【うら無し】"
+    ]
+  },
+  "330": {
+    "word": "かき～",
+    "meanings": [
+      "(くどくどと)<span class='emp1'>繰り返し言う</span>【搔き口説く】",
+      "<span class='emp1'>悲しみで(心を)真っ暗にする</span> あたり一面暗くする <span class='emp1'>悲しみにくれる</span>【搔き暗す】"
+    ]
+  },
+  "331": {
+    "word": "こと～",
+    "meanings": [
+      "<span class='emp1'>別のほう</span> 違った所【異方】"
+    ]
+  },
+  "332": {
+    "word": "たち～",
+    "meanings": [
+      "<span class='emp1'>遅くなる</span> 遅れる <span class='emp1'>先立たれる</span> 劣る【立ち後る】"
+    ]
+  },
+  "333": {
+    "word": "そら～",
+    "meanings": [
+      "<span class='emp1'>うそ</span> <span class='emp1'>偽り</span>【虚言・空言】"
+    ]
+  },
+  "334": {
+    "word": "ほの～",
+    "meanings": [
+      "<span class='emp1'>かすかに聞く</span> それとなく聞く【仄聞く】"
+    ]
+  },
+  "335": {
+    "word": "つい～",
+    "meanings": [
+      "<span class='emp1'>さっとくぐる</span>【突い潜る】"
+    ]
+  },
+  "336": {
+    "word": "なま～",
+    "meanings": [
+      "<span class='emp1'>未熟な侍</span> <span class='emp1'>若侍</span>【生侍】"
+    ]
+  },
+  "337": {
+    "word": "もの～",
+    "meanings": [
+      "<span class='emp1'>何となくしみじみとした感じだ</span> 何となく哀しい【物哀れなり】"
+    ]
+  },
+  "338": {
+    "word": "もて～",
+    "meanings": [
+      "<span class='emp1'>もてあます</span> <span class='emp1'>世話をする</span> 取り扱う【もて扱ふ】"
+    ]
+  },
+  "339": {
+    "word": "～がり",
+    "meanings": [
+      "<span class='emp1'>妻(彼女・恋人)のもとへ</span>【妹許】"
+    ]
+  },
+  "340": {
+    "word": "～がまし",
+    "meanings": [
+      "<span class='emp1'>ひねくれている(ようだ)</span> <span class='emp2'>不自然だ</span> 変わっている【拗けがまし】"
+    ]
+  },
+  "341": {
+    "word": "～げ",
+    "meanings": [
+      "<span class='emp1'>ありそうな様子</span>〔名詞〕 <span class='emp1'>いかにもありそうな様子だ</span>〔形容動詞〕【有り気・有り気なり】"
+    ]
+  },
+  "342": {
+    "word": "～めく",
+    "meanings": [
+      "<span class='emp1'>好色めく</span> 色づく <span class='emp1'>色好みになる</span> 色気づく【色めく】"
+    ]
+  },
+  "343": {
+    "word": "～めかし",
+    "meanings": [
+      "<span class='emp1'>上流人らしく振る舞う</span> <span class='emp1'>上流人らしい</span> 上流人のようだ【上衆めかし】"
+    ]
+  },
+  "344": {
+    "word": "～だつ",
+    "meanings": [
+      "<span class='emp1'>恋心が表に現れる</span> <span class='emp2'>色恋じみる</span>【懸想だつ】"
+    ]
+  },
+  "345": {
+    "word": "～がてに",
+    "meanings": [
+      "<span class='emp1'>通り過ぎることができなくて</span> <span class='emp2'>行き過ぎかねて</span>【過ぎがてに】"
+    ]
+  },
+  "346": {
+    "word": "～かぬ",
+    "meanings": [
+      "<span class='emp1'>日を過ごしづらく思う</span> 暮らすに堪えがたく思う <span class='emp1'>暮らしかねる</span>【暮らしかぬ】"
+    ]
+  },
+  "347": {
+    "word": "～しろふ",
+    "meanings": [
+      "<span class='emp1'>言いあう</span> 語りあう <span class='emp2'>言い争う</span>【言ひしろふ】",
+      "(肩・膝などを)<span class='emp1'>つつきあう</span>【突きしろふ】"
+    ]
+  },
+  "348": {
+    "word": "～そむ",
+    "meanings": [
+      "<span class='emp1'>恋しく思い始める</span>【恋ひ初む】"
+    ]
+  },
+  "349": {
+    "word": "～どち",
+    "meanings": [
+      "<span class='emp1'>女性同士</span> 女性たち【女どち】",
+      "男性たち <span class='emp1'>男性同士</span>【男どち】"
+    ]
+  },
+  "350": {
+    "word": "～づから",
+    "meanings": [
+      "<span class='emp1'>自分の手で</span> <span class='emp1'>自分自身で</span>【手づから】"
+    ]
+  },
+  "351": {
+    "word": "～なす",
+    "meanings": [
+      "<span class='emp1'>ことさら言いたてる</span> <span class='emp2'>事実のように言う</span> 言いつくろう【言ひなす】"
+    ]
+  }
+}
