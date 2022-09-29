@@ -3,11 +3,9 @@ import json
 from flask import Flask, render_template, request, jsonify
 import aiohttp
 from lxml.html import fromstring
-from flask_lt import run_with_lt
 import random
 
 app = Flask(__name__)
-run_with_lt(app, subdomain="dacquoise")
 with open("database/gorogo_t2n.json", encoding="utf-8") as f:
     gorogo_t2n = json.load(f)
 with open("database/gorogo_n2t.json", encoding="utf-8") as f:

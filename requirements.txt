@@ -1,6 +1,5 @@
 aiohttp
 flask[async]
-flask_localtunnel
 lxml
 python-dotenv
 discord.py
