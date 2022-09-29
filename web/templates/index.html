@@ -9,13 +9,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 </head>
 <body>
+<script>
+    let mode = "{{ mode }}"
+</script>
+{# ----------- 検索ボタン ----------- #}
+{% if mode in ["kobun", "english"] %}
 <div class="search">
     <input type="text" id="keyword" placeholder="{{ word }}"/><i class="fa-solid fa-magnifying-glass"></i>
     <img id="loading" src="/static/images/loading.svg">
 </div>
-<script>
-    let mode = "{{ mode }}"
-</script>
+{% endif %}
 {# ----------- 追加ボタン ----------- #}
 {% if mode == "kobun" %}
 <div class="menu">
@@ -23,7 +26,7 @@
 </div>
 {% endif %}
 {% if mode == "kobun_list" %}
-<div class="menu">
+<div class="menu" style="margin-top: 20px;">
     <a class="click" id="change_s" style="background-color: deepskyblue;margin: 0 5px 20px 20px;">昇順</a>
     <a class="click" id="change_r" style="background-color: deepskyblue;margin: 0 5px 20px 5px;">ランダム</a>
     <input type="text" id="range" placeholder="例) 1-351" value="{{ raw_range }}"/>
