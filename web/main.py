@@ -14,6 +14,8 @@ with open("database/kakusin_db.json", encoding="utf-8") as f:
     kakusin = json.load(f)
 with open("database/kakusin_list.json", encoding="utf-8") as f:
     kakusin_list = json.load(f)
+with open("database/gogen.json", encoding="utf-8") as f:
+    gogen = json.load(f)
 
 
 @app.route("/")
@@ -87,19 +89,20 @@ async def complete():  # 自動補完用
         return jsonify([])
     mode = request.args.get('mode')
     query = request.args.get('query')
-    session = aiohttp.ClientSession()
     if mode == "english":  # 英単語
-        headers = {"X-Weblio-Turbo-CF": "y1fOhjQbsOSFxRdz"}
-        resp = await session.get(
-            f"https://ejje.weblio.jp/api/turbo/explanation?query={query}",
-            headers=headers
-        )
-        words = await resp.json(content_type=None)  # ignore text/javascript on decoding
-        await session.close()
-        return jsonify([{"label": word["lennma"], "category": word["explanationDescription"], "raw": word["lennma"]} for word in words])
+        # session = aiohttp.ClientSession()
+        # headers = {"X-Weblio-Turbo-CF": "y1fOhjQbsOSFxRdz"}
+        # resp = await session.get(
+        #     f"https://ejje.weblio.jp/api/turbo/explanation?query={query}",
+        #     headers=headers
+        # )
+        # words = await resp.json(content_type=None)  # ignore text/javascript on decoding
+        # await session.close()
+        # return jsonify([{"label": word["lennma"], "category": word["explanationDescription"], "raw": word["lennma"]} for word in words])
+        words = [{"label": key, "raw": key} for key in gogen.keys() if key.startswith(query)]
+        return jsonify(words)
     else:  # 古文単語
         words = [{"label": key, "raw": gorogo_t2n[key]} for key in gorogo_t2n.keys() if key.startswith(query)]
-        await session.close()
         return jsonify(words)
 
 
