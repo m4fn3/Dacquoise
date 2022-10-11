@@ -1,5 +1,5 @@
 import json
-
+import time
 from flask import Flask, render_template, request, jsonify
 import aiohttp
 from lxml.html import fromstring
@@ -51,12 +51,12 @@ async def index():
                     headers=headers
                 )
                 html = await resp.text()
+
                 results = fromstring(html).xpath("//script[@id = 'main-explanation']")
                 if results:
                     data = json.loads(results[0].text)
                     if "explanation" in data:
                         param["weblio"] = data["explanation"]["content"]
-
                 # gogen-edjから語源を取得
                 resp = await session.get(
                     f"https://gogen-ejd.info/{query}/"
@@ -107,4 +107,4 @@ async def complete():  # 自動補完用
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=80, debug=True)
+    app.run(host='0.0.0.0', port=80)

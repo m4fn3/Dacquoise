@@ -34,11 +34,11 @@
 {% endif %}
 {# ------------- 英単語 ------------- #}
 {% if weblio %}
-<h1 class="e_title">意味</h1>
+<h1 class="e_title"><a href="https://ejje.weblio.jp/content/{{ word }}" target="_blank">意味</a></h1>
 <p>{{ weblio }}</p>
 {% endif %}
 {% if gogen_edj %}
-<h1 class="e_title">語源</h1>
+<h1 class="e_title"><a href="https://gogen-ejd.info/{{word}}" target="_blank">語源</a></h1>
     <p>
     {% for text in gogen_edj[0] %}
         {{ text }}<br>
